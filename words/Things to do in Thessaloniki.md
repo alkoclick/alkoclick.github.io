@@ -87,9 +87,7 @@ Here's a selection of places you can choose from, based on where you will stay a
 * Zithos: An old tavern turned to a restaurant. They have a bunch of awards but their prices are still pretty normal. 2 locations - one in Ladadika and one near the White Tower.
 * Cookie Man: You will smell this place before you see it. Probably some of the best cookies you've had in your life. You'll find it near the "Agia Sophia" church.
 
-Much of the above in visual form: [here's this map I made for couchsurfers (also embedded below)](https://www.google.com/maps/d/edit?hl=en&mid=1UgZwGZ46QFlyQZgDTynFN1zoTsM&ll=40.623543134003505,22.948733600000004&z=14)
-<iframe src="https://www.google.com/maps/d/embed?mid=1UgZwGZ46QFlyQZgDTynFN1zoTsM&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
-
+Much of the above in visual form: [here's this map I made for couchsurfers](https://www.google.com/maps/d/edit?hl=en&mid=1UgZwGZ46QFlyQZgDTynFN1zoTsM&ll=40.623543134003505,22.948733600000004&z=14).
 
 Outside of Thessaloniki, but somewhat nearby:
 * in Vergina are the graves of Macedonian kings, including Philip, Alexander's father
