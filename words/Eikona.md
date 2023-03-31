@@ -1,0 +1,1 @@
+Eikona is a project which I started because [[KDD Photo Hosting Application]] yielded no great results. It can be found in [Github](https://github.com/alkoclick/eikona). It's a nice platform for me to stretch my backend muscles.
