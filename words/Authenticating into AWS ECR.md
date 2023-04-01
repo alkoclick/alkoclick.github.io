@@ -1,3 +1,4 @@
+# Authenticating into AWS ECR
 Authentication command: 
 `$(aws-vault exec PROFILENAME -- aws ecr get-login-password)`
 

@@ -1,3 +1,4 @@
+# Terraform code to blow up when running in default workspace
 ```terraform
 data "external" "no_default_workspace" {
   # This little program will blow up at plan time if you try to run a plan in the default workspace

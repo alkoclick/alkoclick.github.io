@@ -1,3 +1,4 @@
+# Travel
 Travel is good. I do it a lot. Here's my main platforms. See also [[Trip Ideas]]
 
 ## Accommodation

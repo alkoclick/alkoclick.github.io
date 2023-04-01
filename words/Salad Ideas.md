@@ -1,3 +1,4 @@
+# Salad Ideas
 Salad ingredients to consider:
 * Quinoa
 * Rice

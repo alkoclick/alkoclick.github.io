@@ -1,4 +1,5 @@
 # Things to do in Thessaloniki
+# Things to do in Thessaloniki
 
 *Aerial view of Thessaloniki in 2006, Wikimedia Commons*
 ![](https://upload.wikimedia.org/wikipedia/commons/f/fe/Salonica-view-aerial2.jpg)

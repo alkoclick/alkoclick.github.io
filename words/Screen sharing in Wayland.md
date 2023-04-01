@@ -1,3 +1,4 @@
+# Screen sharing in Wayland
 In my [[Ubuntu]] 21.10 which uses Wayland, by default screen sharing through Brave didn't work. You need to enable the following switch: 
 
 `brave://flags/#enable-webrtc-pipewire-capturer`

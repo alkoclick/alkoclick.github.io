@@ -1,3 +1,4 @@
+# CFP Ideas
 1. Crossing the bridge from junior to senior by talking to people
 	* Talk & listen
 	* Processes, documenting them and automating them

@@ -1,3 +1,4 @@
+# Hinduism 101
 I'm obviously very, very far from even knowing the basics here, but these are my notes for building my understanding
 
 * Not a single unified concept

@@ -1,3 +1,4 @@
+# Systemic Design
 There are many stories like it, but Theodore Sturgeon's 1941 story "Microcosmic God" goes a bit like this: A lone inventor named Kidder who enjoys creating things, is frustrated at humanity's slow innovation pace. He builds a generation of small creatures named "Neoterics" that create various inventions. A lot of things happen and eventually the Neoterics become more advanced than humanity and outlive their creator and god.
 
 Kidder, like others, has designed a... ![[System]]

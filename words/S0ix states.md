@@ -1,3 +1,4 @@
+# S0ix states
 _S0ix-states_ represent the residency in the Intel® SoC idle standby power states. The S0ix states shut off parts of the SoC when they are not in use, while still maintaining optimal performance. These states are triggered when specific conditions within the SoC have been achieved, for example, when certain components are in low power states.
 
 From an ACPI-compatible-OS point of view (see [[ACPI Power States]]), S0ix is an idle condition while still in “S0 active” state.

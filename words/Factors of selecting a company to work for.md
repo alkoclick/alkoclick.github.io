@@ -1,3 +1,4 @@
+# Factors of selecting a company to work for
 
 * Neither the company's actions, nor their product's primary uses violate more of [[My values]] than they support
 * The company has an internal code of conduct and a process for reporting and enforcing violations, preferably with optional 3rd party involvement

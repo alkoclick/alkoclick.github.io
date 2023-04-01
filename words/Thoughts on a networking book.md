@@ -1,3 +1,4 @@
+# Thoughts on a networking book
 > It can be difficult to define a close relation and how you technically build it. But a simple and good
 guiding principle can be this VCP composition:
 > 1) Visibility. You have to be visible. People need to know who you are.

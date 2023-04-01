@@ -1,3 +1,4 @@
+# My values
 This is an exploration of what a value system that I follow would look like
 
 * Fairness and equality, with an understanding that these concepts exist in a continuum, where past injustices affect present inequalities

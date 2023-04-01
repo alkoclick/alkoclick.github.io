@@ -1,3 +1,4 @@
+# Count words command in Obsidian
 ```bash
 fd -c never -0 .*\.md | wc -w --files0-from=-
 ```

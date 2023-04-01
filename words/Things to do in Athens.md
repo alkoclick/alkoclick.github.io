@@ -1,3 +1,4 @@
+# Things to do in Athens
 
 * Acropolis (Prefer the first Sunday of the month because it's free then)
 * Acropolis Museum

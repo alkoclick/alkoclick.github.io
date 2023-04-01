@@ -1,3 +1,4 @@
+# The Analog city and the digital city
 https://www.thenewatlantis.com/publications/the-analog-city-and-the-digital-city
 
 I stumbled on this from [[Cassidy Williams]]'s [newsletter](https://buttondown.email/cassidoo/archive/even-if-youre-on-the-right-track-youll-get-run/)

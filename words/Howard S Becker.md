@@ -1,3 +1,4 @@
+# Howard S Becker
 Laid a lot of the foundation of commitment theory. See [[Why people make commitments]].
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Howard-S.-Becker-EHESS.JPG/480px-Howard-S.-Becker-EHESS.JPG)
