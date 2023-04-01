@@ -1,5 +1,3 @@
-### 11 years ago, on this day
-
 _Unknown original post date - Pre 2020_
 
 Hello cool kids!
