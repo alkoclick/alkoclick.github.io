@@ -1,4 +1,9 @@
 theme: minima
+title: Alkoclick's blog
+author:
+  name: alkoclick
+  email: alkoclick@gmail.com
+description: These are public thoughts from my Obsidian knowledge base, as well as any articles I have written
 minima:
   skin: auto
   social_links:
