@@ -1,4 +1,3 @@
-# Going through changes
 The title reference to a song that Spotify keeps recommending to me
 
 [[2021-12-21]]

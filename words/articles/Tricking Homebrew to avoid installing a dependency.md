@@ -1,4 +1,3 @@
-# Tricking Homebrew to avoid installing a dependency
 ### Tricking [[Homebrew]] to avoid installing a dependency
 [[2021-12-11]]
 

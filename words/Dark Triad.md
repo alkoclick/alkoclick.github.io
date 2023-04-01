@@ -1,4 +1,3 @@
-# Dark Triad
 [Dark triad](https://en.wikipedia.org/wiki/Dark_triad)
 
 > Three antisocial personality traits: narcissism, Machiavellianism, and psychopathy

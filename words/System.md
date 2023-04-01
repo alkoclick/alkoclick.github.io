@@ -1,4 +1,3 @@
-# System
 The term system is pretty overloaded. I'll define it as:
 
 > A system is a set of rules, agreements and relationships that allow individual parts to produce a result

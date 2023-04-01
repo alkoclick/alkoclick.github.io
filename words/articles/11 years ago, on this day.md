@@ -1,4 +1,3 @@
-# 11 years ago, on this day
 ### 11 years ago, on this day
 
 _Unknown original post date - Pre 2020_

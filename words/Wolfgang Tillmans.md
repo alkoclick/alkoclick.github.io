@@ -1,4 +1,3 @@
-# Wolfgang Tillmans
 Wolfgang Tillmans is a German photographer. He has taken many pictures which are now considered cultural landmarks, especially around 80s and 90s counter culture.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/65/Tillmans_crop.jpg)

@@ -1,4 +1,3 @@
-# Natalie J Allen
 Psychology professor in a London (Western Ontario :D) university
 
 https://www.researchgate.net/profile/Natalie-Allen-3

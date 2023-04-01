@@ -1,4 +1,3 @@
-# Lemonade recipe
 New recipe
 
 1 to 3 lemon juice to water

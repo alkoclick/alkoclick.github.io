@@ -1,4 +1,3 @@
-# Things to do in Peloponisos
 ## Museums
 
 #### Pylos

@@ -1,4 +1,3 @@
-# A short introduction
 Written as a way to make sure that [[VanMoof]] peeps who clicked on my stuff got a good intro.
 
 [[2022-01-14]]

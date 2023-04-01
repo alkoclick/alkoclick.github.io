@@ -1,4 +1,3 @@
-# ACPI Power States
 Originally retrieved from: http://acpi.sourceforge.net/documentation/sleep.html
 
 #linux #ubuntu 

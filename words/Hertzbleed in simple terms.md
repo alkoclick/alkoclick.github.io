@@ -1,4 +1,3 @@
-# Hertzbleed in simple terms
 * CPUs regulate themselves, to run at their optimal frequency
 * If a hard computation is going on, the CPU will bounce around (a bit higher and lower) its optimal operating point, and dynamically adjust itself. This may make it take longer to finish.
 * Thus, any method of encryption that is vulnerable to a power analysis, is actually vulnerable to a timing analysis as well

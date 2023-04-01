@@ -1,4 +1,3 @@
-# Ethical OS Framework
 Available at: https://ethicalos.org/wp-content/uploads/2018/08/Ethical-OS-Toolkit.pdf
 
 Scenarios in tool 1 are really cool. Could I somehow discuss them with colleagues?

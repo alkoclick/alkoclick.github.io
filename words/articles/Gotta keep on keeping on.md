@@ -1,4 +1,3 @@
-# Gotta keep on keeping on
 ### Gotta keep on keeping on
 
 [[2021-02-22]]

@@ -1,4 +1,3 @@
-# Homebrew
 Git-based package manager, built on Ruby. Originally built for Mac, Homebrew also runs on Linux. The port used to be called Linuxbrew but is now named just Homebrew as well.
 
 There are some interesting GH issues where the impact of Homebrew on Github servers is analyzed. It is brought up that as many as 10 dedicated servers are needed just to keep up with Homebrew's traffic! One of the interesting observations in that thread is also that deep git clones are actually less costly than shallow clones.

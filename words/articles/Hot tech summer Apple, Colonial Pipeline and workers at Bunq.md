@@ -1,4 +1,3 @@
-# Hot tech summer Apple, Colonial Pipeline and workers at Bunq
 ### Hot tech summer: Apple, Colonial Pipeline and workers at Bunq
 [[2021-09-12]]
 

@@ -1,4 +1,3 @@
-# application.desktop files
 Used in most Linux distros, including Arch, [[Ubuntu]], Mint
 
 They often live in `~/.local/share/applications/`

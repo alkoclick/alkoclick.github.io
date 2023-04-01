@@ -1,4 +1,3 @@
-# Obsidian Daily Notes - Journaling
 Yes, it is easy to have them. There are [templates](https://forum.obsidian.md/t/a-template-for-daily-notes/15619) and [plugins](https://help.obsidian.md/Plugins/Daily+notes) and whatever else. But what's the point and value obtained? Are they for planning ahead, or for retrospecting. Let's collect some thoughts
 
 ## Planning Ahead

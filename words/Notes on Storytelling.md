@@ -1,4 +1,3 @@
-# Notes on Storytelling
 This is while following along with Tom van der Linden's course on Nebula titled [How to analyze stories and enrich your own](https://nebula.tv/how-to-analyze-stories)
 
 

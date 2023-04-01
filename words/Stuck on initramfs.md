@@ -1,4 +1,3 @@
-# Stuck on initramfs
 This can happen due to corrupt partitions on your drive
 
 Your best bet to actually see the error is to start by trying `exit`

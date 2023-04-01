@@ -1,4 +1,3 @@
-# The next best thing
 ### The next best thing
 
 _Unknown original post date - Pre 2020_

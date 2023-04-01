@@ -1,4 +1,3 @@
-# Isabel Pisano
 https://es.wikipedia.org/wiki/Isabel_Pisano
 
 > En su carrera como actriz fue dirigida por cineastas argentinos (_[Boquitas pintadas](https://es.m.wikipedia.org/wiki/Boquitas_pintadas_(pel%C3%ADcula) "Boquitas pintadas (película)")_ de [Leopoldo Torre Nilsson](https://es.m.wikipedia.org/wiki/Leopoldo_Torre_Nilsson "Leopoldo Torre Nilsson")), españoles (_[Pampa salvaje](https://es.m.wikipedia.org/wiki/Pampa_salvaje "Pampa salvaje")_ de [Hugo Fregonese](https://es.m.wikipedia.org/wiki/Hugo_Fregonese "Hugo Fregonese"), _[Bilbao](https://es.m.wikipedia.org/wiki/Bilbao_(pel%C3%ADcula) "Bilbao (película)")_ de [Bigas Luna](https://es.m.wikipedia.org/wiki/Bigas_Luna "Bigas Luna")) e italianos (por ejemplo, por [Federico Fellini](https://es.m.wikipedia.org/wiki/Federico_Fellini "Federico Fellini") en _[Casanova](https://es.m.wikipedia.org/wiki/Casanova_(pel%C3%ADcula_de_1976) "Casanova (película de 1976)")_).

@@ -1,4 +1,3 @@
-# K3s fails to renew certificates
 Retrieved from: https://www.ibm.com/support/pages/node/6444205 on [[2022-03-05]]. Keeping here because I'm pretty sure it'll disappear eventually.
 
 ---

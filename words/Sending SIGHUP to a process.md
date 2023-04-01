@@ -1,4 +1,3 @@
-# Sending SIGHUP to a process
 `kill -1 PID_HERE`
 
 Full table of signals:

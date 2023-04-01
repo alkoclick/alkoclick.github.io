@@ -1,4 +1,3 @@
-# Meaning
 Lately I've been thinking about finding more meaningful experiences. But I don't even know what meaning is. 
 
 What is meaning to me? Something to discover later

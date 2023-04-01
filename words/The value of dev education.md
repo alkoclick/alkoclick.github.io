@@ -1,2 +1,1 @@
-# The value of dev education
 One spends days creating docs, maps and diagrams, so that people can consume them in minutes. Those same people will then save minutes off an incident, days of a refactoring, or months of planning.

@@ -1,4 +1,3 @@
-# AMD PMC issues in Lenovo Thinkbook s13
 #ubuntu #linux 
 
 Trying to get suspend and hibernate working on my [[Lenovo Thinkbook s13]]

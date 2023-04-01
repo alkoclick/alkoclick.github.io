@@ -1,4 +1,3 @@
-# Terraform
 Terraform is an [[Infrastructure as Code]] tool that uses Declarative Configuration in HCL (Hashicorp Markup Language)
 
 ## Parallelism

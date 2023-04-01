@@ -1,4 +1,3 @@
-# You are my muse and I mean that not as compliment
 It's been a while since the last one, hasn't it? And yet, not much feels different, at least not for me. You know, all good "content creator" and "influencer" guides will teach you that you have to stick to a cadence and train the audience on it. The crucial mistake those guides do is assume I want to build an audience (so I can monetize it of course) rather than commit thoughts to digital paper in the hopes of exiling them from my head.
 
 We're still in a pandemic, though we learned to look the other way. We still got some forever wars ravaging the globe ([donate to Ukraine btw](https://docs.google.com/spreadsheets/d/1QJ1m6N9dXa3z0sGHKDYNd1salhxaI72pDbVeY4gBShE/htmlview#)). Crypto is still [full of grift](https://web3isgoinggreat.com/), though much of the techbro ecosystem around is pivoting to AI grift. Business as usual.

@@ -1,4 +1,3 @@
-# Kelsey Hightower
 Kelsey is a really "dope" (one of his trademark words) person who mainly does DevOps stuff. Kelsey comes from a humble background and has run the entire gamut from doing physical IT to leading Google's cloud strategy.
 
 ![Kelsey Hightower - devopsdays Atlanta 2017](https://img.search.brave.com/uuncACIIlxUrnvfSCM9YYfirDquegpc-O2TCKddUCf0/rs:fit:400:400:1/g:ce/aHR0cHM6Ly9kZXZv/cHNkYXlzLm9yZy9l/dmVudHMvMjAxNy1h/dGxhbnRhL3NwZWFr/ZXJzL2tlbHNleS1o/aWdodG93ZXIuanBn)

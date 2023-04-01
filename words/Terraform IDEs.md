@@ -1,4 +1,3 @@
-# Terraform IDEs
 There's a few threads across the net on how to run [[Terraform]], but basically everyone is in one of the following:
 * JetBrains
 * VsCode

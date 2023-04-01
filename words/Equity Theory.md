@@ -1,4 +1,3 @@
-# Equity Theory
 # Equity theory
 
 A well functioning group will try to distribute resources fairly to keep everyone happy

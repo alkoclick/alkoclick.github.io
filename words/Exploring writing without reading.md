@@ -1,4 +1,3 @@
-# Exploring writing without reading
  Usually when we write, we also instantly read the product of our thought. Right now, I'm typing in bed on my Moonlander and I am exploring not really looking at the screen. To be fair, I'm still looking at it every now and then, kind of how like if you close your eyes and walk on the street you open them every few steps to make sure you're not gonna hit anyone. I feel tense, maybe it's the keyboard, maybe it's the experience
 
 When I was a kid I tried to write down my train of thought sometimes. Also when I was a teenager too. The exercise often fell flat , mainly because writing down thoughts tended to be slower than thinking, and I would read what I had written and get to a new thought, then fail to explore that before the next one came along. Is this a limitation of typing speed? Of writing in general?

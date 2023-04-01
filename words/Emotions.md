@@ -1,4 +1,3 @@
-# Emotions
 http://atlasofemotions.org/
 
 ## Timeline

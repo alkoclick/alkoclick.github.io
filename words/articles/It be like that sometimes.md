@@ -1,4 +1,3 @@
-# It be like that sometimes
 ### It be like that sometimes
 
 _Unknown original post date - Pre 2020_
