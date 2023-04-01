@@ -34,7 +34,16 @@ jobs:
           ---\
           layout: post\
           ---\
-          ' '{}' +
+          ' '{}' + && mv words _posts
+      - name: Convert README to about
+        run: mv README.md ABOUT.md
+      - name: Add home page
+        run: |
+          cat "
+          ---\
+          layout: home\
+          ---\
+          " > index.md
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Build with Jekyll
