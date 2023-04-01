@@ -38,10 +38,7 @@ jobs:
       - name: Convert README to about and move words to _posts
         run: mv README.md about.md && mv words _posts
       - name: Add home page
-        run: |
-          echo -e "---\nlayout: home\n---\n\n" > index.md
-          sed -i "1i---\nlayout: page\n---\n\n" about.md
-          sed -i "1i---\nlayout: page\n---\n\n" compensation.md
+        run: 'echo -e "---\nlayout: home\n---\n\n" > index.md'
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Build with Jekyll
