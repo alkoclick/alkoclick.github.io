@@ -14,6 +14,8 @@ Later in his career, Tillmans switched to controlling the development process mo
 
 ![](https://i1.wp.com/saramunari.blog/wp-content/uploads/2016/12/maureen-paley-wolfgang-tillmans-artwork-i-dont-want-to-get-over-you-2000.jpg)
 
+## Abstractions and chemicals
+
 Eventually he made sets of pictures that were entirely created by exposing photographic paper to various sources of light in a dark room, then also controlling and introducing various objects and agents in the chemical mix of the development process. The end results looked like this:
 
 ![](https://d5wt70d4gnm1t.cloudfront.net/media/a-s/articles/3314-977581675158/interview-wolfgang-tillmans-classic-photography-seemed-so-remote-so-irrelevant-to-me-it-just-ORIG.jpg)
