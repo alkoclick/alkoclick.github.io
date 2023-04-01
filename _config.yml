@@ -1,4 +1,4 @@
-remote_theme: minima
+theme: minima
 minima:
   skin: auto
   social_links:
