@@ -1,5 +1,3 @@
-### I probably should find a title for this
-
 _Unknown original post date - Pre 2020_
 
 Hey cool kids!

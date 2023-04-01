@@ -1,5 +1,3 @@
-### Everything is going wrong, but we’re so happy
-
 [[2021-01-14]]
 
 ![](https://cdn-images-1.medium.com/max/800/0*t_V1ckqNRjRFuV1w)

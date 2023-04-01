@@ -1,5 +1,3 @@
-### While the world was at war…
-
 [[2020-03-16]]
 
 Yeah, it’s been quite a time.

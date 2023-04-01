@@ -1,5 +1,3 @@
-### Gotta keep on keeping on
-
 [[2021-02-22]]
 
 As the endless pandemic drags on, the words of a loving parent come to mind: “Life sucks. And then you die”.

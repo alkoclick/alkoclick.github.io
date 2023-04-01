@@ -1,4 +1,3 @@
-## It’s going down, I’m yelling Timber
 [[2021-05-08]]
 
 

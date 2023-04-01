@@ -1,5 +1,3 @@
-### Plotting sparse Prometheus data in Grafana without missing values
-
 [[2021-02-07]]
 
 ![](https://cdn-images-1.medium.com/max/800/1*m5SK0B1vTdUnYcX_Dtk9wA.png)

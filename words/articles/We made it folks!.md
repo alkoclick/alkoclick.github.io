@@ -1,5 +1,3 @@
-### We made it folks!
-
 _Unknown original post date - Pre 2020_
 
 Hello there, Cool Kids!

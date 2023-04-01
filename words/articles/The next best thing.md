@@ -1,5 +1,3 @@
-### The next best thing
-
 _Unknown original post date - Pre 2020_
 
 Hey Cool Kids! In case you haven’t noticed, we now have beautiful markdown instead of cranky email clients!

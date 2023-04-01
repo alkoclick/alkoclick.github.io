@@ -1,5 +1,3 @@
-### Getting started with defensive security: Where and how can it be done?
-
 [[2021-01-18]]
 
 ![](https://cdn-images-1.medium.com/max/800/0*nfF-HHwOaDlpW8QU)

@@ -1,4 +1,3 @@
-### Tricking [[Homebrew]] to avoid installing a dependency
 [[2021-12-11]]
 
 ![](https://cdn-images-1.medium.com/max/800/0*ZbKd2-BKD5Okj2Jp)

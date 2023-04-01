@@ -1,5 +1,3 @@
-### Playing with the Dark (language) and Gradle configuration caching
-
 [[2021-05-07]]
 
 ![](https://cdn-images-1.medium.com/max/800/0*RkcoUsrX-mFMJ8mZ)

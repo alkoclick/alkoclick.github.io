@@ -1,5 +1,3 @@
-### It be like that sometimes
-
 _Unknown original post date - Pre 2020_
 
 Hey cool kids!

@@ -1,5 +1,3 @@
-### Is this the life, the one you imagined?
-
 [[2021-01-08]]
 
 ![](https://cdn-images-1.medium.com/max/800/0*-WHlYDdsSZYtt8Kf)
