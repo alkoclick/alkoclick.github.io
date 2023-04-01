@@ -1,9 +1,10 @@
-# About Alkoclick
+# About
 
 Hi there 👋
 
-## Intro
-I'm Alexandros Papageorgiou Koufidis, a DevOps-focused software developer from Greece, currently living in Amsterdam. Besides creating good software, I believe in diversity of thoughts, bodies and minds, as an inclusive way to address the inequalities we face today and may face tomorrow. 
+## Summary
+I'm Alexandros Papageorgiou Koufidis, a DevOps-focused software developer from Greece, currently living in Amsterdam. 
+Besides creating good software, I believe in diversity of thoughts, bodies and minds, as an inclusive way to address the inequalities we face today and may face tomorrow. 
 
 ## Socials (he/him)
 - [@alkoclick on Hachyderm (Mastodon)](https://hachyderm.io/@alkoclick)
