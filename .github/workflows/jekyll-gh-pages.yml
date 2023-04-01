@@ -37,7 +37,7 @@ jobs:
           layout: post\
           title: {/.}\
           ---\
-          ' '{}' +
+          ' '{}'
       - name: Convert README to about
         run: mv README.md about.md
       - name: Add home page
