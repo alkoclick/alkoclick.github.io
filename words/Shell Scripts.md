@@ -1,4 +1,3 @@
-
 ## CLI tools list
 https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6
 
@@ -25,12 +24,21 @@ switch (uname)
 end
 ```
 
-## Sed to find and replace with newlines
+## GNU Sed (Ubuntu) to find and replace with newlines
 
 ```sh
 sed -i "s/ q /\nq /g" "VanMoof x EthicalOs.md"
 ```
 
+## BSD Sed (mac) to insert  content at first line
+```shell
+sed -i '' '1i\
+
+# Title
+  
+
+' 'filename.md'
+```
 
 ## Random string of length 30
 ```shell
