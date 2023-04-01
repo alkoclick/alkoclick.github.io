@@ -33,9 +33,8 @@ jobs:
           find words -maxdepth 2 -iname '*.md' -exec sed -i '1i\
           ---\
           layout: post\
-          title: {}
           ---\
-          ' '{}' + && mv words _posts
+          ' '{}' +
       - name: Convert README to about
         run: mv README.md about.md
       - name: Add home page
