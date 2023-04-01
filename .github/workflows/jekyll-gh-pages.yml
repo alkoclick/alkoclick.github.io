@@ -39,7 +39,7 @@ jobs:
         run: mv README.md ABOUT.md
       - name: Add home page
         run: |
-          cat "
+          echo "
           ---\
           layout: home\
           ---\
