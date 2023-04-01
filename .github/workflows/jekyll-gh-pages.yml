@@ -38,8 +38,10 @@ jobs:
           title: {/.}\
           ---\
           ' '{}'
-      - name: Convert README to about
-        run: mv README.md about.md
+      - name: Add dates to all post filenames
+        run: fdfind ".md" -x mv {} "{//}/2022-30-12-{/}"
+      - name: Convert README to about and move words to _posts
+        run: mv README.md about.md && mv words _posts
       - name: Add home page
         run: 'echo -e "---\nlayout: home\n---\n" > index.md'
       - name: Setup Pages
