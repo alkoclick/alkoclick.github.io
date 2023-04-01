@@ -30,17 +30,11 @@ jobs:
         uses: actions/checkout@v3
       - name: Install fdfind
         run: sudo apt-get update && sudo apt-get install fd-find
-      - name: Add font matter to posts
-        run: |
-          export DATE=$(date -I) && cd words && fdfind -e "md" -x sed -i "1i\
-          ---\
-          layout: post\
-          title: {/.}\
-          date: $DATE\
-          ---\
-          " '{}'
       - name: Add dates to all post filenames
-        run: cd words && fdfind -e "md" -x mv {} "{//}/2023-04-01-{/}"
+        run: |
+          export DATE=$(date -I)
+          cd words
+          fdfind -e "md" -x mv {} "{//}/$DATE-{/}"
       - name: Convert README to about and move words to _posts
         run: mv README.md about.md && mv words _posts
       - name: Add home page
