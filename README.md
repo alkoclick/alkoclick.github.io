@@ -1,5 +1,3 @@
-# About
-
 Hi there 👋
 
 ## Summary
