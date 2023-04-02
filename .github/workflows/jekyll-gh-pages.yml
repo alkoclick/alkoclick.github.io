@@ -36,7 +36,10 @@ jobs:
           cd words
           fdfind -e "md" -x mv {} "{//}/$DATE-{/}"
       - name: Convert README to about and move words to _posts
-        run: mv README.md about.md && mv words _posts
+        run: |
+          mv README.md about.md 
+          mv words _posts
+          echo -e "---\nlayout: page\ntitle: Salary Transparency\n---\n\n" > compensation.md
       - name: Add home page
         run: 'echo -e "---\nlayout: home\n---\n\n" > index.md'
       - name: Setup Pages

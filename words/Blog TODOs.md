@@ -3,4 +3,4 @@
 * Try to actually render the correct build time of pages
 * Fix the two pages to avoid the "double title" issue
 * Add some sort of search functionality
-* Get a domain
+* Get a domain. See also [[Domain ideas]]
