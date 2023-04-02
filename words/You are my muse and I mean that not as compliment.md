@@ -17,7 +17,7 @@ After VanMoof's fourth round of layoffs in a year, I also found my contract "les
 
 A short and sweet round of interviews landed me at [Miro](https://medium.com/miro-engineering), an organisation that I have been excited to join due to its ██████ and ███████. I especially love the ███████ tech they use to ████ ███ █.████. Did I mention that their social media policy is somewhat restrictive? Please don't take that negatively though ; please, I beg you, I am not allowed to engage in blogging that could tarnish the company's reputation.
 
-![View from Miro's office](view-from-miro-office.jpg)
+![View from Miro's office](../media/view-from-miro-office.jpg)
 
 Okay, unironically though, it is a super nice place to work at. The offices are cool, the people I meet and work with every day are some of the top I've met in my career. You can  check out our [careers](https://miro.com/careers/open-positions/) page. If you have the opportunity to work there I'd wholeheartedly recommend it! And if you want a piece of more factual evidence [here's my paycheck data](https://elk.zone/hachyderm.io/@alkoclick/109961691533243967).
 
