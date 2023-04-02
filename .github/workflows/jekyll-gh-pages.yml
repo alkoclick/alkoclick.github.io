@@ -43,7 +43,7 @@ jobs:
       - name: Convert Obsidian links to Markdown ones and fix media links
         run: |
           fdfind -e "md" -x sed -i -E 's/\[\[(.+)\]\]/[\1](.\/{{ "\1" | slugify }})/g' {}
-          fdfind -e "md" -x sed -i -E 's/\.\.\/media/\/media/g' {}
+          fdfind -e "md" -x sed -i -E 's/\.\.\/media/.\/media/g' {}
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Build with Jekyll
