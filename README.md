@@ -8,8 +8,9 @@ Besides creating good software, I believe in diversity of thoughts, bodies and m
 - [@alkoclick on Hachyderm (Mastodon)](https://hachyderm.io/@alkoclick)
 - [alkoclick.medium.com on Medium](https://alkoclick.medium.com/)
 - [alkoclick on LinkedIn](https://www.linkedin.com/in/alkoclick/)
+- [alkoclick.space (My blog)](https://alkoclick.space)
 
-![](https://github-readme-stats.vercel.app/api?username=alkoclick&show_icons=true&theme=solarized-light)
+![Me with orange hair in Barcelona](./media/profile-pic-2.jpg)
 
 ## Quick bio
 At 18, I started working various entry-level jobs. At 21, and while interning as a SysAdmin for my university I developed an app for hobby games sellers to automatically price their products based on various algorithms and strategies. 
