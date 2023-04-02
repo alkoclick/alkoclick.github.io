@@ -39,7 +39,7 @@ jobs:
         run: |
           mv README.md about.md 
           mv words _posts
-          echo -e "---\nlayout: page\ntitle: Salary Transparency\n---\n\n" > compensation.md
+          echo -e "---\nlayout: page\ntitle: Salary Transparency\n---\n\n" > tmp.md && cat compensation.md >> tmp.md && mv tmp.md compensation.md
       - name: Add home page
         run: 'echo -e "---\nlayout: home\n---\n\n" > index.md'
       - name: Setup Pages
