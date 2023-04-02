@@ -31,10 +31,7 @@ jobs:
       - name: Install fdfind
         run: sudo apt-get update && sudo apt-get install fd-find
       - name: Add dates to all post filenames
-        run: |
-          export DATE=$(date -I)
-          cd words
-          fdfind -e "md" -x mv {} "{//}/$DATE-{/}"
+        run: export DATE=$(date -I) && fdfind -e "md" . words -x mv {} "{//}/$DATE-{/}"
       - name: Convert README to about and move words to _posts
         run: |
           mv README.md about.md 

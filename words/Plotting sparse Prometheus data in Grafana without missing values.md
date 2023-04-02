@@ -61,3 +61,5 @@ This will work for a lot of the base cases, though not all. More specifically:
 To reiterate: this is by no means a perfect solution, but for many use cases, it will be good enough. The more you study and understand your data and these monitoring systems, the better you will get at configuring the right values.
 
 Happy plotting!
+
+#articles 

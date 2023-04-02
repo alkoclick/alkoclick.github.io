@@ -60,3 +60,5 @@ Now, you’ve probably already heard the news: [Jeff is stepping down as Amazon 
 I don’t know what note to close this on, so I’m going to leave you with one of the headline songs of the album I was just listening to: “[The Algorithm — Muse](https://www.youtube.com/watch?v=X8f5RgwY8CI)”. Oddly fitting, I find.
 
 P.S Wanna work for a pretty cool employer, writing open source code and developing a product that gives people control over their data? Check out Memri.io and [their job postings](https://memri.cloud/jobs), a former colleague let me know about them and I’m now assisting in their DevOps hiring process, so hit me up for a possible referral!
+
+#articles 

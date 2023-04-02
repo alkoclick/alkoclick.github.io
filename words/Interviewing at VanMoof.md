@@ -152,3 +152,5 @@ Article too long? Here are key points you can use:
 -   Never turn in your notice without a contract or offer letter in your inbox
 
 That’s all for now! Feel free to subscribe to my [Medium feed](https://alkoclick.medium.com/) for more tech content, or hit me up [on Twitter](https://twitter.com/alkoclick) for hot (or tbh lukewarm) takes
+
+#articles 

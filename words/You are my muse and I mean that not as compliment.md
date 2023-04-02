@@ -2,7 +2,8 @@ It's been a while since the last one, hasn't it? And yet, not much feels differe
 
 We're still in a pandemic, though we learned to look the other way. We still got some forever wars ravaging the globe ([donate to Ukraine btw](https://docs.google.com/spreadsheets/d/1QJ1m6N9dXa3z0sGHKDYNd1salhxaI72pDbVeY4gBShE/htmlview#)). Crypto is still [full of grift](https://web3isgoinggreat.com/), though much of the techbro ecosystem around is pivoting to AI grift. Business as usual.
 
-![[Pasted image 20230325192142.png]]
+![SVB Bank run mug](../../media/svb-bank-run.png)
+
 source: [https://journa.host/@jperlow/110073668988960096](https://journa.host/@jperlow/110073668988960096)
 
 The third once-in-a-lifetime crisis of my lifetime is at the gates! Banks are collapsing left and right, but none of their announcement managed to capture the feeling better than Silvergate, a bank whose chief editor seems to be allergic to negative words.
@@ -12,7 +13,7 @@ The third once-in-a-lifetime crisis of my lifetime is at the gates! Banks are co
 ## #wearemiro
 After VanMoof's fourth round of layoffs in a year, I also found my contract "less than renewed". Don't worry though, I wasn't the only one! The president was promoted to "consultant" for a short while which made me think of the following meme:
 
-![[Pasted image 20230325190355.png]]
+![[winnie-you-are-fired.png]]
 
 A short and sweet round of interviews landed me at [Miro](https://medium.com/miro-engineering), an organisation that I have been excited to join due to its ██████ and ███████. I especially love the ███████ tech they use to ████ ███ █.████. Did I mention that their social media policy is somewhat restrictive? Please don't take that negatively though ; please, I beg you, I am not allowed to engage in blogging that could tarnish the company's reputation.
 
@@ -51,3 +52,5 @@ YouTube still works as expected, that is if you expect it to [take down its own 
 Speaking of expired copyright, Winnie the Pooh's copyright has expired which led to exciting new projects such as "[Winnie the Pooh: Blood and Honey](https://www.youtube.com/watch?v=W3E74j_xFtg)". Hot on its heels comes "[Mad Heidi](https://www.youtube.com/watch?v=tjGIWcOrq-I)". Warning that both these trailers are kinda NSFW.
 
 You probably know by now that I am not very patient at writing these article endings. So, as a closing thought: here's the song that inspired this title: [You will see me by Scroobius Pip](https://www.youtube.com/watch?v=j0gNWUMl8t0). Maybe you will indeed see me in a couple of weeks again.
+
+#articles 

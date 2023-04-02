@@ -42,3 +42,5 @@ As you probably gather, facial recognition tools and technologies remain quite a
 On the plus side, DeepFake didn’t destroy society in 2020 as was originally feared, but could it just be that we were too busy? Either way, please don’t destroy AI yet, it’s made [my favourite meme](https://twitter.com/kendrictonn/status/1255497294746615808).
 
 Title: [The Wombats — Let’s Dance to Joy Division](https://www.youtube.com/watch?v=ayuooyWPEUc)!
+
+#articles 

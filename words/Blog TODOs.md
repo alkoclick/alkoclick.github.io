@@ -1,5 +1,4 @@
 Basic features:
-* Convert the page links of Obsidian to ones that actually work in the site
 * Get a domain. See also [[Domain ideas]]
 
 Optional, future:

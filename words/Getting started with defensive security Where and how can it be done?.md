@@ -111,3 +111,5 @@ Tool suggestion(s): [gitleaks](https://github.com/zricethezav/gitleaks)
 ### Closing words
 
 Hopefully this guide has illuminated some of the paths of security for you, or at least given you some useful ideas for tools to play with! Either way, have fun and don’t be the person who says: “We’ll add security later” ;)
+
+#articles 

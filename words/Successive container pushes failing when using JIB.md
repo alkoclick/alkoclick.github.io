@@ -98,3 +98,5 @@ This little adventure taught me a few important lessons:
 Thanks for making it to down here! This has been part 1 of 5 from my 5 days at Kubecon series, find the next parts here:
 
 [https://twitter.com/alkoclick/status/1526149072318611457](https://twitter.com/alkoclick/status/1526149072318611457)
+
+#articles 

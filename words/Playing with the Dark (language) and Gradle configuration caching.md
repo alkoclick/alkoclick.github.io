@@ -47,3 +47,5 @@ This is an incubating feature of Gradle that premiered in 6.5 (we’re in 6.8 at
 We care a lot about this in Thalatta, because we have a looot of modules (30+) and just making their graphs and configuring them takes up quite some time. However, a lot of the plugin ecosystem in Gradle does not yet support this feature. I run some tests in our build using `gradle --configuration-cache help` as a test command, but it appears something is defining a TaskExecutionListener or BuildListener, which blocks the config cache from running. I spent quite some time chasing that something, but could not find it. I suspect it's one of our plugin dependencies, because I could find no reference to any listener or hook in our code. According to the plugin docs, Java, Kotlin and Jacoco plugins are clear. I disabled Jib and semver, but the problem remained. It may be the application plugin, but I'd be honestly shocked if that's the case. Dunno about this one, should probably be put on hold for a while, then when it's stable we can try it again
 
 Hope you enjoyed these random, subjective, opinionated scribbles and I’d love to know any thoughts or feedback you have!
+
+#articles 

@@ -36,3 +36,5 @@ I was recently in another room (I do that a lot, it was before COVID really beca
 - “No, you see, if the software rejects an ID there is nothing we can do. I tried it 3 or 4 times, but it doesn’t let me”
 
 I was too amused to continue, because the story I was reading up while waiting was about [magic opaque algorithms humans can do nothing about](https://themarkup.org/ask-the-markup/2020/03/03/healthcare-algorithms-robot-medicine). I think I just told her I was making a presentation on the topic and laughed my way out. Great day, 10/10.
+
+#articles 

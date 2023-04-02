@@ -36,3 +36,5 @@ At 18, I started working various entry-level jobs. At 21, and while interning as
 -   I was a Magic:the Gathering judge and community leader, and served as Country Coordinator for Greece
 -   [This question](https://scifi.stackexchange.com/questions/226541/what-are-some-examples-of-lovecrafts-racism-in-his-published-short-stories) about whether we have written examples of H.P. Lovecraft’s racism, led me to turn vegan
 -   I have multiple accents of English and I switch between them based on context
+
+#articles 

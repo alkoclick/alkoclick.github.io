@@ -46,3 +46,5 @@ Apple noticed that hate and brought out the big guns — [a tweet](https://t
 P.S My article titles are often song lyrics. This one is kinda obscure, so here you go: [She Wants Revenge — Take The World](https://www.youtube.com/watch?v=zDz3sI4__nQ)
 
 Best wishes from my quarantine to yours
+
+#articles 
