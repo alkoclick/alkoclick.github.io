@@ -43,6 +43,8 @@ jobs:
           echo -e "---\nlayout: page\ntitle: About\n---\n\n" > tmp.md && cat about.md >> tmp.md && mv tmp.md about.md
       - name: Add home page
         run: 'echo -e "---\nlayout: home\n---\n\n" > index.md'
+      - name: Convert Obsidian links to Markdown ones
+        run: fd -e "md" -x sed -i "" -E "s/\[\[(.+)\]\]/[\1](.\/\1)/g" {}
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Build with Jekyll
