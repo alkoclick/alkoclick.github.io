@@ -3,7 +3,7 @@ One of my favorite ways that creative people communicate is by “working with t
 > 
 >I love this kind of communication personally, but I suspect it also creates more invested, interesting followings over the long term. That effect’s probably related to Working on niche, personally-meaningful projects brings weirder, more serendipitous inbounds. It’s also a way to avoid the problems described in Pitching out corrupts within.
 
-Retrieved from: https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu
+Retrieved from: [https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu)
 
 This is an interesting way to learn & educate, kinda like [[Learning in public]]
 

@@ -37,7 +37,7 @@ But what did Napster in? There was a public campaign against this primarily in t
 [The Family Guy reverse takedown](https://torrentfreak.com/fox-stole-a-game-clip-used-it-in-family-guy-dmcad-the-original-160520/)_  
 This week’s episode of Family Guy included a clip from 1980s Nintendo video game Double Dribble showing a glitch to get a free 3-point goal. Fox obtained the clip from YouTube where it had been sitting since it was first uploaded in 2009. Shortly after, Fox told YouTube the game footage infringed its copyrights. YouTube took it down._
 
-https://www.youtube.com/watch?v=KaOC9danxNo
+[https://www.youtube.com/watch?v=KaOC9danxNo](https://www.youtube.com/watch?v=KaOC9danxNo)
 
 The Starmen  
 Real astronaut Chris Hadfield [published to YouTube](https://www.youtube.com/watch?v=KaOC9danxNo) a cover of David Bowie “Space Oddity” shot in actual space. It’s massively cool, watch it. Sony hit his video with a DMCA and it was unpublished. David Bowie publicly requested a reversal of this decision, which happened just a few months before he passed away.
@@ -46,7 +46,7 @@ YouTube takes down your channel at 3 strikes, no questions asked. For some folks
 
 Which brings us to February 20, 2021
 
-https://twitter.com/Slasher/status/1362901765029527553
+[https://twitter.com/Slasher/status/1362901765029527553](https://twitter.com/Slasher/status/1362901765029527553)
 
 But on the bright side, [somebody created the classic game of snake](https://twitter.com/neilsardesai/status/1379185826920300545) in a new way, so there’s that I guess, right?
 
@@ -65,7 +65,7 @@ Btw, for all you thirsty code folks, here’s a nice command (for the life of me
 
 Okay I love this, and I know a few readers of this letter are ML enthusiasts which makes me love it even more.
 
-https://twitter.com/moyix/status/1367575109305794563
+[https://twitter.com/moyix/status/1367575109305794563](https://twitter.com/moyix/status/1367575109305794563)
 
 But alas, machine learning teens are not all there is. I know there are some of you with a deep affection for low-level languages, so at the end of all this, I’m going to leave you with [a beautiful file](https://github.com/jart/cosmopolitan/blob/667ab245fe0326972b7da52a95da97125d61c8cf/libc/sysv/consts.sh#L3543). Here’s a [short explanation of what those codes are](https://github.com/jart/cosmopolitan/tree/667ab245fe0326972b7da52a95da97125d61c8cf/libc/sysv). It was written by a Google engineer for whom, I read a few things and was quite impressed, then I read more things and was quite depressed (2020 in a nutshell), because apparently she made a petition to install the Google CEO as president of the US of A. Now that Nevada bill probably hits different, eh?
 

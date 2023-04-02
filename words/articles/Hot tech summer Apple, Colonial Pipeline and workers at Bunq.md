@@ -2,7 +2,7 @@
 
 If you’re like me, you probably sometimes step back and ask “_Why is that Alex dude writing a newsletter? He has 0 qualifications besides being a white tech guy with a lot of white tech guy confidence. He doesn’t even have an editor! Could I do the same?_”
 
-Well, for a brief, beautiful moment dear reader, you could: https://twitter.com/danhett/status/1402213743946256389
+Well, for a brief, beautiful moment dear reader, you could: [https://twitter.com/danhett/status/1402213743946256389](https://twitter.com/danhett/status/1402213743946256389)
 
 ### Far from the tree
 
@@ -22,7 +22,7 @@ But that’s not quite enough to call a bad summer is it? Alright, let’s add t
 
 Ok, back on topic, previously every single transaction in the Apple App Store (and inside apps) had to use Apple’s payment system, which took a 30% (!) cut. South Korea already forced Apple a few weeks ago to allow non-Apple payments for apps and now the road is open to have this done worldwide.
 
-https://twitter.com/ashleygjovik/status/1436513841072926721
+[https://twitter.com/ashleygjovik/status/1436513841072926721](https://twitter.com/ashleygjovik/status/1436513841072926721)
 
 Oh and there’s also the labor investigations! Ashley Gjøvik, a senior manager reported discrimination, harassment and retaliation in Apple, [and was… harassed and then fired](https://gizmodo.com/apple-fires-program-manager-who-accused-bosses-of-haras-1847649269) while the labor board investigation is still ongoing. Cher Scarlett, a senior engineer with the company has also reported similar experiences and kicked off another investigation, after she had tried to increase pay transparency by letting employees report and share their salaries internally. Despite this action being completely legal and blocking this action being completely illegal, her 2 previous surveys have been taken down with the third (and largest) being currently ongoing.
 
@@ -60,9 +60,9 @@ A vigilante crime app called “Citizen” (originally “Vigilante”) [put a 3
 
 Photo by [Alonso Reyes](https://unsplash.com/@alonsoreyes?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-https://twitter.com/levie/status/1411817734636138496
+[https://twitter.com/levie/status/1411817734636138496](https://twitter.com/levie/status/1411817734636138496)
 
-https://twitter.com/jack/status/1424854924194729984
+[https://twitter.com/jack/status/1424854924194729984](https://twitter.com/jack/status/1424854924194729984)
 
 ### Useful knowledge
 
@@ -78,7 +78,7 @@ Google has also launched 2 interesting new things in the meanwhile (probably mor
 
 And since we’re on the education train, here’s a far less evil company (everybody loves Figma afaik) explaining the origins of a fascinating bug traced back to 1977!
 
-https://twitter.com/figma/status/1395445717783613443
+[https://twitter.com/figma/status/1395445717783613443](https://twitter.com/figma/status/1395445717783613443)
 
 ### Workers in the bank of the free
 
@@ -98,4 +98,4 @@ I don’t have any beef with Bunq specifically and as with everything else, ther
 
 I’ll leave you with a song, which few people expected to be actually released after 11 years. “Black Sheep” is a classic song from the movie Scott Pilgrim vs the World _(though the best song title award in that album probably goes to “If we can put a man on the moon then surely I can win your heart”)._ This new release includes the authentic vocals by actress Brie Larson, who plays the character singing in the film, while the previous releases used a different singer.
 
-https://www.youtube.com/watch?v=1xcSDYy3Dl4
+[https://www.youtube.com/watch?v=1xcSDYy3Dl4](https://www.youtube.com/watch?v=1xcSDYy3Dl4)

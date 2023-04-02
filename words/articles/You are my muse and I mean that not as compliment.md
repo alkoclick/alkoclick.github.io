@@ -3,7 +3,7 @@ It's been a while since the last one, hasn't it? And yet, not much feels differe
 We're still in a pandemic, though we learned to look the other way. We still got some forever wars ravaging the globe ([donate to Ukraine btw](https://docs.google.com/spreadsheets/d/1QJ1m6N9dXa3z0sGHKDYNd1salhxaI72pDbVeY4gBShE/htmlview#)). Crypto is still [full of grift](https://web3isgoinggreat.com/), though much of the techbro ecosystem around is pivoting to AI grift. Business as usual.
 
 ![[Pasted image 20230325192142.png]]
-source: https://journa.host/@jperlow/110073668988960096
+source: [https://journa.host/@jperlow/110073668988960096](https://journa.host/@jperlow/110073668988960096)
 
 The third once-in-a-lifetime crisis of my lifetime is at the gates! Banks are collapsing left and right, but none of their announcement managed to capture the feeling better than Silvergate, a bank whose chief editor seems to be allergic to negative words.
 

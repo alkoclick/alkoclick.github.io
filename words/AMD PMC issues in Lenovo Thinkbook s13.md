@@ -8,7 +8,7 @@ Trying to use suspend from the [[ACPI Power States]] `systemctl suspend` (to be 
 Feb 12 12:04:47 alexbot-ThinkBook-13s systemd[1]: Finished GRUB failed boot detection.
 ░░ Subject: A start job for unit grub-initrd-fallback.service has finished successfully
 ░░ Defined-By: systemd
-░░ Support: http://www.ubuntu.com/support
+░░ Support: [http://www.ubuntu.com/support](http://www.ubuntu.com/support)
 ░░ 
 ░░ A start job for unit grub-initrd-fallback.service has finished successfully.
 ░░ 
@@ -31,9 +31,9 @@ Feb 12 12:04:53 alexbot-ThinkBook-13s kernel: pci 0000:00:00.2: PCI INT A: no GS
 
 Installed [[Powertop]] and calibrated, which took about 10m but all the "proper" switches were already set correctly. Didn't do much more with it and eventually uninstalled.
 
-I downloaded the updated 5.14 kernel that should have the hotfix: https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.14.21/amd64/
+I downloaded the updated 5.14 kernel that should have the hotfix: [https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.14.21/amd64/](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.14.21/amd64/)
 
-Still had the SMU timeout, so I tried to go to 5.15, which is what ubuntu 22.04 will use anyway: https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.15.23/amd64/
+Still had the SMU timeout, so I tried to go to 5.15, which is what ubuntu 22.04 will use anyway: [https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.15.23/amd64/](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.15.23/amd64/)
 
 In 5.15, on my first or second suspend I hit: `[amdgpu]] *ERROR* Error scheduling IBs`
 
@@ -55,7 +55,7 @@ Feb 12 13:04:41 alexbot-ThinkBook-13s kernel: amdgpu 0000:03:00.0: amdgpu: could
 
 ```
 
-https://bugs.launchpad.net/amd/+bug/1943633
+[https://bugs.launchpad.net/amd/+bug/1943633](https://bugs.launchpad.net/amd/+bug/1943633)
 
 After all of this, I had issues because suspend-then-hibernate would not engage properly: Suspend worked, but even with a 60s delay, it wouldn't go into hibernate. However, as soon as I opened the screen, it would immediately wake, then go into hibernate. Smh.
 

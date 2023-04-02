@@ -1,4 +1,4 @@
-Originally posted to Medium on [[2022-05-17]] at : https://medium.com/@alkoclick/using-kotlin-sealed-classes-to-map-out-a-domain-space-1e69c9ccd6e3. It ended up shared across some Kotlin and android publications and is one of my most popular posts on the platform
+Originally posted to Medium on [[2022-05-17]] at : [https://medium.com/@alkoclick/using-kotlin-sealed-classes-to-map-out-a-domain-space-1e69c9ccd6e3.](https://medium.com/@alkoclick/using-kotlin-sealed-classes-to-map-out-a-domain-space-1e69c9ccd6e3.) It ended up shared across some Kotlin and android publications and is one of my most popular posts on the platform
 
 ---
 

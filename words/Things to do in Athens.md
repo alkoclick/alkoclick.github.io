@@ -13,4 +13,4 @@ Food / Drinks
 * (If you're Alex): See starred places in GMaps for vegan choices
 
 Theater / Cinema
-* https://www.iathens.gr/
+* [https://www.iathens.gr/](https://www.iathens.gr/)

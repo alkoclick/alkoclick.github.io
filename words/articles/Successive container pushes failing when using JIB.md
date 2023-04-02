@@ -53,9 +53,9 @@ System.out.println(new GenericUrl(url3).toURL().toString());
 	
 prints
 
-http://example.com?query=string%2Fpart
-http://example.com?query=string/part
-http://example.com?query=string/part
+[http://example.com?query=string%2Fpart](http://example.com?query=string%2Fpart)
+[http://example.com?query=string/part](http://example.com?query=string/part)
+[http://example.com?query=string/part](http://example.com?query=string/part)
 ```
 
 
@@ -97,4 +97,4 @@ This little adventure taught me a few important lessons:
 
 Thanks for making it to down here! This has been part 1 of 5 from my 5 days at Kubecon series, find the next parts here:
 
-https://twitter.com/alkoclick/status/1526149072318611457
+[https://twitter.com/alkoclick/status/1526149072318611457](https://twitter.com/alkoclick/status/1526149072318611457)

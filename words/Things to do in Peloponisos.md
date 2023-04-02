@@ -16,7 +16,7 @@
 * There's an absolutely gorgeous archaeological site (they used to have games like the Olympics!), that's also not very busy
 
 #### Olive and olive oil museum
-* https://www.tripadvisor.com/Attraction_Review-g189489-d1953717-Reviews-Museum_of_the_Olive_and_Greek_Olive_Oil-Sparta_Sparta_Municipality_Laconia_Region.html
+* [https://www.tripadvisor.com/Attraction_Review-g189489-d1953717-Reviews-Museum_of_the_Olive_and_Greek_Olive_Oil-Sparta_Sparta_Municipality_Laconia_Region.html](https://www.tripadvisor.com/Attraction_Review-g189489-d1953717-Reviews-Museum_of_the_Olive_and_Greek_Olive_Oil-Sparta_Sparta_Municipality_Laconia_Region.html)
 
 
 ## Landscapes
@@ -64,17 +64,17 @@ I don't have the strongest opinion on the topic, as all beaches in the area are 
 * One of the most ancient theaters still in operation, has plays with greek and english supertitles
 
 #### Olive oil and honey tasting/teaching sessions
-* https://www.tripadvisor.com/AttractionProductReview-g8465230-d17533741-Olive_Tour_Tasting-Vastas_Arkadia_Region_Peloponnese.html
-* https://www.tripadvisor.com/AttractionProductReview-g8410369-d20188108-Live_oil_tour_tasting-Kato_Almiri_Corinthia_Region_Peloponnese.html
-* https://www.tripadvisor.com/AttractionProductReview-g285708-d19107525-Taste_the_best_Monemvasia_has_to_offer_wine_liquors_olive_oil_bee_honey-Monemvasia.html
+* [https://www.tripadvisor.com/AttractionProductReview-g8465230-d17533741-Olive_Tour_Tasting-Vastas_Arkadia_Region_Peloponnese.html](https://www.tripadvisor.com/AttractionProductReview-g8465230-d17533741-Olive_Tour_Tasting-Vastas_Arkadia_Region_Peloponnese.html)
+* [https://www.tripadvisor.com/AttractionProductReview-g8410369-d20188108-Live_oil_tour_tasting-Kato_Almiri_Corinthia_Region_Peloponnese.html](https://www.tripadvisor.com/AttractionProductReview-g8410369-d20188108-Live_oil_tour_tasting-Kato_Almiri_Corinthia_Region_Peloponnese.html)
+* [https://www.tripadvisor.com/AttractionProductReview-g285708-d19107525-Taste_the_best_Monemvasia_has_to_offer_wine_liquors_olive_oil_bee_honey-Monemvasia.html](https://www.tripadvisor.com/AttractionProductReview-g285708-d19107525-Taste_the_best_Monemvasia_has_to_offer_wine_liquors_olive_oil_bee_honey-Monemvasia.html)
 
 #### Rafting
-* https://www.tripadvisor.com/AttractionProductReview-g970271-d17430209-Rafting_Lousios_river-Dimitsana_Arkadia_Region_Peloponnese.html
+* [https://www.tripadvisor.com/AttractionProductReview-g970271-d17430209-Rafting_Lousios_river-Dimitsana_Arkadia_Region_Peloponnese.html](https://www.tripadvisor.com/AttractionProductReview-g970271-d17430209-Rafting_Lousios_river-Dimitsana_Arkadia_Region_Peloponnese.html)
 
 #### Biking on old rails going up to Megara
-* https://www.airbnb.gr/experiences/1492378?adults=4&checkin=2022-08-08&checkout=2022-08-18&location=%CE%A0%CE%B5%CE%BB%CE%BF%CF%80%CF%8C%CE%BD%CE%BD%CE%B7%CF%83%CE%BF%CF%82%20%CE%94%CF%85%CF%84%CE%B9%CE%BA%CE%AE%20%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%20%CE%BA%CE%B1%CE%B9%20%CE%99%CF%8C%CE%BD%CE%B9%CE%BF%2C%20%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1&currentTab=experience_tab&federatedSearchId=a4661251-a6d0-4fbf-89b3-2a898dee8159&searchId=&sectionId=f5909957-1d49-4f21-b7c1-7c6dd46aa7d5&source=p2
+* [https://www.airbnb.gr/experiences/1492378?adults=4&checkin=2022-08-08&checkout=2022-08-18&location=%CE%A0%CE%B5%CE%BB%CE%BF%CF%80%CF%8C%CE%BD%CE%BD%CE%B7%CF%83%CE%BF%CF%82%20%CE%94%CF%85%CF%84%CE%B9%CE%BA%CE%AE%20%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%20%CE%BA%CE%B1%CE%B9%20%CE%99%CF%8C%CE%BD%CE%B9%CE%BF%2C%20%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1&currentTab=experience_tab&federatedSearchId=a4661251-a6d0-4fbf-89b3-2a898dee8159&searchId=&sectionId=f5909957-1d49-4f21-b7c1-7c6dd46aa7d5&source=p2](https://www.airbnb.gr/experiences/1492378?adults=4&checkin=2022-08-08&checkout=2022-08-18&location=%CE%A0%CE%B5%CE%BB%CE%BF%CF%80%CF%8C%CE%BD%CE%BD%CE%B7%CF%83%CE%BF%CF%82%20%CE%94%CF%85%CF%84%CE%B9%CE%BA%CE%AE%20%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%20%CE%BA%CE%B1%CE%B9%20%CE%99%CF%8C%CE%BD%CE%B9%CE%BF%2C%20%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1&currentTab=experience_tab&federatedSearchId=a4661251-a6d0-4fbf-89b3-2a898dee8159&searchId=&sectionId=f5909957-1d49-4f21-b7c1-7c6dd46aa7d5&source=p2)
 
 #### Vineyards
-* https://www.tripadvisor.com/Attraction_Review-g1647621-d11815898-Reviews-Ktima_Bairaktaris-Nemea_Corinthia_Region_Peloponnese.html
-* https://www.tripadvisor.com/Attraction_Review-g844595-d4353402-Reviews-Domaine_Skouras_Winery-Argos_Argolis_Region_Peloponnese.html
-* https://www.tripadvisor.com/Attraction_Review-g189484-d14792459-Reviews-Giannikos_Winery-Corinth_Corinthia_Region_Peloponnese.html
+* [https://www.tripadvisor.com/Attraction_Review-g1647621-d11815898-Reviews-Ktima_Bairaktaris-Nemea_Corinthia_Region_Peloponnese.html](https://www.tripadvisor.com/Attraction_Review-g1647621-d11815898-Reviews-Ktima_Bairaktaris-Nemea_Corinthia_Region_Peloponnese.html)
+* [https://www.tripadvisor.com/Attraction_Review-g844595-d4353402-Reviews-Domaine_Skouras_Winery-Argos_Argolis_Region_Peloponnese.html](https://www.tripadvisor.com/Attraction_Review-g844595-d4353402-Reviews-Domaine_Skouras_Winery-Argos_Argolis_Region_Peloponnese.html)
+* [https://www.tripadvisor.com/Attraction_Review-g189484-d14792459-Reviews-Giannikos_Winery-Corinth_Corinthia_Region_Peloponnese.html](https://www.tripadvisor.com/Attraction_Review-g189484-d14792459-Reviews-Giannikos_Winery-Corinth_Corinthia_Region_Peloponnese.html)

@@ -1,4 +1,4 @@
-Thoughts triggered after watching "Is This Picture Worth 1,000 Words?" from TaleFoundry: https://nebula.tv/videos/talefoundry-is-this-picture-worth-1000-words
+Thoughts triggered after watching "Is This Picture Worth 1,000 Words?" from TaleFoundry: [https://nebula.tv/videos/talefoundry-is-this-picture-worth-1000-words](https://nebula.tv/videos/talefoundry-is-this-picture-worth-1000-words)
 
 ---
 

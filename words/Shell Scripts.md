@@ -1,9 +1,9 @@
 ## CLI tools list
-https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6
+[https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6)
 
 ## Check OS
 
-Fetched from: https://github.com/billdeitrick/dotfiles/blob/master/scripts/symlink.fish
+Fetched from: [https://github.com/billdeitrick/dotfiles/blob/master/scripts/symlink.fish](https://github.com/billdeitrick/dotfiles/blob/master/scripts/symlink.fish)
 ```sh
 switch (uname)
     case Darwin
@@ -11,7 +11,7 @@ switch (uname)
     case Linux
         set DOTFILE_SYMLINK_ROOT "/mnt/c/Users/$LOGNAME/dev/dotfiles"
 
-        # WSL detection inspired by https://stackoverflow.com/questions/38086185/how-to-check-if-a-program-is-run-in-bash-on-ubuntu-on-windows-and-not-just-plain
+        # WSL detection inspired by [https://stackoverflow.com/questions/38086185/how-to-check-if-a-program-is-run-in-bash-on-ubuntu-on-windows-and-not-just-plain](https://stackoverflow.com/questions/38086185/how-to-check-if-a-program-is-run-in-bash-on-ubuntu-on-windows-and-not-just-plain)
         if grep -qE "(Microsoft|WSL)" /proc/version
             set IS_SYMLINK_WSL 1
         else
@@ -38,6 +38,11 @@ sed -i '' '1i\
   
 
 ' 'filename.md'
+```
+
+## Make all links in the markdown style
+```shell
+fd -e "md" -x sed -i "" -E "s/(^| )(https?:[^ ]+)/\1[\2](\2)/g" {}
 ```
 
 ## Random string of length 30
