@@ -4,8 +4,6 @@
 
 In 2019, I was a technical student at CERN, working in the BE-ICS-TI section, which translates to "Beams -> Industrial ControlS -> Technical Infrastructure". In short, my team was working on the monitoring systems for the control systems that managed the main CERN beams. The accelerator was off during that time, and all the teams were hard at work evolving their systems.
 
--- Add pic here --
-
 Our team's backbone (and backend) was [C2MON](https://github.com/c2mon/c2mon), a Prometheus-like system for monitoring DAQs (Data Acquisition Systems) and PLCs (Programmable Logic Controllers) and producing events for consumers via a Message Queue architecture. C2MON had a pretty complex, albeit typical for its time deployment infrastructure and it was deployed on VMs managed by another team. I was working on porting the entire thing into Kubernetes, and to do that I was also replacing the existing deprecated Spotify docker-maven plugin with Google's [Jib](https://github.com/GoogleContainerTools/jib).
 
 
