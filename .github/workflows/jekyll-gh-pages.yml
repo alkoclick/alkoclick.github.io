@@ -44,7 +44,7 @@ jobs:
       - name: Add home page
         run: 'echo -e "---\nlayout: home\n---\n\n" > index.md'
       - name: Convert Obsidian links to Markdown ones
-        run: fd -e "md" -x sed -i "" -E "s/\[\[(.+)\]\]/[\1](.\/\1)/g" {}
+        run: fdfind -e "md" -x sed -i "" -E "s/\[\[(.+)\]\]/[\1](.\/\1)/g" {}
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Build with Jekyll
