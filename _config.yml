@@ -6,7 +6,7 @@ author:
 description: These are public thoughts from my Obsidian knowledge base, as well as any articles I have written
 plugins:
   - jekyll-feed # Enables the RSS feed
-permalink: /:title
+permalink: /:slug
 minima:
   skin: auto
   social_links:
