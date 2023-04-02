@@ -1,0 +1,14 @@
+Assuming of course that you are reading this on [the blog](https://alkoclick.space/this-blog).
+
+## Contents
+I've added a bunch of stuff from my Obsidian knowledge base here, as well as the various articles I've written and put up over time, initially via email newsletters and then to my [Medium](https://alkoclick.medium.com).
+
+The timestamps on things are not really accurate, because they are calculated based on when the page was built, rather than when the content was created. 
+
+## Technical details
+
+Well, it ain't no [motherfuckin website](http://motherfuckingwebsite.com), but it's still dirt simple, it's tiny in download size, and it looks good in mobile. What else do you want?
+
+Nothing too fancy or complex, this is pure Markdown, converted to HTML using Jekyll with the Minima theme (currently using the main branch of the theme because they never officially released v3) and shipped using Github Pages via the GH Actions publisher.
+
+I initially had this as a Github pages project site, so it showed up under https://alkoclick.github.io/alkoclick. When I eventually bought alkoclick.space on Namecheap and pointed the records here, the subpath was messing up my resources (the main page showed up as alkoclick.space, but the resources were available in alkoclick.space/alkoclick/resource), so I moved it to alkoclick.github.io which is the address user sites are supposed to have for Github. Notably this also meant that I had to set up the [alkoclick/alkoclick](https://github.com/alkoclick/alkoclick) repo again because I want to have people who arrive seeing something nice.
