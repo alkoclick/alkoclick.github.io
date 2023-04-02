@@ -1,5 +1,3 @@
-## Salary Transparency
-
 This is my list of tech-related compensations.
 I am posting this publicly because I feel it helps folks to understand their options in the industry more, 
 and hopefully also to increase the publicly available datapoints.
