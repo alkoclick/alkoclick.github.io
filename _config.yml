@@ -4,6 +4,9 @@ author:
   name: alkoclick
   email: alkoclick@gmail.com
 description: These are public thoughts from my Obsidian knowledge base, as well as any articles I have written
+plugins:
+  - jekyll-feed # Enables the RSS feed
+permalink: /:title
 minima:
   skin: auto
   social_links:
