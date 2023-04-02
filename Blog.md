@@ -1,4 +1,4 @@
-Assuming of course that you are reading this on [the blog](https://alkoclick.space/this-blog).
+Assuming of course that you are reading this on [the blog](https://alkoclick.space/blog).
 
 ## Contents
 I've added a bunch of stuff from my Obsidian knowledge base here, as well as the various articles I've written and put up over time, initially via email newsletters and then to my [Medium](https://alkoclick.medium.com).
