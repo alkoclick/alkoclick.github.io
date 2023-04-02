@@ -2,7 +2,7 @@ It's been a while since the last one, hasn't it? And yet, not much feels differe
 
 We're still in a pandemic, though we learned to look the other way. We still got some forever wars ravaging the globe ([donate to Ukraine btw](https://docs.google.com/spreadsheets/d/1QJ1m6N9dXa3z0sGHKDYNd1salhxaI72pDbVeY4gBShE/htmlview#)). Crypto is still [full of grift](https://web3isgoinggreat.com/), though much of the techbro ecosystem around is pivoting to AI grift. Business as usual.
 
-![SVB Bank run mug](../../media/svb-bank-run.png)
+![SVB Bank run mug](../media/svb-bank-run.png)
 
 source: [https://journa.host/@jperlow/110073668988960096](https://journa.host/@jperlow/110073668988960096)
 
@@ -13,11 +13,11 @@ The third once-in-a-lifetime crisis of my lifetime is at the gates! Banks are co
 ## #wearemiro
 After VanMoof's fourth round of layoffs in a year, I also found my contract "less than renewed". Don't worry though, I wasn't the only one! The president was promoted to "consultant" for a short while which made me think of the following meme:
 
-![[winnie-you-are-fired.png]]
+![Winnie you are fired meme](../media/winnie-you-are-fired.png)
 
 A short and sweet round of interviews landed me at [Miro](https://medium.com/miro-engineering), an organisation that I have been excited to join due to its ██████ and ███████. I especially love the ███████ tech they use to ████ ███ █.████. Did I mention that their social media policy is somewhat restrictive? Please don't take that negatively though ; please, I beg you, I am not allowed to engage in blogging that could tarnish the company's reputation.
 
-![[20230227_120512.jpg]]
+![View from Miro's office](view-from-miro-office.jpg)
 
 Okay, unironically though, it is a super nice place to work at. The offices are cool, the people I meet and work with every day are some of the top I've met in my career. You can  check out our [careers](https://miro.com/careers/open-positions/) page. If you have the opportunity to work there I'd wholeheartedly recommend it! And if you want a piece of more factual evidence [here's my paycheck data](https://elk.zone/hachyderm.io/@alkoclick/109961691533243967).
 
@@ -27,7 +27,7 @@ Two thoughts on that last part:
 
 Anxious that my mere presence in a room was not annoying enough by itself, I used part of my Miro onboarding bonus to finally take the plunge into clicky mechanic keyboards: I ended up choosing the beautiful ZSA Moonlander seen below (yes I've removed some keys):
 
-![[98EBFD95-38DA-4172-A909-23E8C56EF8FB.jpeg]]
+![My ZSA Moonlander on a table, with LEDs shining through some missing keys](../media/ZSA-moonlander-on-table.jpeg)
 
 I've been wanting to cover so many things over the past year, but I didn't have that much energy, and I also spent some time focusing on other things (and I don't just mean my new [sideproject, Eikona](https://github.com/alkoclick/eikona)). You'll notice that there are a fair amount of Twitter links because this is from the "before" times. So, here it goes:
 
