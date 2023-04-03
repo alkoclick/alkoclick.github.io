@@ -1,4 +1,8 @@
-_Unknown original post date - Pre 2020_
+Originally posted on [[2019-11-21]] at CodiMD
+
+#articles 
+
+---
 
 Hey cool kids!
 
@@ -78,7 +82,8 @@ Ever made a product so messed up, your actual co-founder publicly called it out?
 
 > _This  
 > world the small, the great!  
-> _[_Odysseas Elytis_](https://en.wikipedia.org/wiki/Odysseas_Elytis)_, in his nobel winning poem, Axion Esti_
+
+_[_Odysseas Elytis_](https://en.wikipedia.org/wiki/Odysseas_Elytis)_, in his nobel winning poem, Axion Esti_
 
 I looked up for a good English translation, but this guy is famously difficult to translate. What did I want to refer to? One of the most [impressive grids I’ve seen recently.](https://twitter.com/simonbrown/status/1191285130926678016)
 
@@ -90,5 +95,3 @@ Wishes and stuff,
 Alexander P.
 
 P.S [This Amazon posting might fit or interest some of you](https://www.amazon.jobs/en/jobs/966885/techu-graduate-solutions-architect)
-
-#articles 

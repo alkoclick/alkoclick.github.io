@@ -1,4 +1,6 @@
-_Unknown original post date - Start of 2020_
+Originally posted on [[2021-01-24]] as a CodiMD doc
+
+---
 
 Hey kids!
 

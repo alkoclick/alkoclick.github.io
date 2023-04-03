@@ -1,4 +1,8 @@
-_Unknown original post date - Pre 2020_
+Originally posted on [[2019-11-13]] at CodiMD
+
+#articles 
+
+---
 
 Hey cool kids!
 
@@ -29,5 +33,3 @@ And finally, for those of you with a more entrepreneurial flair, here’s some [
 
 May your day never match your expectations,  
 Alex P.
-
-#articles 

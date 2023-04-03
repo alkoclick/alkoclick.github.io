@@ -1,4 +1,8 @@
-_Unknown original post date - Pre 2020_
+Originally posted on [[2019-12-06]] at CodiMD
+
+#articles 
+
+---
 
 Hello cool kids!
 
@@ -88,5 +92,3 @@ Side notes:
 
 Stay awesome,  
 Alexander P.
-
-#articles 

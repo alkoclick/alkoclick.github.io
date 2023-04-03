@@ -1,4 +1,4 @@
-Originally published on [[2022-03-10]] at [https://alkoclick.medium.com/my-dev-notifications-workflow-349d4bcbf90c](https://alkoclick.medium.com/my-dev-notifications-workflow-349d4bcbf90c)
+Originally published on [[2022-03-10]] at  [Medium](https://alkoclick.medium.com/my-dev-notifications-workflow-349d4bcbf90c)
 
 ---
 

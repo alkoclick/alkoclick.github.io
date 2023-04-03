@@ -1,4 +1,6 @@
-[[2021-05-07]]
+Originally posted on [[2021-05-07]] at [Medium](https://medium.com/@alkoclick/playing-with-the-dark-language-and-gradle-configuration-caching-2da81138e2a9)
+
+---
 
 ![](https://cdn-images-1.medium.com/max/800/0*RkcoUsrX-mFMJ8mZ)
 

@@ -1,4 +1,8 @@
-_Unknown original post date - Pre 2020_
+Originally posted on [[2020-03-06]] at CodiMD
+
+#articles 
+
+---
 
 Hello there, Cool Kids!
 
@@ -44,5 +48,3 @@ Until next time,
 
 Keep making the world great,  
 Alexander P.
-
-#articles 

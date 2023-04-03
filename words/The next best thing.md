@@ -1,4 +1,8 @@
-_Unknown original post date - Pre 2020_
+Originally posted on [[2019-11-05]] on CodiMd
+
+#articles 
+
+---
 
 Hey Cool Kids! In case you haven’t noticed, we now have beautiful markdown instead of cranky email clients!
 
@@ -48,7 +52,7 @@ Developers have long since been looking the other way as their creations were us
 
 Do you know about the dark web sub-cult of voyeur webcam watching, using RAT software? Well now you do. You think they’re bad? They were **disgusted** at how arab governments used their tools to survey protesters during the Arab spring leading some prominent RAT creators to quit. No, I’m not gonna link that, feel free to do your own research. But hey, I gotta hand it to those folks who quit — at least they had some form of ethics. Have you seen what’s going on with Chinese surveillance over Hong Kong?
 
-What are the rest of us doing? Slowly catching up to Uncle Bob’s sayings that we should start feeling responsible if our [fun project neural network for undressing people gets abused](https://twitter.com/deepnudeapp/status/1144307316231200768/photo/1).
+What are the rest of us doing? Slowly catching up to Bob Martin's sayings that we should start feeling responsible if our [fun project neural network for undressing people gets abused](https://twitter.com/deepnudeapp/status/1144307316231200768/photo/1).
 
 > _“Despite the safety measures adopted (watermark)”_
 
@@ -66,5 +70,3 @@ But this move by Twitter, one of the primary high profile and highly politicized
 
 Thoughtfully,  
 From one cool kid to another
-
-#articles 

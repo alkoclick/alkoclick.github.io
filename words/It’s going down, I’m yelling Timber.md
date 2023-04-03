@@ -1,5 +1,8 @@
-[[2021-05-08]]
+Originally posted on [[2021-05-08]] at [Medium](https://medium.com/@alkoclick/its-going-down-i-m-yelling-timber-263659b5a595)
 
+#articles 
+
+---
 
 ![](https://cdn-images-1.medium.com/max/800/0*31Tg27qby_M6w85L)
 
@@ -70,5 +73,3 @@ Okay I love this, and I know a few readers of this letter are ML enthusiasts whi
 But alas, machine learning teens are not all there is. I know there are some of you with a deep affection for low-level languages, so at the end of all this, I’m going to leave you with [a beautiful file](https://github.com/jart/cosmopolitan/blob/667ab245fe0326972b7da52a95da97125d61c8cf/libc/sysv/consts.sh#L3543). Here’s a [short explanation of what those codes are](https://github.com/jart/cosmopolitan/tree/667ab245fe0326972b7da52a95da97125d61c8cf/libc/sysv). It was written by a Google engineer for whom, I read a few things and was quite impressed, then I read more things and was quite depressed (2020 in a nutshell), because apparently she made a petition to install the Google CEO as president of the US of A. Now that Nevada bill probably hits different, eh?
 
 Keep the mystery alive, kids
-
-#articles 
