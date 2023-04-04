@@ -1,25 +1,14 @@
-My dotfiles: [https://github.com/alkoclick/dotfiles](https://github.com/alkoclick/dotfiles)
+If you're not familiar with them, dotfiles are generally customization files for things you use, e.g .gitconfig or .bashrc. You can read a much, much better introduction in [this ArchWiki page](https://wiki.archlinux.org/title/Dotfiles). Extract from it:
 
-Readme is below
+> User-specific application configuration is traditionally stored in so called [dotfiles](https://en.wikipedia.org/wiki/dotfile "wikipedia:dotfile") (files whose filename starts with a dot). It is common practice to track dotfiles with a [version control system](https://wiki.archlinux.org/title/Version_control_system "Version control system") such as [Git](https://wiki.archlinux.org/title/Git "Git") to keep track of changes and synchronize dotfiles across various hosts.
 
----
+You can find my dotfiles [here](https://github.com/alkoclick/dotfiles). My dotfiles repo run on Terraform! You can read more about [dotfiles using Terraform here](Dotfiles%20using%20Terraform.md).
 
-# Alexander's Dotfiles
-
-Yet another dotfile repo! 
-
-If you're not familiar with them, dotfiles are generally customization files for things you use, e.g .gitconfig or .bashrc.
-I've made this repository to more easily share my personal configurations across devices, as well as with anyone interested.
-
-## Wait, is this dotfiles repo using Terraform? 
-
-Yep. You may wanna read my article about it, when I make one
-
-# Cool things this repo does
+## Cool things my dotfiles repo does
 
 Here's a quick list of the various things going on in this repository.
 See anything you like! Feel free to copy it, or reach out to talk about it.
-You can find my contact info on my GitHub profile: [https://github.com/alkoclick/](https://github.com/alkoclick/)
+You can find my contact info on [my GitHub profile](https://github.com/alkoclick/)
 
 ## Package management
 
@@ -55,8 +44,7 @@ They'd uploaded be on Gitlab as well, but the provider doesn't natively support 
 
 ## Configuration files
 
-Speaking of gitconfig, the repo supports both the traditional approach of copying configuration files,
-as well as a more powerful templating functionality. 
+Speaking of gitconfig, the repo supports both the traditional approach of copying configuration files, as well as a more powerful templating functionality. 
 
 In the former case, we just copy things like:
 * .bashrc
@@ -75,16 +63,12 @@ Examples include:
 
 ## Self-containerize
 
-The entire repo actually packs itself into a neat container, so you can have a working environment on-the-go,
-e.g for debugging Kubernetes clusters or running online IDEs. This builds on every push.
+The entire repo actually packs itself into a neat container, so you can have a working environment on-the-go, e.g for debugging Kubernetes clusters or running online IDEs. This builds on every push.
 
-The container has some functionalities removed, such as dconf/gsettings (it doesn't have an interface) and key pairs (it's temporary)
+The container has some functionalities removed, such as dconf/gsettings (it doesn't have an interface) and key pairs (it's temporary).
 
 ## Parameterizing
 
 Some values, like user email and name are customizable via Terraform variables.
 This allows for e.g separation between work and personal emails.
 
-# Getting started
-
-You need to run `./first_time.sh` once, then the rest should just be terraform plan/apply cycles.
