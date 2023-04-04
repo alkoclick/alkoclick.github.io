@@ -1,4 +1,8 @@
-[[2021-09-12]]
+Originally posted on [[2021-09-12]] at [Medium](https://medium.com/@alkoclick/hot-tech-summer-apple-colonial-pipeline-and-working-at-bunq-a09db2fbf272)
+
+#articles 
+
+---
 
 If you’re like me, you probably sometimes step back and ask “_Why is that Alex dude writing a newsletter? He has 0 qualifications besides being a white tech guy with a lot of white tech guy confidence. He doesn’t even have an editor! Could I do the same?_”
 

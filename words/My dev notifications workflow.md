@@ -1,5 +1,7 @@
 Originally published on [[2022-03-10]] at  [Medium](https://alkoclick.medium.com/my-dev-notifications-workflow-349d4bcbf90c)
 
+#articles 
+
 ---
 
 
@@ -113,5 +115,3 @@ At the end of this, we have email as the "slow" platform. I can check it once or
 ## Rejected ideas
 * Team notifications channel (different people have different goals)
 * Github notifications with opt-in for new repositories (too much manual work to subscribe/unsubscribe, danger of missing notifications for new repos)
-
-#articles 
