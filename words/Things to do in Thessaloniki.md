@@ -34,7 +34,7 @@ Bougatsa is a kind of breakfast snack that comes in a salty (cheese) and sweet (
 Pita is a Greek fast food wrap similar to durum or tortillas (but better). You will always get "Pita something" where the something is the protein ("gyros" pork or chicken meat, "souvlaki" pork or chicken skewers, "haloumi" cheese). Besides that, it includes fries, something saladish (usually lettuce, tomato, and onion), and a sauce. You can of course add and remove things as desired! For souvlaki, I would recommend the legendary [Derlicatessen](https://goo.gl/maps/phFryfGGUWLtgVSz7). It's always packed, so consider getting takeaway if you go in a busy time. A nearby sit-in alternative is [Giok Balik](https://goo.gl/maps/4H7owNJ16GzCdtvNA) and there is also [Savvikos](https://goo.gl/maps/4H7owNJ16GzCdtvNA) in Aristotelous square. It's quite an art to eat this food and remain clean - grab napkins!
 
 *Pita Gyros by Jojo Yuen (sharemyfoodd) on Unsplash*
-![Photo of Pita Gyros by [Jojo Yuen (sharemyfoodd)](https://images.unsplash.com/photo-1638865327382-afbd081e69df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3386&q=80)
+![Photo of Pita Gyros by Jojo Yuen (sharemyfoodd)](https://images.unsplash.com/photo-1638865327382-afbd081e69df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3386&q=80)
 
 #### Food in any good tavern! 
 * Keep in mind that what foreigners call "Greek salad" in greek is called "Village salad". Some menus will have that name. 
