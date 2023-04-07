@@ -1,4 +1,4 @@
-I orchestrate my [**dotfiles**](https://github.com/alkoclick/dotfiles) repo using Terraform. This article describes why I made this decision, and which alternatives I rejected. I hope to help you make a more informed decision for your needs.
+I orchestrate my [**dotfiles**](https://github.com/alkoclick/dotfiles) repo using Terraform. This article describes why I made this decision, and why I rejected alternatives.
 
 
 ## Dotfiles 101
@@ -30,10 +30,10 @@ All 3 solutions are a bad place to be, in my opinion.
 
 
 ### Terraform
-The requirements to solve this problem clearly outline the need for some of the things Terraform excels: 
-* Tracking state
-* calculating and applying changes based on that state 
-* offering a strong set of utilities
+The requirements to solve this problem clearly outline the need for some of the things in which Terraform excels:
+* tracking state
+* calculating and applying changes based on a state 
+* offering a strong set of utility functions
 * templating blocks 
 
 Besides the aforementioned, we also get the following additional bonuses:
@@ -41,6 +41,9 @@ Besides the aforementioned, we also get the following additional bonuses:
 * Standardized syntax
 * Extra practice (if you're an SRE)
 
+
+### Conclusions
+This is a solution that works well for me. I have consciously not included a "when not to use Terraform for dotfiles" paragraph. This is because if the problems narrated above don't affect you, then, by all means, please keep doing what you're doing! Terraform is not a silver bullet for all problems. But if you are like me and want a more advanced setup out of your dotfiles, it can be pretty effective. That's all for now, and stay curious!
 
 
 #articles 

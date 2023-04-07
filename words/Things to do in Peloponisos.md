@@ -55,6 +55,14 @@ Pretty much every single tavern in Greece is legit, but these are places that I 
 ## Swimming
 I don't have the strongest opinion on the topic, as all beaches in the area are super good already.
 
+## Places to stay
+
+I actually have a village near Corinth so we usually stay there. Pelopponisos tends to be rockier than mainland Greece, so sandy beaches are slightly harder to find, or are sometimes mixed with pebbles. It's harder to get to though - the roads in much of Pelopponisos are a bit of a challenge, as it's naturally super mountainous.
+
+My #1 recommendation for a mid-end location in Pelopponisos, assuming you will have a car available, would be Gytheio, assuming they still have availability. The better beaches are right outside the main city. Vacation prices in Greece have been going up rapidly the past few years, so double-check your budget.
+
+If you're looking for something smaller, and with the beaches as part of the town itself, check out Methoni. Generally the south and west parts (though not northwest) of Peloponisos have the sandier beaches. 
+
 
 ## Activities
 

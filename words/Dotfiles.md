@@ -6,9 +6,9 @@ You can find my dotfiles [here](https://github.com/alkoclick/dotfiles). My dotfi
 
 ## Cool things my dotfiles repo does
 
-Here's a quick list of the various things going on in this repository.
+Here's a quick list of the various things going on in my repository.
 See anything you like! Feel free to copy it, or reach out to talk about it.
-You can find my contact info on [my GitHub profile](https://github.com/alkoclick/)
+You can find my contact info on [my about page](https://alkoclick.space/about)
 
 ## Package management
 
