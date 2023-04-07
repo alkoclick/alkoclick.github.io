@@ -1,3 +1,6 @@
+Required:
+* Fix %20 links
+
 Optional, future:
 * Add something like Matomo for basic stats
 * Add favicon
