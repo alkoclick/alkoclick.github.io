@@ -15,3 +15,5 @@ What are the risks of your personal genome/DNA leaking through one of the privat
 [https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125)
 
 [https://www.biblio.com/commitment-in-the-workplace-by-john-p-meyer-natalie-j/work/679720](https://www.biblio.com/commitment-in-the-workplace-by-john-p-meyer-natalie-j/work/679720)
+
+https://www.artstation.com/schools?languages=EN&is_online=true
