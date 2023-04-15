@@ -103,3 +103,6 @@ SLO Tracking in Prometheus format. Has Grafana dashboards too
 [https://github.com/thegreenwebfoundation/lighthouse-plugin-greenhouse](https://github.com/thegreenwebfoundation/lighthouse-plugin-greenhouse)
 
 [https://www.thegreenwebfoundation.org/directory/](https://www.thegreenwebfoundation.org/directory/)
+
+## FaaS
+[https://www.val.town/](https://www.val.town/)
