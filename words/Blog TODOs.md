@@ -6,4 +6,5 @@ Optional, future:
 * Try to actually render the correct build time of pages
 * Add some sort of search functionality
 * Add some organizing by tags, or pages collecting those articles as links
+  * Can probably use some Obsidian plugin for this that automatically maintains pages with link to all posts with a tag
 * Try embedding again

@@ -39,3 +39,15 @@ Let's look at two different approaches of enchanting objects in Orthodox Christi
 ---
 
 The google search for "Enchanted Objects" is polluted by some internet-of-things project some MIT guy did a few years ago. Yet I distinctly remember coming across this concept somewhere else in writing...
+
+
+## Open Questions
+
+How would you enchant an object with "air"?
+
+Is there a limit to how many objects you can enchant?  Does scarcity affect the strength of the bond?
+
+Is there a difference between saying this is "my personal" object and saying this object  is "enchanted with me"? Does that apply to all personal objects?
+
+How do you disenchant an object?
+
