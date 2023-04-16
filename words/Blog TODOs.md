@@ -7,4 +7,4 @@ Optional, future:
 * Add some sort of search functionality
 * Add some organizing by tags, or pages collecting those articles as links
   * Can probably use some Obsidian plugin for this that automatically maintains pages with link to all posts with a tag
-* Try embedding again
+* Add Mastodon link to social: [https://github.com/jekyll/minima#social-networks](https://github.com/jekyll/minima#social-networks)

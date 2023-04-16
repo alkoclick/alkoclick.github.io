@@ -6,10 +6,11 @@ author:
 description: These are public thoughts from my Obsidian knowledge base, as well as any articles I have written
 plugins:
   - jekyll-feed # Enables the RSS feed
-permalink: /:slug
+  - jekyll-sitemap
+permalink: /:categories/:slug
 minima:
   skin: auto
   social_links:
-    - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
+    - { platform: github,  user_url: "https://github.com/alkoclick" }
     - { platform: linkedin,  user_url: "https://www.linkedin.com/in/alkoclick/" }
     - { platform: twitter,  user_url: "https://hachyderm.io/@alkoclick" }
