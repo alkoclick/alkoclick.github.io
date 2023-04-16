@@ -6,6 +6,7 @@ author:
 description: These are public thoughts from my Obsidian knowledge base, as well as any articles I have written
 plugins:
   - jekyll-feed # Enables the RSS feed
+  - jekyll-optional-front-matter
   - jekyll-sitemap
 permalink: /:categories/:slug
 minima:
