@@ -1,8 +1,3 @@
----
-title: Shell Scripts
-permalink: /:path/:basename
----
-
 ## CLI tools list
 [https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6)
 
