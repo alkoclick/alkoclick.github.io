@@ -8,7 +8,6 @@ plugins:
   - jekyll-feed # Enables the RSS feed
   - jekyll-sitemap
 permalink: /:slug
-show_excerpts: true # Show preview excerpts in the home page
 minima:
   skin: auto
   social_links:
