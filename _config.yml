@@ -7,6 +7,7 @@ description: These are public thoughts from my Obsidian knowledge base, as well 
 plugins:
   - jekyll-feed # Enables the RSS feed
   - jekyll-sitemap
+  - jekyll-optional-front-matter
 permalink: /:slug
 minima:
   skin: auto

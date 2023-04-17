@@ -37,7 +37,7 @@ jobs:
           mv README.md about.md 
           mv words _posts
           echo -e "---\nlayout: page\ntitle: Salary Transparency\n---\n\n" > tmp.md && cat compensation.md >> tmp.md && mv tmp.md compensation.md
-          echo -e "---\nlayout: page\npermalink: /:path/:basename\ntitle: About\n---\n\n" > tmp.md && cat about.md >> tmp.md && mv tmp.md about.md
+          echo -e "---\nlayout: page\ntitle: About\n---\n\n" > tmp.md && cat about.md >> tmp.md && mv tmp.md about.md
           echo -e "---\nlayout: page\ntitle: This Blog\n---\n\n" > tmp.md && cat Blog.md >> tmp.md && mv tmp.md blog.md
       - name: Add home page
         run: 'echo -e "---\nlayout: home\n---\n\n" > index.md'
