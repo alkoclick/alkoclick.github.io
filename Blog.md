@@ -7,7 +7,7 @@ The timestamps on things are not really accurate, because they are calculated ba
 
 Some links don't work. This is because they lead to private files in my knowledge base, which are not part of the public blog.
 
-You may also want to check out [List of Cool Kid Club Articles](https://alkoclick.space/List%20of%20Cool%20Kid%20Club%20Articles.md)
+You may also want to check out the [Archive of Cool Kid Club Articles](https://www.alkoclick.space/list-of-cool-kid-club-articles).
 
 ## Technical details
 
