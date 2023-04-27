@@ -1,3 +1,28 @@
+This part will try to capture some of the learnings from [this thread](https://twitter.com/dickiebush/status/1496489759992127488). I don’t know how much of it will be actually useful, let’s find out:
+
+Wes Kao, a person with intense sales energy says:
+* Aim to create resonant moments that draw your audience’s attention
+* Manage the energy of the crowd by expecting their responses and tailoring your narration
+* You’re good at telling stories you’ve told before because you know when the interesting points are (I dunno, maybe it’s just the practice?)
+
+Then the author mentions Pixar’s 22 rules of storytelling and recaps them, so let’s read them directly from the source instead? Well, that seems kinda hard to track down, the source is a Twitter thread by Emma Coats, but here’s an infographic instead:
+
+![](https://mastersreview.wpenginepowered.com/files/2013/03/Pixar-22-Rules-of-Story.jpeg)
+
+This advice does seem partly tailored to a written, longform-ish story. Nevertheless, a lot of the advice makes sense. Can’t really find much to comment on - this is short, concise wisdom. Must be why Pixar makes such successful movies :D
+
+Next in the thread is… a thread by a fellow guy who seems identical to the original thread author? And starts by linking to the author’s thread which links his thread inside? Confusered. Anyways, he has a bunch of links to other guys talking about storytelling. Let’s watch the Ted talk “The magical science of storytelling”
+
+* Okay so this presenter has strong “guy trying hard to storytell” energy
+* He does cite an interesting story about a journalist who bought objects, and asked authors to write about them, then resold them at a profit. Not sure if this is a plug for [Enchanted Objects](Enchanted%20Objects.md) or just general business advice
+* Cheesy storytelling tricks and narration, but part of it does land
+* He does have an interesting way of exhibiting the properties of a story by telling it, kinda overdone tho
+* His 3 pieces of advice on “functional storytelling” are:
+	1. Understand that you can be a good storyteller
+	2. Write down the stories in your life
+	3. Index them by seeing people’s reactions to them
+
+
 This is while following along with Tom van der Linden's course on Nebula titled [How to analyze stories and enrich your own](https://nebula.tv/how-to-analyze-stories)
 
 

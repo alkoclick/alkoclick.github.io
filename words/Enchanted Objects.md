@@ -40,14 +40,20 @@ Let's look at two different approaches of enchanting objects in Orthodox Christi
 
 The google search for "Enchanted Objects" is polluted by some internet-of-things project some MIT guy did a few years ago. Yet I distinctly remember coming across this concept somewhere else in writing...
 
+Naming things adds to enchanting them
 
 ## Open Questions
 
 How would you enchant an object with "air"?
+* Open holes in it and allow air to pass through them
+* Allow air to shape it
 
 Is there a limit to how many objects you can enchant?  Does scarcity affect the strength of the bond?
 
 Is there a difference between saying this is "my personal" object and saying this object  is "enchanted with me"? Does that apply to all personal objects?
+* Not much probably
 
 How do you disenchant an object?
+* Forgetting it
+* this also means that you can make an enchantment stronger by making its memory stronger, e.g by writing down its story
 
