@@ -71,3 +71,23 @@ if test -f "~/.ssh/id_rsa.pub"; then
   echo "Exists"
 fi
 ```
+
+## Curl with timing
+
+First echo this into a file named curl-format.txt
+```
+     time_namelookup:  %{time_namelookup}s\n
+        time_connect:  %{time_connect}s\n
+     time_appconnect:  %{time_appconnect}s\n
+    time_pretransfer:  %{time_pretransfer}s\n
+       time_redirect:  %{time_redirect}s\n
+  time_starttransfer:  %{time_starttransfer}s\n
+                     ----------\n
+          time_total:  %{time_total}s\n
+
+```
+
+Then:
+```sh
+curl --user-agent "tester-alex-papa-miro" -w "@curl-format.txt" -X GET --location -s -k -I "TARGET"
+```
