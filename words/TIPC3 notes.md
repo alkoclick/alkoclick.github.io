@@ -1,5 +1,9 @@
 These are my notes from watching [The Interactive Pasts Conference 3](https://interactivepasts.com/the-interactive-pasts-conference-3/).
 
+![](alkoclick/media/20230525_092528.jpg)
+
+# Thursday May 25, 2023
+
 ## Intro & Welcome
 * If you weren't aware, Value foundation runs this
 * 47 abstracts, 21 received
@@ -44,8 +48,8 @@ Amanda Pina
 * I do respect the research though
 * So the game she's building is 2d mobile point&click, inspired by Spiritfarer
 
-
 ## Q & A time!
+The presenters for the previous 3 presentations are now on stage taking questions.
 * "Are Christian games so different than other educational games that force education upon you?"
 	* Well, on one path you can have a game that starts as entertainment and adds a message on top. On the other path, you have things like serious games, that start with a message and then build a product around that. It feels like the former makes for more enjoyable games
 * Second question I didn't catch, but was about Wisdom Tree trying to just find a market for their games
@@ -55,6 +59,12 @@ Amanda Pina
 	* Frank: Looking from a cultural Christian perspective, I'd say that the Roman catholic tradition is quite strong: Popes to murder, Nuns and Priests doing things to one another, but for example there aren't that many Protestant games
 	* Tyler: In the Islamic world, Islam is wildly undrerrepresented and ignored, e.g as the Assassin's Creed series has progressed to basically erase Islam from Baghdad
 * No questions to Amanda? Rude, when we got 6 questions to the other 2 male speakers
+
+---
+
+Short break
+
+---
 
 ## Playing the most ancient games: AI and the archaeological record of play
 Walter Crist and Cameron Browne
@@ -126,6 +136,7 @@ Sahar Mirhadi, Callum Deery, Florence Smith Nicholls, Sunny Thaicharoen & Amy Sm
 	* Can augment human creativity, not replace it
 
 ## Q & A time!
+The presenters for the previous 3 presentations are now on stage taking questions. The stage is pretty full because the last presentation had 5 folks on stage lol.
 * You've been reconstructing board games: Are any of them actually good?
 	* For many folks they look less modern, but some hold up. Presenter personally likes Senet
 * How was the tension in creative freedom vs self-filtering in AIs?
@@ -137,3 +148,9 @@ Sahar Mirhadi, Callum Deery, Florence Smith Nicholls, Sunny Thaicharoen & Amy Sm
 	* Not too many games, about 20 in total
 * More questions that I'm tired to write atm
 
+
+---
+
+Lunch break
+
+---
