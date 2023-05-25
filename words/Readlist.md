@@ -2,6 +2,11 @@
 ## The craft
 [https://learnk8s.io/kubernetes-network-packets](https://learnk8s.io/kubernetes-network-packets)
 
+## Games
+* Astrologaster
+* Before I forget
+* Windrush tales
+
 ## Personal
 
 What are the risks of your personal genome/DNA leaking through one of the private databases?
