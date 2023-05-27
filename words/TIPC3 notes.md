@@ -1,8 +1,10 @@
 These are my notes from watching [The Interactive Pasts Conference 3](https://interactivepasts.com/the-interactive-pasts-conference-3/).
 
-![](alkoclick/media/20230525_092528.jpg)
+The event was streamed live on Twitch.
+![](../media/20230525_092528.jpg)
 
 # Thursday May 25, 2023
+Twitch link: https://www.twitch.tv/videos/1828789106
 
 ## Intro & Welcome
 * If you weren't aware, Value foundation runs this
@@ -65,6 +67,8 @@ The presenters for the previous 3 presentations are now on stage taking question
 Short break
 
 ---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Breaking the content related posts to give you an overview of <a href="https://twitter.com/hashtag/TIPC3?src=hash&amp;ref_src=twsrc%5Etfw">#TIPC3</a> while <a href="https://twitter.com/CuseKicks?ref_src=twsrc%5Etfw">@CuseKicks</a> is presenting! <a href="https://t.co/nk1R5Bp9PO">pic.twitter.com/nk1R5Bp9PO</a></p>&mdash; VALUE (@valuefnd) <a href="https://twitter.com/valuefnd/status/1661660537141198849?ref_src=twsrc%5Etfw">May 25, 2023</a></blockquote>
 
 ## Playing the most ancient games: AI and the archaeological record of play
 Walter Crist and Cameron Browne
@@ -303,6 +307,9 @@ Rüdiger Brandis
 ## Q & A
 * I asked the following question to Casilda and Rudiger: You've mentioned looking for government and for private capital. I noticed the absence of a crowdfunding reference - Were there blocks to that or did it just not fit your goals?
 	* Casilda: The numbers weren't encouraging enough for us. We got excited folks asking us how they can offer, but it's not even close to enough you know, 100 folks pitching in 3E each won't even cover our expenses for half a month
-	* Rudiger: We used Kickstarte for marketing only, not much for money, we didn't have a social media expert
+	* Rudiger: We used Kickstarter for marketing only, not much for money, we didn't have a social media expert, and honestly I think we kinda blundered a few things along the way as well.
 
 After the end of Q&A I also went to ask a follow-up question to Casilda: What kind of money would she see as enough to get such a project off the ground? She said that something like 200-250K would be a minimum, and 300K would be an ideal number to do this more comfortably. We then went on to talk about Spain's relation to Franco, Greece's relation to its dictatorship past, freelancing, working for bigger corps to make money, and game making.
+
+
+
