@@ -1,31 +1,49 @@
 
 ## Tried
 
-
 [Bakkerij Westerbos](https://goo.gl/maps/HDt1rbwWizZbSXmo9?coh=178573&entry=tt)
 ![](../media/8EEAAED2-6A2C-4879-8EB2-CAF5A2634A43.jpeg)
-
+Around 2€
 Multiple choices of great croissants. Sesame was my favourite. Crunchy and fresh. Substantial. A bit too buttery for some?
 
 ---
 
 [Bakkerij Westerpark](https://goo.gl/maps/AFLho5rWmXjubWpK8?coh=178573&entry=tt)
 ![](../media/B57C4E91-EA26-4CAF-8D30-84242B23756E.jpeg)
-
 Overall mediocre. Felt kinda stale. Not cunchy at all. Slightly buttery.
 
 ---
 
 [Vlaamsch Broodhuys Elandsgracht Amsterdam](https://goo.gl/maps/TYuBWMxEd7SGVkxU6?coh=178573&entry=tt)
 ![](../media/A0A654FE-10D5-4475-89A9-E99C1181553B.jpeg)
-
+2.0€
 Very crunchy, perhaps even a bit too much! Felt decently fresh even though I got them around 14:00 in the day. Not very buttery in flavour.
+
+---
+
+[BBrood](https://goo.gl/maps/bspJ5iv5ycCbCzhA9?coh=178573&entry=tt)
+![](../media/43C4C908-4FE9-474E-9E72-FB9CCB9B534C.jpeg)
+1.75€
+Substantial, multiple layers inside. Not that crunchy, and didn't taste very buttery. Felt slightly less than fresh, but we got them late in the day (around 13:00)
+
+---
+
+Jumbo
+![](../media/DE582507-E046-4C35-9607-372345C7D799.jpeg)
+0.39€
+More toasted on the outside than some of the other options. Mildly flaky. Not a lot of layers, not very fluffy. Fairly balanced flavor. The plate in the picture is smaller than the plate we used for the other pictures btw.
+
+---
+
+Saint Jean
+![](../media/FB2B1BA2-8C6D-4202-AE74-4762E5CDDF2A.jpeg)
+2.5€
+Crunchy, buttery, sweet & roasted flavor, juicy inside. Bigger than most of its competitors. A croissant with opinions.
+
 
 ## To try
 
 [Andere Koek](https://goo.gl/maps/QmqTMij32WndcEpy7?coh=178573&entry=tt)
-
-[BBrood](https://goo.gl/maps/bspJ5iv5ycCbCzhA9?coh=178573&entry=tt)
 
 [Bakery Cafe Mensink](https://goo.gl/maps/DuLbnziuACg1TD7MA?coh=178573&entry=tt)
 
