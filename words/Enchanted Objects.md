@@ -1,10 +1,12 @@
-On a warm April Sunday, my partner of and I decided to do some housecleaning. That we both decided this is kind of a misleading statement ; put more precisely, she accepted the sacrifice some objects to my minimalist sensibilities. Amidst a mess of invitation envelopes, company letters, and Easter decorations, lay a small, unassuming golden monkey keychain. The monkey had arrived with my partner from Spain when her mother successfully managed to get rid of it.
+On a warm April Sunday, my partner of and I decided to do some housecleaning. That we both decided this is kind of a misleading statement ; put more precisely, she accepted the sacrifice some objects to my minimalist sensibilities. Amidst a mess of invitation envelopes, company letters, and Easter decorations, lay a small, unassuming golden monkey photo holder. The monkey had arrived with my partner from Spain when her mother successfully got rid of it.
 
-Picture of the monkey keychain.
+![](../media/Sebastian.jpg)
 
-On a whim, I decided to keep the monkey around for a little bit, and spent the next few days hiding it around the house for her to (un)excitedly discover: the fridge, the toilet paper shelf, her underwear drawer. One of the next days, and as my partner’s patience was running out, I went out running. The monkey was in my thoughts because it puzzled me why I hadn’t gotten rid of it yet. A sudden thought occurred: What if I could turn this object that everyone disliked, into something meaningful? How could I instil meaning into this object, for me, or for perhaps also her? 
+On a whim, I decided to keep the monkey around for a little bit, and spent the next few days hiding it around the house for her to (un)excitedly discover: the fridge, the toilet paper shelf, her underwear drawer. One of the next days, and as my partner’s patience was running out, I went out running. The monkey was in my thoughts because it puzzled me why I hadn’t gotten rid of it yet. A sudden thought occurred: What if I could turn this nearly universally disliked object, into something meaningful? 
 
-To answer that question, I needed to start by defining meaningful objects.
+Could I instil meaning into this object, and if yes, how? 
+
+To answer that question, I needed to start by defining these meaningful objects.
 
 ## Definitions
 
@@ -20,7 +22,11 @@ Curiously, the same applies to things which are otherwise perceived as fungible 
 
 ## Enchanted Digital Objects
 
+But what about the digital world?
+
 I don't know whether we can have enchanted digital objects. The now classic essay [[The Colour of Bits]] touches upon a similar topic. The author argues that a specific arrangement of bits may be special, based purely on its providence - where it came from. The author makes a very extended point on how computer scientists are trained not to see the "colour" (providence) of bits because computers can't perceive it, yet society values the understanding of that property.
+
+Yet when you are able to make infinite, perfect copies of an object, could you have uniqueness? Especially given that a bunch of computer operations are not "move these bits around" but rather "copy these bits somewhere else, then erase the original". I feel most people don't perceive that when moving a photo from their camera's flash drive to their computer creates a perfect copy and removes the original, yet that's precisely what is happening.
 
 For rewriting:
 What about your WoW character, a level 75 night elf with a collection of mighty items? Another user could build the same character and give them the same items, even join the same clans as you, yet if you sat at their computer you would inherently know that you are playing another character.
@@ -37,7 +43,7 @@ Religion and magick have a long history of both using enchanted objects and acti
 
 Let's look at two different approaches of enchanting objects in Orthodox Christianity, which I'm quite familiar with.
 
-1. The bread and wine are converted to holy communion through a ritual. The bread and wine at the start of the ritual is normal, and the bread could have been baked that very day. Through the process of saying some things, and doing some movements, in specific clothing, in a specific room within a temple, a priest of the religion enchants this bread. The bread has thus been enchanted and converted to the “body of Christ”.
+1. The bread and wine are converted to holy communion through a ritual. The bread and wine at the start of the ritual is normal, and the bread could have been baked that very day. Through the process of saying some things, and doing some movements, in specific clothing, in a specific room within a specific location, a specific person of the religion enchants this bread. The bread has thus been enchanted and converted to the “body of Christ”.
 
 2. The "Holy Light" is candle light which is said to come from a cave in Jerusalem where it is said to burn forever. During the Easter eve, which is Saturday, It is flown from Jerusalem to Athens, then transported from there to all churches in Greece and shared with people later that evening. In this case, it is the providence of the the light, where it came from, that matters to believers. They can then enchant their own objects, their candles, with that Holy Light, thus connecting to the chain of providence.
 
@@ -58,6 +64,9 @@ Yet more than that, I find it fascinating to know how to infuse meaning onto an 
 
 The Google search for "Enchanted Objects" is polluted by some internet-of-things project some MIT guy did a few years ago. Yet I distinctly remember coming across this concept somewhere else in writing. I believe it was in some social network where someone mentioned these words and linked to external references about some author or journalist introducing the concept.
 
+---
+
+On [2023-05-13](../../2023-05-13.md), in the beach of Donostia-San Sebastian, I baptised the monkey in the Atlantic water. My partner, now officially the monkey's godmother, decided on the name "Sebastian".
 
 ## Open Questions
 
