@@ -40,13 +40,16 @@ Saint Jean
 2.5€
 Crunchy, buttery, sweet & roasted flavor, juicy inside. Bigger than most of its competitors. A croissant with opinions.
 
+[Cup a la cake](https://goo.gl/maps/39fMEzXd9sLCLt516?coh=178573&entry=tt)
+![](../media/620E1F6F-E66E-4F35-9A86-52B2D5C06A10.jpeg)
+1.75€
+Very airy, light and somewhat buttery. Decently flaky, though not crunchy. One of the few with a complete half-moon shape!
+
 
 ## To try
 
 [Andere Koek](https://goo.gl/maps/QmqTMij32WndcEpy7?coh=178573&entry=tt)
 
 [Bakery Cafe Mensink](https://goo.gl/maps/DuLbnziuACg1TD7MA?coh=178573&entry=tt)
-
-[Cup a la cake](https://goo.gl/maps/39fMEzXd9sLCLt516?coh=178573&entry=tt)
 
 [Hans Egstorf](https://goo.gl/maps/9tyxmxyvuyJc1Pwa7?coh=178573&entry=tt)
