@@ -1,4 +1,4 @@
-After watching Luis's Paris top 5 xroissant reviews, my partner and I were inspired to make our own Amsterdam croissant reviews, so here we go!
+After watching [Luis's Paris top 5 croissant reviews](https://www.youtube.com/watch?v=wp84sRpM1Js), my partner and I were inspired to make our own Amsterdam croissant reviews, so here we go!
 
 ## Tried
 
