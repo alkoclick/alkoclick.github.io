@@ -1,10 +1,11 @@
+After watching Luis's Paris top 5 xroissant reviews, my partner and I were inspired to make our own Amsterdam croissant reviews, so here we go!
 
 ## Tried
 
 [Bakkerij Westerbos](https://goo.gl/maps/HDt1rbwWizZbSXmo9?coh=178573&entry=tt)
 ![](../media/8EEAAED2-6A2C-4879-8EB2-CAF5A2634A43.jpeg)
-Around 2€
-Multiple choices of great croissants. Sesame was my favourite. Crunchy and fresh. Substantial. A bit too buttery for some?
+1.45€
+Multiple choices of great croissants. Sesame was my favourite. Crunchy and fresh. Substantial, trully fills the mouth. Possibly a bit too buttery for some, but I loved it.
 
 ---
 
@@ -40,16 +41,29 @@ Saint Jean
 2.5€
 Crunchy, buttery, sweet & roasted flavor, juicy inside. Bigger than most of its competitors. A croissant with opinions.
 
+---
+
 [Cup a la cake](https://goo.gl/maps/39fMEzXd9sLCLt516?coh=178573&entry=tt)
 ![](../media/620E1F6F-E66E-4F35-9A86-52B2D5C06A10.jpeg)
 1.75€
 Very airy, light and somewhat buttery. Decently flaky, though not crunchy. One of the few with a complete half-moon shape!
 
+---
+
+[Simon Meijssen](https://goo.gl/maps/LLABWXqzT6Qoyq7d6)
+![](../../attachments/3EB73DC6-3A80-475D-97D6-E181A0FCC1FC.jpeg)
+Multiple layers inside and outside, pretty big, relatively neutral flavor with slight butteriness, slightly stale but it was end of day. 
+2.55€
+
+---
+
+[Bakery Cafe Mensink](https://goo.gl/maps/DuLbnziuACg1TD7MA?coh=178573&entry=tt)
+![](../../attachments/2CA8DED2-7421-4198-AD2E-787F3757402B.jpeg)
+Petite is the word that comes to mind. Light, flaky, and crunchy. A bit reminiscent of the AH and Jumbo light croissants. Feels a bit overpriced for the amount.
+1.75€
 
 ## To try
 
 [Andere Koek](https://goo.gl/maps/QmqTMij32WndcEpy7?coh=178573&entry=tt)
-
-[Bakery Cafe Mensink](https://goo.gl/maps/DuLbnziuACg1TD7MA?coh=178573&entry=tt)
 
 [Hans Egstorf](https://goo.gl/maps/9tyxmxyvuyJc1Pwa7?coh=178573&entry=tt)

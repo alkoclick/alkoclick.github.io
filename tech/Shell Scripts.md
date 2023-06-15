@@ -91,3 +91,18 @@ Then:
 ```sh
 curl --user-agent "tester-alex-papa-miro" -w "@curl-format.txt" -X GET --location -s -k -I "TARGET"
 ```
+
+## AWS IP lookup function
+```shell 
+aws_lookup_ip() {
+  if [ $# -lt 1 ]
+  then
+    echo "Usage: $funcstack[1] <IP or list of IPs separated by commas>"
+    return
+  fi
+
+  QUERY_FMT="NetworkInterfaces[*].{ Type: InterfaceType, Description: Description, AZ: AvailabilityZone, PublicIP: Association.PublicIp, PrivateIP: PrivateIpAddress}"
+  aws ec2 describe-network-interfaces --output table --query $QUERY_FMT --max-items 500 --filters "Name=addresses.private-ip-address,Values=$1"
+  aws ec2 describe-network-interfaces --output table --query $QUERY_FMT --max-items 500 --filters "Name=association.public-ip,Values=$1"
+}
+```
