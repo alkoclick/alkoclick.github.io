@@ -51,14 +51,14 @@ Very airy, light and somewhat buttery. Decently flaky, though not crunchy. One o
 ---
 
 [Simon Meijssen](https://goo.gl/maps/LLABWXqzT6Qoyq7d6)
-![](../../attachments/3EB73DC6-3A80-475D-97D6-E181A0FCC1FC.jpeg)
+![](../media/3EB73DC6-3A80-475D-97D6-E181A0FCC1FC.jpeg)
 Multiple layers inside and outside, pretty big, relatively neutral flavor with slight butteriness, slightly stale but it was end of day. 
 2.55€
 
 ---
 
 [Bakery Cafe Mensink](https://goo.gl/maps/DuLbnziuACg1TD7MA?coh=178573&entry=tt)
-![](../../attachments/2CA8DED2-7421-4198-AD2E-787F3757402B.jpeg)
+![](../media/2CA8DED2-7421-4198-AD2E-787F3757402B.jpeg)
 Petite is the word that comes to mind. Light, flaky, and crunchy. A bit reminiscent of the AH and Jumbo light croissants. Feels a bit overpriced for the amount.
 1.75€
 
