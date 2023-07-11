@@ -62,8 +62,21 @@ Multiple layers inside and outside, pretty big, relatively neutral flavor with s
 Petite is the word that comes to mind. Light, flaky, and crunchy. A bit reminiscent of the AH and Jumbo light croissants. Feels a bit overpriced for the amount.
 1.75€
 
+
 ## To try
+These are the places that are still in our list to explore
 
 [Andere Koek](https://goo.gl/maps/QmqTMij32WndcEpy7?coh=178573&entry=tt)
 
 [Hans Egstorf](https://goo.gl/maps/9tyxmxyvuyJc1Pwa7?coh=178573&entry=tt)
+
+[Fort Negen](https://maps.app.goo.gl/HixPvoBLSZUs4BRC6)
+Smooth inside, crunchy and flaky outside. Didin't feel too buttery for me. Definitely quite fresh. Long queues!
+
+[Loof](https://maps.app.goo.gl/RKKHMutYgDzauJpf7)
+
+[Le Fournil de Sébastien](https://maps.app.goo.gl/j1GNYWWCzjVhcdSB9)
+
+[Ulmus Bakery](https://maps.app.goo.gl/kWQSmG4NyoogS8hAA?g_st=ic)
+
+[Grammes](https://www.google.com/maps/place/grammes/@52.3472458,4.892765,17z/data=!4m14!1m7!3m6!1s0x47c6090f89586acd:0x59290c0844e3c6fa!2sgrammes!8m2!3d52.3472458!4d4.8949537!16s%2Fg%2F11qqx1zs_q!3m5!1s0x47c6090f89586acd:0x59290c0844e3c6fa!8m2!3d52.3472458!4d4.8949537!16s%2Fg%2F11qqx1zs_q?entry=ttu)
