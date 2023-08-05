@@ -15,7 +15,7 @@ Here are the articles I wrote like this:
 * [Is this the life, the one you imagined?](Is%20this%20the%20life,%20the%20one%20you%20imagined?.md)
 
 #### 2020
-* [While the world was at war…](While%20the%20world%20was%20at%20war….md)
+* [While the world was at war](While%20the%20world%20was%20at%20war.md)
 * [We made it folks!](We%20made%20it%20folks!.md)
 
 #### 2019

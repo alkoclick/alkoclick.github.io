@@ -1,6 +1,12 @@
 ## CLI tools list
 [https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6)
 
+## Shebang
+
+```
+#!/usr/bin/env bash
+```
+
 ## Check OS
 
 Fetched from: [https://github.com/billdeitrick/dotfiles/blob/master/scripts/symlink.fish](https://github.com/billdeitrick/dotfiles/blob/master/scripts/symlink.fish)
