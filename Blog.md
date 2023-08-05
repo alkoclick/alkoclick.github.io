@@ -3,8 +3,6 @@ Assuming of course that you are reading this on [the blog](https://alkoclick.spa
 ## Contents
 I've added a bunch of stuff from my Obsidian knowledge base here, as well as the various articles I've written and put up over time, initially via email newsletters, then via CodiMD, and then to my [Medium](https://alkoclick.medium.com).
 
-The timestamps on things are not really accurate, because they are calculated based on when the page was built, rather than when the content was created. This and a few other things are on my [Blog TODOs](https://www.alkoclick.space/blog-todos).
-
 Some links don't work. This is because they lead to private files in my knowledge base, which are not part of the public blog.
 
 You may also want to check out the [Archive of Cool Kid Club Articles](https://www.alkoclick.space/list-of-cool-kid-club-articles).

@@ -1,10 +1,8 @@
-
 ## The craft
 [https://learnk8s.io/kubernetes-network-packets](https://learnk8s.io/kubernetes-network-packets)
 
 ## Games
 * Astrologaster
-* Before I forget
 * Windrush tales
 
 ## Personal

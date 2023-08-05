@@ -62,6 +62,9 @@ Multiple layers inside and outside, pretty big, relatively neutral flavor with s
 Petite is the word that comes to mind. Light, flaky, and crunchy. A bit reminiscent of the AH and Jumbo light croissants. Feels a bit overpriced for the amount.
 1.75€
 
+[Fort Negen](https://maps.app.goo.gl/HixPvoBLSZUs4BRC6)
+[Pic incoming]
+Smooth inside, crunchy and flaky outside. Didin't feel too buttery for me. Definitely quite fresh. Long queues!
 
 ## To try
 These are the places that are still in our list to explore
@@ -69,9 +72,6 @@ These are the places that are still in our list to explore
 [Andere Koek](https://goo.gl/maps/QmqTMij32WndcEpy7?coh=178573&entry=tt)
 
 [Hans Egstorf](https://goo.gl/maps/9tyxmxyvuyJc1Pwa7?coh=178573&entry=tt)
-
-[Fort Negen](https://maps.app.goo.gl/HixPvoBLSZUs4BRC6)
-Smooth inside, crunchy and flaky outside. Didin't feel too buttery for me. Definitely quite fresh. Long queues!
 
 [Loof](https://maps.app.goo.gl/RKKHMutYgDzauJpf7)
 
