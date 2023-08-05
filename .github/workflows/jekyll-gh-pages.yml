@@ -28,6 +28,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
       - name: Install fdfind
         run: sudo apt-get update && sudo apt-get install fd-find
       - name: Add dates to all post filenames
