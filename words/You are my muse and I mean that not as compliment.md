@@ -25,7 +25,9 @@ A short and sweet round of interviews landed me at [Miro](https://medium.com/mir
 
 ![View from Miro's office](../media/view-from-miro-office.jpg)
 
-Okay, unironically though, it is a super nice place to work at. The offices are cool, the people I meet and work with every day are some of the top I've met in my career. You can  check out our [careers](https://miro.com/careers/open-positions/) page. If you have the opportunity to work there I'd wholeheartedly recommend it! And if you want a piece of more factual evidence [here's my paycheck data](https://elk.zone/hachyderm.io/@alkoclick/109961691533243967).
+Okay, unironically though, it is a super nice place to work at. The offices are cool, the people I meet and work with every day are some of the top I've met in my career. You can  check out our [careers](https://miro.com/careers/open-positions/) page. If you have the opportunity to work there I'd wholeheartedly recommend it! And if you want a piece of more factual evidence here's my paycheck data:
+
+<iframe src="https://hachyderm.io/@alkoclick/109961691533243967/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="800" allowfullscreen="allowfullscreen"></iframe>
 
 Two thoughts on that last part:
 1) I struggled with whether I wanted to share my pay data openly for a while, but hey I think the only way that we make this whole capitalism thing more fair is by sharing information, right?

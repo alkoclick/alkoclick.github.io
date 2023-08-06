@@ -1,0 +1,7 @@
+Some years ago, near the start of Russia's invasion of Ukraine, I remember reading about stories of Russian soldiers who found various ways to avoid being sent to Ukraine. Some of them found policies that made it illegal for them to be there, some defected, and some of them just hurt themselves out of combat status.
+
+I stumbled upon a Twitter thread where someone was describing that in organisations as large and as bureaucratic as the army, often times what matters is not the legality, or reasoning behind a request, but simply whether procedure was followed. The thread brought up various examples, such as a Romanov who got himself arrested for breaking and entering, so that he'd face a civil trial, which exempted him from the political that all his peers faced.
+
+Procedural. Not legal, reasonable, or meaningful. When people's sight line drops to simply executing their direct duties you end up with a system that's procedural. A procedural system is resistant to change, because the change would have to be procedural as well, which means it's hard to make it unscathed through the various nebulous groups of people with shadow authority.
+
+A procedural system distributes authority to unseen agents. Those are systemic agents have generally more leeway in their decision making capacity than the rest of their peers, or are willing to violate it. Such a system, when build properly can provide a veneer of systemic decision-making to shield its core members from accountability.
