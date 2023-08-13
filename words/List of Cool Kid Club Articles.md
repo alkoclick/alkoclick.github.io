@@ -1,4 +1,4 @@
-Back in 2019, I started a newsletter called "Cool Kid Club". It was mainly targeted to CS graduates and pre-graduates that wanted to have a better understanding of the tech industry. Over time, and as the audience made its way into the tech industry, it morphed more into an update with commentary on recent developments in tech. 
+Back in 2019, I started a newsletter called "Cool Kid Club". It was mainly targeted to CS graduates and pre-graduates in my network, whom I wanted to provide with a better understanding of the tech industry. Over time, and as the audience made its way into the tech industry, it morphed more into an update with commentary on recent developments in tech. 
 
 Here are the articles I wrote like this:
 

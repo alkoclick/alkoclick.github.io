@@ -15,3 +15,5 @@ While we're here, why is there a group of choir boys with extreme discipline to 
 Don't worry, this review will make sure to provide the same type of thoughtful, deep and meaningful closing as the original book: The British navy suddenly shows up even after what's implied to be atomic explosions, a-la Deus Ex Machina, to just magically save everyone. KILL THE PROTAGONIST YOU COWARD.
 
 Anyways, I'll skip the relentless bullying, the numerous unnamed children, the curious absence of any environmental threats that would force the boys to work together, the "accidental" murder of one boy because he interrupted a kickass rave, to just end it here. This is a miserable book, the only reason to read it is because it's culturally significant for reasons unrelated to the book quality itself imo, and now you know what it's about.
+
+And of course it doesn't pass the Bechdel test :/
