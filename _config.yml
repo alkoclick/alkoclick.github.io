@@ -9,6 +9,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-optional-front-matter
 permalink: /:slug
+future: true
 minima:
   skin: auto
   social_links:
