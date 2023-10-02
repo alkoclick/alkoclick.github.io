@@ -68,6 +68,15 @@ Petite is the word that comes to mind. Light, flaky, and crunchy. A bit reminisc
 ![](../media/B6A42824-C1A3-4EB8-85C8-7158A1958EF8.jpeg)
 Smooth inside, crunchy and flaky outside. Didn’t feel too buttery for me. Definitely quite fresh. Long queues!
 
+---
+
+
+[Koffie ende Koeck](https://maps.app.goo.gl/jzqmFnVaW4arUvPTA?g_st=ic)
+![](../../attachments/IMG_0664.jpeg)
+Vegan. Smaller and lighter than many of the alternatives, it felt like less layers overall. It had a distinct type of sweetness that I couldn't quite place besides the sugar. Not so crunchy or flaky
+2.95€
+
+
 
 ## To try
 These are the places that are still in our list to explore

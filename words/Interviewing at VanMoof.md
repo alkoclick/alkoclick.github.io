@@ -1,6 +1,6 @@
 I wrote an article about interviewing at [[VanMoof]] before I had started working there (but after I had accepted their offer).
 
-#articles #published [[2021-12-12]]
+#articles [[2021-12-12]]
 
 ---
 

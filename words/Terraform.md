@@ -14,4 +14,3 @@ resource "local_file" "copy_file_nontext" {
 }
 ```
 
-#terraform #iac 
