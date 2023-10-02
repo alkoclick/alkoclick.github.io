@@ -36,4 +36,4 @@ Thank you for reading.
 
 ---
 
-You can browse more of my thoughts over at https://alkoclick.space/blog
+You can browse more of my thoughts over at [https://alkoclick.space/blog](https://alkoclick.space/blog)
