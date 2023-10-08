@@ -1,4 +1,9 @@
-After watching [Luis's Paris top 5 croissant reviews](https://www.youtube.com/watch?v=wp84sRpM1Js), my partner and I were inspired to make our own Amsterdam croissant reviews, so here we go!
+After watching Luis's Paris top 5 croissant reviews, my partner and I were inspired to make our own Amsterdam croissant reviews, so here we go!
+
+## Top 3 (atm)
+1. Saint Jean
+2. Bakkerij Westerbos
+3. Fort Negen
 
 ## Tried
 
@@ -72,10 +77,20 @@ Smooth inside, crunchy and flaky outside. Didn’t feel too buttery for me. Defi
 
 
 [Koffie ende Koeck](https://maps.app.goo.gl/jzqmFnVaW4arUvPTA?g_st=ic)
-![](../../attachments/IMG_0664.jpeg)
-Vegan. Smaller and lighter than many of the alternatives, it felt like less layers overall. It had a distinct type of sweetness that I couldn't quite place besides the sugar. Not so crunchy or flaky
+![](../media/IMG_0664.jpeg)
+Vegan. Smaller and lighter than many of the alternatives, it felt like less layers overall. It had a distinct type of sweetness that I couldn't quite place besides the sugar. Not so crunchy or flaky or flaky.
 2.95€
 
+
+[Loof](https://maps.app.goo.gl/RKKHMutYgDzauJpf7)
+![](../media/IMG_0810.jpeg)
+Quite crunchy on the outside, light on the inside. Packs quite a sweet flavour, fairly buttery, if that’s your thing. Also sprinkled with cinnamon. Would love a bit more substance inside, but overall, a solid contestant.
+2€
+
+[Ulmus Bakery](https://maps.app.goo.gl/kWQSmG4NyoogS8hAA?g_st=ic)
+![](../media/IMG_0811.jpeg)
+Did someone ask for a unique croissant? Well, there you go. Starting with the irregular shape, which is shorter on one end, this croissant then surprises you further with its flavour - decidedly not sweet. I would rank it as neutral, while my partner as lightly salty, so if you dislike the butter flavour, there ya go. The croissant is super substantial inside, and extra crunchy outside, so texture will not disappoint you. Tanned.
+2.25€
 
 
 ## To try
@@ -83,12 +98,8 @@ These are the places that are still in our list to explore
 
 [Andere Koek](https://goo.gl/maps/QmqTMij32WndcEpy7?coh=178573&entry=tt)
 
-[Hans Egstorf](https://goo.gl/maps/9tyxmxyvuyJc1Pwa7?coh=178573&entry=tt)
-
-[Loof](https://maps.app.goo.gl/RKKHMutYgDzauJpf7)
-
 [Le Fournil de Sébastien](https://maps.app.goo.gl/j1GNYWWCzjVhcdSB9)
 
-[Ulmus Bakery](https://maps.app.goo.gl/kWQSmG4NyoogS8hAA?g_st=ic)
+[Hans Egstorf](https://goo.gl/maps/9tyxmxyvuyJc1Pwa7?coh=178573&entry=tt)
 
 [Grammes](https://www.google.com/maps/place/grammes/@52.3472458,4.892765,17z/data=!4m14!1m7!3m6!1s0x47c6090f89586acd:0x59290c0844e3c6fa!2sgrammes!8m2!3d52.3472458!4d4.8949537!16s%2Fg%2F11qqx1zs_q!3m5!1s0x47c6090f89586acd:0x59290c0844e3c6fa!8m2!3d52.3472458!4d4.8949537!16s%2Fg%2F11qqx1zs_q?entry=ttu)
