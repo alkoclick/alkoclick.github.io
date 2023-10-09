@@ -81,11 +81,14 @@ Smooth inside, crunchy and flaky outside. Didn’t feel too buttery for me. Defi
 Vegan. Smaller and lighter than many of the alternatives, it felt like less layers overall. It had a distinct type of sweetness that I couldn't quite place besides the sugar. Not so crunchy or flaky or flaky.
 2.95€
 
+---
 
 [Loof](https://maps.app.goo.gl/RKKHMutYgDzauJpf7)
 ![](../media/IMG_0810.jpeg)
 Quite crunchy on the outside, light on the inside. Packs quite a sweet flavour, fairly buttery, if that’s your thing. Also sprinkled with cinnamon. Would love a bit more substance inside, but overall, a solid contestant.
 2€
+
+---
 
 [Ulmus Bakery](https://maps.app.goo.gl/kWQSmG4NyoogS8hAA?g_st=ic)
 ![](../media/IMG_0811.jpeg)
