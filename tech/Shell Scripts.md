@@ -78,6 +78,11 @@ if test -f "~/.ssh/id_rsa.pub"; then
 fi
 ```
 
+## Mass rename files
+```shell
+ find . -type f | sed -n 's/\(\(.*\)yt1s.com - \(.*\)\)/mv "\1" "\2\3"/p' | tee | bash
+```
+
 ## Curl with timing
 
 First echo this into a file named curl-format.txt
