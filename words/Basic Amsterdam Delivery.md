@@ -5,9 +5,6 @@ https://www.papajohns.co.nl/
 https://www.tandoorirestaurant.nl/menu
 https://www.tandooriexpress.nl/menu (Looks 5% more expensive?)
 
-https://ritos.sitedish.shop/
-
-
 
 Takeout:
 * https://www.vleeschnochvisch.com/
