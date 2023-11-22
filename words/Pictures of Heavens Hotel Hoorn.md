@@ -1,5 +1,8 @@
-Heavens Hotel in Hoorn is a converted church that is now functioning as a hotel. I visited there during October of 2023.
+Heavens Hotel in [[Hoorn]] is a converted church that is now functioning as a hotel. I visited there during October of 2023.
 
+![](media/IMG_1390.jpeg)
+
+![](media/IMG_1393.jpeg)
 
 ![](media/HeavensHoorn1.jpeg)
 
