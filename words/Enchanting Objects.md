@@ -13,6 +13,12 @@ Let's look at two different approaches of enchanting objects in Orthodox Christi
 
 2. The "Holy Light" is candle light which is said to come from a cave in Jerusalem where it is said to burn forever. During the Easter eve, which is Saturday, it is flown from Jerusalem to Athens, then transported from there to all churches in Greece and shared with people later that evening. In this case, it is the provenance of the the light, where it came from, that matters to believers. They can then enchant their own objects, their candles, with that Holy Light, thus connecting to the chain of providence.
 
+## Enchanted objects
+
+Up to now we've mostly discussed intentional acts, which begs the question: "Are there unintentionally enchanted objects?"
+
+And in my opinion, very much yes: For example the soldiers who keep a bullet or fragment that almost took their lives. 
+
 
 ## Empowering or destroying enchantments
 

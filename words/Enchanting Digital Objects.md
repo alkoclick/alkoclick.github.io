@@ -13,7 +13,9 @@ I don't know whether we can have enchanted digital objects. The now classic essa
 
 There's a fundamental problem in computers. Computer operations are not "move these bits around to somewhere else" but rather "copy these bits somewhere else, then erase the original". When you move a photo from your camera's flash drive to your computer you are creating a perfect copy and then removing the original. I feel most people don't perceive it that way, yet that's precisely what is happening. How can we possibly have enchanted digital objects if we cannot have permanent digital objects to begin with?
 
-However, that's also true in physical reality. Every moment, the molecules that comprise what others and you perceive as yourself, change, as some fly out and some fly in. So, however interesting, this line of analysis is pointless - clearly as humans we make some abstraction over what a "thing" or a "person" is which are not based solely on the molecules they are comprised of in that exact instance. Applying the same thinking to the digital world yields "An object is the same if the person using it perceives it as such".
+However, that's also true in physical reality. Every moment, the molecules that comprise what others and you perceive as yourself, change, as some fly out and some fly in. So, however interesting, this line of analysis is pointless - clearly as humans we make some abstraction over what a "thing" or a "person" is which are not based solely on the molecules they are comprised of in that exact instance. Applying the same thinking to the digital world yields "An object is the same if the person using it perceives it as such". 
+
+Note: This is the same line of reasoning that some philosopher (don't remember the name atm) used to argue that a person is one who has a consistent memory of their past self, just applied to an object viewed through a person's lens.
 
 ## What about copies?
 

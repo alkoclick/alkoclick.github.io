@@ -28,6 +28,7 @@ Your wedding ring is enchanted for you and your spouse, but probably not for the
 
 Curiously, the same applies to things which are otherwise perceived as fungible - that is they should be completely interchangeable. One such thing is money. Money is something we usually treat as fungible and yet, Scrooge Mc Duck's most prized possession is one particular penny. In his case, the penny is meaningful to him because it was the first money he ever received as his own. In the physical world every object is unique - and thus every unique object can be enchanted.
 
+There is a wonderful discussion to be had about enchanted locations, anything from the Vatican to the concept of "Fatherland/Motherland" and Odysseus kissing the ground of Ithaca once he's returned, but in this piece we'll focus on tangible things, not locations.
 
 ## When things are beings
 

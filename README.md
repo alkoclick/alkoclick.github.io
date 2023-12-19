@@ -14,10 +14,13 @@ Besides creating good software, I believe in diversity of thoughts, bodies and m
 
 ## Quick bio
 At 18, I started working various entry-level jobs. At 21, and while interning as a SysAdmin for my university I developed an app for hobby games sellers to automatically price their products based on various algorithms and strategies. 
+
 Next year I dropped out of university and moved to Poland for romance, while working remotely at a VR game development startup. 
-After going back in Greece, I started a hobby games web store with a friend, then moved to Switzerland when I started working for CERN. 
-On the same year, 2019 I also cofounded Thalatta, a software development startup. 
+
+After going back to Greece, I started a hobby games web store with a friend, then moved to Switzerland when I started working for CERN. On the same year, 2019 I also cofounded Thalatta, a software development startup. 
+
 After CERN, I pivoted to DevOps and worked at Zivver, a secure communications company in Amsterdam, then VanMoof, a high-tech ebike scaleup.
+
 I'm currently working as an SRE at Miro, a visual collaboration editor. 
 
 ## Quick facts & trivia
