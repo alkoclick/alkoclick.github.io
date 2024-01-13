@@ -1,9 +1,9 @@
 After watching Luis's Paris top 5 croissant reviews, my partner and I were inspired to make our own Amsterdam croissant reviews, so here we go!
 
 ## Top 3 (atm)
-1. Saint Jean
-2. Bakkerij Westerbos
-3. Fort Negen
+1. Margo’s
+2. Saint Jean
+3. Bakkerij Westerbos
 
 ## Tried
 
@@ -96,17 +96,34 @@ Did someone ask for a unique croissant? Well, there you go. Starting with the ir
 2.25€
 
 
-## To try
-These are the places that are still in our list to explore
+---
+
+
+[Margo's](https://www.google.com/maps/place/Margo's+Amsterdam/@52.3777616,4.8809741,17z/data=!3m1!4b1!4m6!3m5!1s0x47c6094b916ae6c3:0xf2aadaa96463c650!8m2!3d52.3777616!4d4.883549!16s%2Fg%2F11pxs9stdy?entry=ttu)
+![](../../attachments/IMG_2133.jpeg)
+Vegan goodness. Puffy, crunchy, flaky and most importantly, massive! Sweet but didn’t feel sugary, are they using a different sweetener? Smooth, but doesn’t taste very buttery (I rank that as a plus, but your preferences may differ.)
+2.5€
+
+---
 
 [Andere Koek](https://goo.gl/maps/QmqTMij32WndcEpy7?coh=178573&entry=tt)
+![](../../attachments/IMG_2134.jpeg)
+Smooth, buttery, but flaky, but somehow not crunchy? Price is okay but this is pretty tiny compared to many other entries. Generally not a bad croissant, but definitely a mediocre one. 
+2€
+
+
+---
+
+
+
+
+## To try
+These are the places that are still in our list to explore
 
 [Le Fournil de Sébastien](https://maps.app.goo.gl/j1GNYWWCzjVhcdSB9)
 
 [Hans Egstorf](https://goo.gl/maps/9tyxmxyvuyJc1Pwa7?coh=178573&entry=tt)
 
 [Grammes](https://www.google.com/maps/place/grammes/@52.3472458,4.892765,17z/data=!4m14!1m7!3m6!1s0x47c6090f89586acd:0x59290c0844e3c6fa!2sgrammes!8m2!3d52.3472458!4d4.8949537!16s%2Fg%2F11qqx1zs_q!3m5!1s0x47c6090f89586acd:0x59290c0844e3c6fa!8m2!3d52.3472458!4d4.8949537!16s%2Fg%2F11qqx1zs_q?entry=ttu)
-
-[Margo's](https://www.google.com/maps/place/Margo's+Amsterdam/@52.3777616,4.8809741,17z/data=!3m1!4b1!4m6!3m5!1s0x47c6094b916ae6c3:0xf2aadaa96463c650!8m2!3d52.3777616!4d4.883549!16s%2Fg%2F11pxs9stdy?entry=ttu)
 
 [Et Claire](https://www.google.com/maps/place/et+CLAIRE/@52.347097,4.8386958,13.84z/data=!4m6!3m5!1s0x47c609f99534a447:0x90ef1d347aad1200!8m2!3d52.3493361!4d4.8770798!16s%2Fg%2F11s7s53kqm?entry=ttu)

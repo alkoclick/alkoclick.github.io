@@ -1,4 +1,4 @@
-See also [[Charities]]
+See also [[../../Charities & Donations]]
 
 I spent a lot of time in my life where I didn't quite have enough money to do everything. This taught me the value of it, and also showed me how money can be a blocker. Now that I have money, I want to prevent others from being in the same situation. How?
 
