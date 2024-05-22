@@ -1,4 +1,4 @@
-Available at: [https://ethicalos.org/wp-content/uploads/2018/08/Ethical-OS-Toolkit.pdf](https://ethicalos.org/wp-content/uploads/2018/08/Ethical-OS-Toolkit.pdf)
+Available at: [https://ethicalos.org/wp-content/uploads/2018/08/Ethical-OS-Toolkit.pdf](https://ethicalos.org/wp-content/uploads/2018/08/Ethical-OS-Toolkit.pdf). When I checked in 2023 it was no longer available and I found it using [this archive link](https://web.archive.org/web/20211011174017/https://ethicalos.org/wp-content/uploads/2018/08/Ethical-OS-Toolkit.pdf). To avoid further hassle I also made a [local copy for easier access](./media/Ethical-OS-Toolkit.pdf)
 
 Scenarios in tool 1 are really cool. Could I somehow discuss them with colleagues?
 

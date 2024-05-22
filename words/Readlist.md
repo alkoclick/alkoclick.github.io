@@ -1,5 +1,6 @@
 ## The craft
 [https://learnk8s.io/kubernetes-network-packets](https://learnk8s.io/kubernetes-network-packets)
+ReadSomethingWonderful.com 
 
 ## Games
 * Astrologaster
@@ -8,6 +9,7 @@
 ## Personal
 
 What are the risks of your personal genome/DNA leaking through one of the private databases?
+* Apparently kinda high, there was a 23andme leak back in 2023
 
 Claude Shannon’s definition of information density?
 

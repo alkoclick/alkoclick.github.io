@@ -13,6 +13,4 @@ This is an exploration of what a value system that I follow would look like
 
 ---
 Possible additions:
-* Reason
-
-ChatGPT recommended I add respect: "Respect is an important value because it allows us to treat others with dignity and consideration, and to value their thoughts, feelings, and experiences. This value can help us to build more positive and healthy relationships with others, and to create a more harmonious and inclusive society. Additionally, respect can help us to be more open-minded and empathetic, which can in turn help us to make better decisions and to be more understanding of others."
+* Reason/Logic?

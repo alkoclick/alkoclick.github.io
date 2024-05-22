@@ -35,3 +35,6 @@ See also my article about [Interviewing at VanMoof](https://alkoclick.medium.com
 
 ## 2023
 Miro - Senior Site Reliabiility Engineer: 130000 EUR + various benefits packages, in total around 135000. RSUs valued around 192000.
+
+## 2024
+Promoted at Miro: 136000 EUR + various benefits packages, in total around 140000.
