@@ -100,14 +100,14 @@ Did someone ask for a unique croissant? Well, there you go. Starting with the ir
 
 
 [Margo's](https://www.google.com/maps/place/Margo's+Amsterdam/@52.3777616,4.8809741,17z/data=!3m1!4b1!4m6!3m5!1s0x47c6094b916ae6c3:0xf2aadaa96463c650!8m2!3d52.3777616!4d4.883549!16s%2Fg%2F11pxs9stdy?entry=ttu)
-![](../../attachments/IMG_2133.jpeg)
+![](../media/IMG_2133.jpeg)
 Vegan goodness. Puffy, crunchy, flaky and most importantly, massive! Sweet but didn’t feel sugary, are they using a different sweetener? Smooth, but doesn’t taste very buttery (I rank that as a plus, but your preferences may differ.)
 2.5€
 
 ---
 
 [Andere Koek](https://goo.gl/maps/QmqTMij32WndcEpy7?coh=178573&entry=tt)
-![](../../attachments/IMG_2134.jpeg)
+![](../media/IMG_2134.jpeg)
 Smooth, buttery, but flaky, but somehow not crunchy? Price is okay but this is pretty tiny compared to many other entries. Generally not a bad croissant, but definitely a mediocre one. 
 2€
 
