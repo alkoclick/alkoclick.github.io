@@ -8,11 +8,11 @@ Indian:
 * https://www.tandooriexpress.nl/menu (Looks 5% more expensive, but has more coverage, coupon code 670808)
 * https://www.maharajindianrestaurant.nl (10% discount with code maharaj10)
 
-![](../../attachments/IMG_20240216_090052728.jpg)
+![](../media/IMG_20240216_090052728.jpg)
 
 
 Takeout:
 * https://www.vleeschnochvisch.com/
 
 New York Pizza codes
-![](../../attachments/IMG_20241009_165034000.jpg)
+![](../media/IMG_20241009_165034000.jpg)
