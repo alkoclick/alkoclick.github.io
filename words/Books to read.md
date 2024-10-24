@@ -10,5 +10,5 @@ These are some books I want to read.
 * Antifragility
 * Smashing the stack for fun and profit
 * A walk around the block
-* Art in the age of mechanical reproduction
 * Awakening from the meaning crisis
+* Scott McLoud - The sculptor
