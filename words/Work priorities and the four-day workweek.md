@@ -1,4 +1,4 @@
-Related to [My values](alkoclick/words/My%20values.md)
+Related to [My values](My%20values.md)
 
 ## Summary
 I would like to aim for a 4-day workweek. I'm currently working on average a 4.5 day workweek, but would like a 4-day one. To do this, I'd need to figure out, which day I can effectively cut. I prefer to cut an entire day rather than two halves as I believe and it has been my experience that having a "free day" leads me to a free-er experience overall and I have an easier time sticking to the boundaries I define.
