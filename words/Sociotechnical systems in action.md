@@ -1,6 +1,6 @@
 This is a lightning talk I did within Miro on September, 2023. Note to readers in the web version, you may also find my outline of this paper interesting: [9 Principles of Sociotechnical Design](9%20Principles%20of%20Sociotechnical%20Design.md).
 
-![](alkoclick/media/Sociotechnical1.jpg)
+![](../media/Sociotechnical1.jpg)
 Hi, I'm Alex! I'm here to talk to you about Sociotechnical systems. The term has become more popular in the tech community recently, but actually originates from research on coal mining during the 40s! The key idea is that any meaningfully complex system is an interaction between humans and machines, and making improvements thus needs to be aware of the skills and needs of both parties.
 
 
