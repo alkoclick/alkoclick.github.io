@@ -24,7 +24,7 @@ Now what if we focus on the word "healthy"? You would typically use some technic
 I could of course also focus on the "right now". Live observability data is typically provided by thoroughly technical observability systems, and delivering it usually requires an equally detailed pipeline of technical excellence. Of course... that was all once built by humans coordinating in a very social way.
 
 
-![](alkoclick/media/Sociotechnical1.jpg)
-In our field, we often have the myth of the "brilliant inventor", a technically excellent (and usually socially awkward) genius who can create the future. That's an unfortunate hoax. All our systems are sociotechnical, and the more you recognize that, the more you can make meaningful improvements to them. 
+![](../media/Sociotechnical1.jpg)
+In our field, we often have the myth of the "brilliant inventor", a technically excellent (and usually socially incompetent) genius who can create the future. That's an unfortunate hoax. All our systems are sociotechnical, and the more you recognise that, the more you can make meaningful improvements to them. 
 
 Thank you so much for your time.
