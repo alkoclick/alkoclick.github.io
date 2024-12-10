@@ -14,4 +14,4 @@ I have slightly adapted the wording from the original as I found some principle 
 
 The pdf below was originally fetched from [this link](https://journals.sagepub.com/doi/pdf/10.1177/001872677602900806), I was just concerned about link rot and made a local copy here as well
 
-![cherns-1976-the-principles-of-sociotechnical-design](alkoclick/media/cherns-1976-the-principles-of-sociotechnical-design.pdf)
+![cherns-1976-the-principles-of-sociotechnical-design](../media/cherns-1976-the-principles-of-sociotechnical-design.pdf)

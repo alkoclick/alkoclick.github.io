@@ -24,6 +24,9 @@ Generic docs for open source docs
 * Photoprism?
 * Tailscale
 
+## Socials
+* https://posty.1sland.social/
+
 ## Security
 ### Not yet tried
 * [https://github.com/nozaq/terraform-aws-secure-baseline](https://github.com/nozaq/terraform-aws-secure-baseline)
