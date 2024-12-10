@@ -3,7 +3,7 @@
 ![gh-history-22-23-24](../media/gh-history-22-23-24.png)
 *Own collage, 1000 days of Github history in 2022, 2023, 2024*
 
-I've been paid for writing software for 10 years, as of the past September. I wanted to take a moment to reflect on what I've learned, as well as share what I'm learning. 
+I've been paid for writing software for 10 years, as of the past September. I wanted to take a moment to reflect on what I've learned, as well as open it up to conversation. 
 
 Now, 3652 days is a decent amount of time. Some of you probably have double or even triple that number of years invested in your craft. I invite you to also talk about your experiences, your lessons and failures - I'd love to hear or read about it. 
 
@@ -16,7 +16,7 @@ In this presentation we'll talk about:
 3. Alignment
 4. Foundational beliefs
 
-Many of the things I've learned are abstract ideas, but I've tried to include a fair share of practical advice. I hope you'll forgive me for not going too deep in my limited time - I hope to give you the seeds of ideas rather than complete meals.
+Many of the things I've learned are abstract ideas, but I've tried to include a fair share of practical advice. I hope you'll forgive me for not going too deep in my limited time - I hope to give you the seeds of ideas rather than processed meals.
 
 ![](../media/school-of-athens.png)
 *[Raphael](https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg), Public domain, via Wikimedia Commons*
@@ -30,6 +30,7 @@ This is the one core message in this presentation. The rest of it will be me giv
 ![](../media/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg)
 *[Sandro Botticelli](https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg), Public domain, via Wikimedia Commons*
 
+This is an image some people connect with beauty. Classical art, Renaissance, Venus.
 
 ![](../media/young-alex.jpg)
 
@@ -37,7 +38,7 @@ This was me in 2015. I was writing my thesis on a requirements editor for a doma
 
 ![](../media/Gui-widgets.png)
 
-In our first checkpoint meeting, the folks from ESA flew over to review our work. They liked the functionality, but hated the interface, and ordered us to rewrite it all on JavaFX. That was the first time that I learned that it doesn't matter how good the functionality of a thing you make is, if it doesn't look good enough, noone will bother. That's not a bug, that's a feature. That was a valuable lesson, and I'm grateful to have learnt it so early in my career.
+In our first checkpoint meeting, the folks from ESA flew over to review our work. They liked the functionality, but hated the interface, and ordered us to rewrite it all on JavaFX which had much more modern look & feel. That was the first time that I learned that it doesn't matter how good the functionality of a thing you make is, if it doesn't look good enough, no one will bother. That's not a bug, that's a feature. That was a valuable lesson, and I'm grateful to have learnt it so early in my career.
 
 ![](../media/Freischwimmer190.png)
 *Freischwimmer 190. [Wolfgang Tillmans](https://tillmans.co.uk/)*
