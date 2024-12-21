@@ -1,4 +1,4 @@
-Originally extracted from [10 years of professional software engineering](../words/10%20years%20of%20professional%20software%20engineering.md)
+Originally extracted from [10 years of professional software engineering](../10%20years%20of%20professional%20software%20engineering.md)
 
 
 ### All tech is political

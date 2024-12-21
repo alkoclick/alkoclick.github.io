@@ -57,11 +57,11 @@ Notice that the human side has a lot more actions. One of the powerful features 
 
 ## Sociotechnical
 
-Let's overlay these diagrams:
+Let's overlay these diagrams, and switch to vertical or we'll run out of space
 
-![SociotechnicalVisionFull](../media/SociotechnicalVisionFull.jpg)
+![SociotechnicalVisionFull](../media/SociotechnicalVisionFullVertical.jpg)
 
-Okay now, this requires a zoom to even understand what's going on 😅 This diagram helps our brains perceive a picture that's more than the sum of its parts.
+Okay now, this is indeed a lot of complexity 😅  This diagram helps our brains perceive a picture that's more than the sum of its parts.
 
 If we were to describe the diagram, in short:
 1. Humans create an alert
@@ -69,7 +69,9 @@ If we were to describe the diagram, in short:
 3. Humans have to be available to respond
 4. Humans have to access, know and use technical systems to respond successfully
 
-A few things stand out for me:
+## Observations
+
+A few things stand out for me in the diagram above:
 * Notice the terminal states highlighted in grey. These are fail states. Typically an operator arriving there is out of immediate options, besides escalating to an unknown other, if they exist and are reachable
 * Notice the spectacular amount of wasted effort if our operator reaches the final step, the feature management service, and cannot use it
 * Notice the mingling of social and technical actions. This system cannot reach a success state without the collaboration of humans and machines
@@ -88,6 +90,6 @@ Besides the above, we'd need to make sure that all responders can access the fea
 
 ## Conclusions
 
-Sociotechnical systems vision is the ability of seeing a system via a social, technical and finally a sociotechnical lens. Typically only the last one actually represents the system's complexity. Meaningful ways to describe and improve the system usually surface when you see that full complexity. 
+Sociotechnical systems vision is the ability of seeing a system via a social, technical and finally a combined sociotechnical lens. Typically only the last one actually represents the system's complexity. Joint optimisation are the meaningful ways to improve the system which usually surface when you see that full complexity. 
 
 In short, failing or refusing to see the organisational aspect of any tech system is like working with your one eye permanently closed 😉
