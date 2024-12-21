@@ -11,11 +11,11 @@ plugins:
 permalink: /:slug
 future: true
 minima:
-  skin: auto
+  skin: solarized
   social_links:
     - { platform: github,  user_url: "https://github.com/alkoclick" }
     - { platform: linkedin,  user_url: "https://www.linkedin.com/in/alkoclick/" }
-    - { platform: twitter,  user_url: "https://hachyderm.io/@alkoclick" }
+    - { platform: mastodon,  user_url: "https://hachyderm.io/@alkoclick" }
 header_pages:
   - about.md
   - blog.md

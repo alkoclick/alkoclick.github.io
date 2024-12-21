@@ -1,14 +1,24 @@
-
 Do you remember the 3d glasses that were somewhat popular around 2000?
 
 ![](https://upload.wikimedia.org/wikipedia/commons/4/44/Chick_Quest.png)
 <a href="https://commons.wikimedia.org/wiki/File:Chick_Quest.png">Irisblixten</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
 
-They are called red-cyan stereoscopic glasses. They work by filtering out colour ranges so that your left and your right eye end up seeing slightly different pictures, both of which have partial depth information. When you look through both eyes, the image is overlaid and your brain perceives a more complex picture (the stereoscopic illusion) than the individual pictures.
+They are called red-cyan stereoscopic glasses. They work by filtering out colour ranges so that your left and your right eye end up seeing slightly different pictures, both of which have partial depth information. When you look through both eyes, the image is overlaid and your brain perceives a more complex picture (the stereoscopic illusion) than the individual pictures. This gives us the first of the two [Sociotechnical principles](https://en.wikipedia.org/wiki/Sociotechnical_system#Overview):
 
-Sociotechnical vision is the term I use for viewing systems through the individual lenses of social and technical work, then overlaying them to perceive a more complex system. The field of [Sociotechnical systems](/Sociotechnical%20systems.md) is fascinating to me and I wholeheartedly recommend reading more about it.
+> The interaction of social and technical factors creates the conditions for successful (or unsuccessful) organizational performance. This interaction consists partly of linear "cause and effect" relationships (the relationships that are normally "designed") and partly from "non-linear", complex, even unpredictable relationships (the good or bad relationships that are often unexpected). Whether designed or not, both types of interaction occur when socio and technical elements are put to work.
 
-In this article, we'll practice Sociotechnical vision on a simple example. Let's say you have created an alert.
+Let's say you have a picture like the following, which can be viewed with these red-cyan glasses. What if you want to improve it by making the hammer bigger? You don't have to be a stereoscopy expert to understand that changing only the red part or only the blue part of the picture will surely fail - you need to change both. 
+
+![Hammer Anaglyph](https://upload.wikimedia.org/wikipedia/commons/0/0a/Hammer_anaglyph_%2814656149338%29.jpg)
+<a href="https://commons.wikimedia.org/wiki/File:Hammer_anaglyph_(14656149338).jpg">Gabriel Rollenhagen</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons
+
+This gets us to the second principle of sociotechnical systems (and corollary of the above)
+
+>  Optimisation of each aspect alone (socio or technical) tends to increase not only the quantity of unpredictable, "un-designed" relationships, but those relationships that are injurious to the system's performance.
+
+Sociotechnical systems vision is the term I use for viewing systems through the individual lenses of social and technical work, then overlaying them to perceive a more complex system. I'm pretty sure that there's a more appropriate term somewhere in the literature for this, but work with me for a moment m'kay? The field of [Sociotechnical systems](/Sociotechnical%20systems.md) is fascinating to me and I wholeheartedly recommend reading more about it.
+
+In this article, we'll practice sociotechnical systems vision on a simple example. Let's say you have created an alert.
 
 ## Technical
 
@@ -47,7 +57,7 @@ Notice that the human side has a lot more actions. One of the powerful features 
 
 ## Sociotechnical
 
-Let's overlay them:
+Let's overlay these diagrams:
 
 ![SociotechnicalVisionFull](../media/SociotechnicalVisionFull.jpg)
 
@@ -66,7 +76,7 @@ A few things stand out for me:
 * The moment when control passes from machine to human is quite important. In aviation, they call it "transfer of control" and in their field, this is often where the failures that kill people actually happen
 * There is a single success state here, but systems with this amount of complexity typically will have way more success and fail states
 
-Equipped with the above, we are now able to ask (and answer) questions such as:
+Equipped with the above, we are now able to perform "Joint optimisation", the design and improvement of both sides of a system to maximise our desired output. Some examples of joint optimisation questions that are meaningful in the alerting context are:
 
 > How can we improve average time to understanding an issue?
 
@@ -78,6 +88,6 @@ Besides the above, we'd need to make sure that all responders can access the fea
 
 ## Conclusions
 
-Sociotechnical vision is the ability of seeing a system via a social, technical and finally a sociotechnical lens. Typically only the last one actually represents the system's complexity. Meaningful ways to describe and improve the system usually surface when you see that full complexity. 
+Sociotechnical systems vision is the ability of seeing a system via a social, technical and finally a sociotechnical lens. Typically only the last one actually represents the system's complexity. Meaningful ways to describe and improve the system usually surface when you see that full complexity. 
 
 In short, failing or refusing to see the organisational aspect of any tech system is like working with your one eye permanently closed 😉
