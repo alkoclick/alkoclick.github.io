@@ -14,7 +14,7 @@ In this article, we'll practice Sociotechnical vision on a simple example. Let's
 
 Let's turn on the cyan technical eye, that solely sees technical systems and interactions. In that case we'd see something like this:
 
-![SociotechnicalVisionTechnical](alkoclick/media/SociotechnicalVisionTechnical.jpg)
+![SociotechnicalVisionTechnical](../media/SociotechnicalVisionTechnical.jpg)
 
 The above diagram maps a fairly typical alert delivery diagram:
 * PromQL, the query language to write the alert in
@@ -32,7 +32,7 @@ The above diagram maps a fairly typical alert delivery diagram:
 
 Now let's turn on the other eye, the red one, and look at the social side of the same space:
 
-![SociotechnicalVisionSocial](alkoclick/media/SociotechnicalVisionSocial.jpg)
+![SociotechnicalVisionSocial](../media/SociotechnicalVisionSocial.jpg)
 
 This diagram maps some of the organisational aspects of alert creation, response and delivery:
 * Alert created after incident due to policy
@@ -49,7 +49,7 @@ Notice that the human side has a lot more actions. One of the powerful features 
 
 Let's overlay them:
 
-![SociotechnicalVisionFull](alkoclick/media/SociotechnicalVisionFull.jpg)
+![SociotechnicalVisionFull](../media/SociotechnicalVisionFull.jpg)
 
 Okay now, this requires a zoom to even understand what's going on 😅 This diagram helps our brains perceive a picture that's more than the sum of its parts.
 
