@@ -6,3 +6,5 @@ See also: [Notes on the Principles of Sociotechnical Design](Notes%20on%20the%20
 The theory is excellent, and it is interesting to me how concepts like "Sociotechnical design" have a rich history of research and discussion, yet the tech industry seems to rediscover them seemingly as a novel thing every few decades. I learned about it during one such cycle around 2020.
 
 I've done a presentation about sociotechnical systems at Miro on 2023: [Sociotechnical systems in action](Sociotechnical%20systems%20in%20action.md).
+
+[Sociotechnical vision](Sociotechnical%20vision.md)
