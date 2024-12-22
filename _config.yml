@@ -11,7 +11,7 @@ plugins:
 permalink: /:slug
 future: true
 minima:
-  skin: solarized
+  skin: auto
   social_links:
     - { platform: github,  user_url: "https://github.com/alkoclick" }
     - { platform: linkedin,  user_url: "https://www.linkedin.com/in/alkoclick/" }
