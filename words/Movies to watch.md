@@ -15,4 +15,6 @@
 * Ο Θιασος
 * The network?
 * The man in the hat
+* Akira Kurosawa's anything
+* Ghost in the machine (old one)
 * https://fedi.video/w/mnxJLqxaS9yejUAnZPNYcH

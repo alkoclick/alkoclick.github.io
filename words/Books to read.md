@@ -6,10 +6,16 @@ These are some books I want to read.
 * Atlas Shrugged
 * Mother courage
 
+Tech:
+* Observability Engineering: Achieving Production Excellence
+* [HowComplexSystemsFail](../media/HowComplexSystemsFail.pdf)
+
+
 ## Other
 * Antifragility
 * Smashing the stack for fun and profit
 * A walk around the block
+* https://chokepointcapitalism.com/
 * Awakening from the meaning crisis
 * Scott McLoud - The sculptor
 * Owen D Pomery - Anything
