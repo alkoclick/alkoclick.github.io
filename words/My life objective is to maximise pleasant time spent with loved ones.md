@@ -2,4 +2,4 @@ It's hard to establish a metric for "pleasant". But removing the condition means
 
 One natural outcome of the maximising time is that maximising life (and that of loved ones) is also useful. Another is that making work and other “mandatory” activities more productive, as in achieving max result over min time is also useful for this goal.
 
-Scheduling time is also good, and making that time pleasant is probably good regardless of metrics
+Scheduling time is also good, and making that time pleasant is probably good regardless of metrics.

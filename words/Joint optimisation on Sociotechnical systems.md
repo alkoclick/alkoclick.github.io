@@ -16,7 +16,7 @@ This gets us to the second principle of sociotechnical systems (and corollary of
 
 >  Optimisation of each aspect alone (socio or technical) tends to increase not only the quantity of unpredictable, "un-designed" relationships, but those relationships that are injurious to the system's performance.
 
-Sociotechnical systems vision is the term I use for viewing systems through the individual lenses of social and technical work, then overlaying them to perceive a more complex system. I'm pretty sure that there's a more appropriate term somewhere in the literature for this, but work with me for a moment m'kay? The field of [Sociotechnical systems](/Sociotechnical%20systems.md) is fascinating to me, and I wholeheartedly recommend reading more about it.
+Sociotechnical systems vision is the term I use for viewing systems through the individual lenses of social and technical work, then overlaying them to perceive a more complex system. I'm pretty sure that there's a more appropriate term somewhere in the literature for this, but work with me for a moment m'kay? The field of [Sociotechnical systems](Sociotechnical%20systems.md) is fascinating to me, and I wholeheartedly recommend reading more about it.
 
 In this article, we'll practice sociotechnical systems vision on a simple example. Let's say you have created an alert.
 
