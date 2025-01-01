@@ -2,15 +2,17 @@
 
 Stephen King 
 
-This was more or less what my authoring process had turned out to be, but maybe it's best to write it down here, for more clarity.
+This was more or less what my authoring process had turned out to be, but maybe it's best to document it here, for more clarity.
 
 1. Writing with the door closed
-This is the stage where I just write stuff down on (digital) paper. It's focused on just capturing an idea so it doesn't get lost. 
+This is the stage where I just write stuff down on (digital) paper. It's focused on just capturing an idea so it doesn't get lost. Typically the format is a lot of bullet points and incomplete sentences. A lot of my writing stays in this stage, as I don't feel the need to develop it further.
 
 2. Writing with the door open
 After some potential light cleanup, stuff can go to the public section of my knowledge base, which ends up in the [Blog](../Blog.md). I can and do share it from there, and reach out to folks to ask for their input. This is now a public idea, but not necessarily one I share widely yet.
 
-See also [Working with the garage door up](Working%20with%20the%20garage%20door%20up.md)
+See also [Working with the garage door up](Working%20with%20the%20garage%20door%20up.md).
 
 3. Publishing
 This is the stage where after incorporating the feedback from folks, I feel comfortable calling something done. In some cases I share this to my social network. In some cases I publish across sites, for example in the past I used Medium for this. 
+
+In the end, the work should make its way over to the [Published](Published.md) page.
