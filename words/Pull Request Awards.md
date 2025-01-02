@@ -1,5 +1,11 @@
 In December 2024, fellow engineer Alice Rum and I organised an event titled "Pull Request Awards" in Miro. The overall style was a light-hearted take on "Academy Awards but for Code".
 
+Relevant links:
+* [Writing Pull Request descriptions](Writing%20Pull%20Request%20descriptions.md)
+* [Practical example of improving a Pull Request description](Practical%20example%20of%20improving%20a%20Pull%20Request%20description.md)
+* [Running a Pull Request Awards event](Running%20a%20Pull%20Request%20Awards%20event.md)
+* [Thoughts from reading 1000 iac Pull Requests in one day](Thoughts%20from%20reading%201000%20iac%20Pull%20Requests%20in%20one%20day.md)
+
 ## Motivation
 Alice and I had a few different goals for the overall event:
 * Entertainment - it had been a rollercoastery year

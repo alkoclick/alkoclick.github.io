@@ -31,11 +31,12 @@ We wanted to also have the following, but didn't manage to:
 ## Awards
 For the prizes, we decided to award to each winner a 3d-printed contribution graph for the year 2024, which looks kinda like this:
 
-![3d printing process](../media/pra-award-3d-print.mp4)
+<video src="./media/pra-award-3d-print.mp4" alt="3d printing process" style="width: 100%;" controls></video>
+If the video above doesn't work here's another [link](../media/pra-award-3d-print.mp4)
 
 Links:
-* https://daniel.haxx.se/blog/2021/03/23/github-steel/
-* https://github.com/github/gh-skyline
+* [https://daniel.haxx.se/blog/2021/03/23/github-steel/](https://daniel.haxx.se/blog/2021/03/23/github-steel/)
+* [https://github.com/github/gh-skyline](https://github.com/github/gh-skyline)
 
 ## Selection Process
 We had tens of thousands of PRs to get through, in about 32 working hours. We accepted the following facts:
@@ -47,3 +48,5 @@ We had tens of thousands of PRs to get through, in about 32 working hours. We ac
 * We wouldn't use any kind of AI/LLM assistance - all biases would start and end with the human volunteers
 
 In the end, it was more important to us to run this event in a "good enough" way, than to fail to run it in a "perfect" way.
+
+See also: [Thoughts from reading 1000 iac Pull Requests in one day](Thoughts%20from%20reading%201000%20iac%20Pull%20Requests%20in%20one%20day.md)
