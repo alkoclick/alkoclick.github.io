@@ -9,21 +9,23 @@ See also:
 
 Let's start with a couple of key thoughts on why we write PRs and PR descriptions.
 
-#### Pull requests are containers
+### Pull requests are containers
 A pull request is not a code chage. A pull request is a transparent container around the change.
 
 You might say, okay great, but we can do without the container right? Yes and no. You can drink water with no container, but a glass or bottle makes that experience a lot more convenient. 
 
 To use a food analogy, you've probably noticed that most beers come with dedicated glasses to drink them in. The glass by itself is only a container. Nevertheless, the experience of pouring and drinking the beer changes drastically between glasses, which affects the actual flavour! The brewer can design a glass that best showcases the features of the beer they wanna exhibit.
 
-#### Pull requests are sociotechnical containers
+### Pull requests are sociotechnical containers
 A pull request is a [Sociotechnical systems](Sociotechnical%20systems.md) container around the idea of a change. Organisations typically call this the "change management process". This is a fairly deep topic, and organisations have poured millions into researching, documenting and enforcing such processes. I consider our field somewhat lucky to have such a widely established convention.
 
 On the social level, pull requests are the process of proposing a code change to the organisation, and then implementing it. The change gets shared, reviewed and approved by other humans.
 
 On the technical level, PRs are the process of proposing a code change to a codebase and implementing it. The change gets built, tested, validated and if accepted repeats all those steps once it gets to the main branch.
 
-#### Descriptions are not necessary (yet often vital)
+Alright, now that we know what purpose PRs serve, let's hop onto descriptions themselves.
+
+### Descriptions are not necessary (yet often vital)
 You can merge PRs without a description. You've probably written plenty of those yourself! Besides, other than the PR description there's a bunch of other "free text" locations to discuss and document the proposed change:
 * Code comments near the affected lines
 * Project documentation in the repository (e.g README files)
@@ -44,7 +46,7 @@ The task description lives outside all of these systems. It's typically the poin
 
 The shared knowledge pool lives in each team member, and each member has different representation of it. In async cultures, the latency of read/write to this knowledge pool is high, while in sync cultures it's typically low. It's low cost to read/write to (e.g just tell your colleague something), but has no eventual consistency. Primary and replica nodes can be hard to differentiate. Sync cultures usually take on this organisational memory debt in exchange for organisational agility, though just like tech debt you need to pay it back eventually.
 
-#### Templates
+### Templates
 Templates are a social construct for setting shared expectations on PRs. Like any other social construct, they are malleable, so feel free to adapt them to your use case. Nevertheless, if you engage them in good faith they're usually decent. A great thing to document is your motivation, thinking process and expectations. This is the least apparent in code and most to you while authoring the change.
 
 If you struggle to write good PR descriptions, here's a template: 
@@ -70,7 +72,7 @@ If you struggle to write good PR descriptions, here's a template:
 <!-- Any PRs or issues that are connected with this PR. -->
 ```
 
-#### Personal workflows
+### Personal workflows
 Knowing the above, here's some things I typically do:
 * I typically dedicate most of my effort to writing a good commit description, then use that to form 90% of the PR description
 * My PR description will sometimes have some extra context around how/when the PR will be merged
