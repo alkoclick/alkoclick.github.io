@@ -2,7 +2,7 @@ This is my list of tech-related compensations.
 I am posting this publicly because I feel it helps folks to understand their options in the industry more, 
 and hopefully also to increase the publicly available datapoints.
 
-The inspiration came from [XE's blog](https://xeiaso.net/salary-transparency).
+The inspiration came from [Xe's blog](https://xeiaso.net/salary-transparency).
 Why don't you try it too?
 
 All amounts are yearly. 
