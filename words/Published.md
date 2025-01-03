@@ -9,6 +9,8 @@ See also: [List of Cool Kid Club Articles](List%20of%20Cool%20Kid%20Club%20Artic
 
 ## 2025
 
+[Writing Pull Request descriptions](Writing%20Pull%20Request%20descriptions.md)
+
 [Pull Request Awards](Pull%20Request%20Awards.md)
 
 ## 2024
@@ -21,13 +23,13 @@ See also: [List of Cool Kid Club Articles](List%20of%20Cool%20Kid%20Club%20Artic
 
 [Sociotechnical systems in action](Sociotechnical%20systems%20in%20action.md)
 
-[Works of art and Conways Law](Works%20of%20art%20and%20Conways%20Law.md)
-
 ## 2023
 
 [Enchanted Objects](Enchanted%20Objects.md)
 
 [Amsterdam Croissant Reviews](Amsterdam%20Croissant%20Reviews.md)
+
+[Works of art and Conways Law](Works%20of%20art%20and%20Conways%20Law.md)
 
 [Dotfiles using Terraform](Dotfiles%20using%20Terraform.md)
 

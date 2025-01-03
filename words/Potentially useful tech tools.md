@@ -64,6 +64,7 @@ Pretty legit CLI tool (derailed has also made k9s). Findings were decent and act
 * [https://github.com/roshan8/slo-tracker](https://github.com/roshan8/slo-tracker)
 * [https://codeberg.org/hjacobs/kube-downscaler](https://codeberg.org/hjacobs/kube-downscaler)
 * aws-nuke
+* https://github.com/wagoodman/dive
 
 
 [https://goteleport.com/kubernetes-access/](https://goteleport.com/kubernetes-access/)  
