@@ -10,7 +10,7 @@ See also:
 Let's start with a couple of key thoughts on why we write PRs and PR descriptions.
 
 ### Pull requests are containers
-A pull request is not a code chage. A pull request is a transparent container around the change.
+A pull request is not a code change. A pull request is a transparent container around the change.
 
 You might say, okay great, but we can do without the container right? Yes and no. You can drink water with no container, but a glass or bottle makes that experience a lot more convenient. 
 
