@@ -49,7 +49,7 @@ The shared knowledge pool lives in each team member, and each member has differe
 ### Templates
 Templates are a social construct for setting shared expectations on PRs. Like any other social construct, they are malleable, so feel free to adapt them to your use case. Nevertheless, if you engage them in good faith they're usually decent. A great thing to document is your motivation, thinking process and expectations. This is the least apparent in code and most to you while authoring the change.
 
-If you struggle to write good PR descriptions, here's a template: 
+If you struggle to write good PR descriptions, here's a basic template: 
 ```
 ### Motivation
 

@@ -75,7 +75,7 @@ A few things stand out for me in the diagram above:
 * Notice the terminal states highlighted in grey. These are fail states. Typically an operator arriving there is out of immediate options, besides escalating to an unknown other, if they exist and are reachable
 * Notice the spectacular amount of wasted effort if our operator reaches the final step, the feature management service, and cannot use it
 * Notice the mingling of social and technical actions. This system cannot reach a success state without the collaboration of humans and machines
-* The moment when control passes from machine to human is quite important. In aviation, they call it "transfer of control" and in their field, this is often where the failures that kill people actually happen
+* The moment when control passes from machine to human is quite important. In aviation, they call it “transfer of control” and in their field, this is often where the failures that kill people actually happen
 *  Feature platform, which we will assume can disable the feature causing the alert
 
 Equipped with the above, we are now able to perform "Joint optimisation", the design and improvement of both sides of a system to maximise our desired output. Some examples of joint optimisation questions that are meaningful in the alerting context are:
@@ -86,10 +86,10 @@ We'd need to make sure our alert evaluation interval is fast, the alert fires as
 
 > How can we improve average time to mitigation?
 
-Besides the above, we'd need to make sure that all responders can access the feature platform, know how to use it, and have permissions to hit the "disable" button on a feature. We'd need to have an on-call rotation to reliably have a responder available. Besides the main on-call responder, if the alert successfully propagates to Grafana and Slack and the responders can access and follow those platforms, we may be able to enlist additional responders. 
+Besides the above, we'd need to make sure that all responders can access the feature platform, know how to use it, and have permissions to hit the “disable” button on a feature. We'd need to have an on-call rotation to reliably have a responder available. Besides the main on-call responder, if the alert successfully propagates to Grafana and Slack and the responders can access and follow those platforms, we may be able to enlist additional responders. 
 
 ## Conclusions
 
 Sociotechnical systems vision is the ability of seeing a system via a social, technical and finally a combined sociotechnical lens. Typically only the last one actually represents the system's complexity. Joint optimisation are the meaningful ways to improve the system which usually surface when you see that full complexity. 
 
-In short, failing or refusing to see the organisational aspect of any tech system is like working with your one eye permanently closed 😉
+In short, failing or refusing to see the organizational aspect of any tech system is like working with your one eye permanently closed 😉

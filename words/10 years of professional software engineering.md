@@ -16,7 +16,7 @@ In this presentation we'll talk about:
 3. Alignment
 4. Foundational beliefs
 
-Many of the things I've learned are abstract ideas, but I've tried to include a fair share of practical advice. I hope you'll forgive me for not going too deep in my limited time - I hope to give you the seeds of ideas rather than processed meals.
+Many of the things I've learned are abstract ideas, but I've tried to include a fair share of practical advice. I hope you'll forgive me for not going too deep in my limited time — I hope to give you the seeds of ideas rather than processed meals.
 
 ![](../media/school-of-athens.png)
 *[Raphael](https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg), Public domain, via Wikimedia Commons*
@@ -58,7 +58,7 @@ Some gifted people can't help but make masterpieces. I envy them.
 ![](../media/ipod-nano-5g.png)
 *[Matthieu Riegler](https://commons.wikimedia.org/wiki/File:IPod_nano_5G.png), Wikimedia Commons, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons*
 
-You don't have to make beautiful things, but is important to understand the basics what makes them beautiful. Color, composition, perspective and art styles are all skills, you can learn their basics by reading a book or taking a course. It's important that you consciously choose if you will invest your time in aesthetics, or any other task, and what that time will get you. Software engineers consistently underestimate this aspect of our craft.
+You don't have to make beautiful things, but is important to understand the basics what makes them beautiful. Color, composition, perspective, and art styles are all skills, you can learn their basics by reading a book or taking a course. It's essential that you consciously choose if you will invest your time in aesthetics, or any other task, and what that time will get you. Software engineers consistently underestimate this aspect of our craft.
 
 ## Sales
 ![](../media/exit-through-the-gift-shop.png)
@@ -73,7 +73,7 @@ Also around the same year, I built the first version of a tool that would end up
 ![](../media/sales-brochure.png)
 *Own work, promotional brochure, circa 2017*
 
-I don't claim to be an expert salesman but I was moderately successful. The most important sales skills I learned was "empathetic perception". This is the ability to know what the people in the room see when they look at me, what they want, and tell them how my proposal can help them get it, if it can. I know this sounds a bit vague and I don't want to bore you with stories that may feel far away. So here's an example of this empathetic perception, applied on a work meeting I attended in 2023:
+I don't claim to be an expert salesman, but I was moderately successful. The most important sales skills I learned was “empathetic perception”. This is the ability to know what the people in the room see when they look at me, what they want, and tell them how my proposal can help them get it, if it can. I know this sounds a bit vague and I don't want to bore you with stories that may feel far away. So here's an example of this empathetic perception, applied on a work meeting I attended in 2023:
 
 ![](../media/Staff_meeting_(3).jpg)
 *(Source: [Bill Branson (Photographer)](https://commons.wikimedia.org/wiki/File:Staff_meeting_(3).jpg), Public domain, via Wikimedia Commons)*
