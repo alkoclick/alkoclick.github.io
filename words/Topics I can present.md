@@ -9,7 +9,7 @@
     - Processes, documenting them and automating them
     - Bridging teams and their work
     - Be in multiple rooms
-6. [10 years of professional software engineering](10%20years%20of%20professional%20software%20engineering.md)
+6. [🧓 10 years of professional software engineering](🧓%2010%20years%20of%20professional%20software%20engineering.md)
 7. We automated 80% of our infra updates and we still don’t know if it was a good idea
     - CI automation with GH actions, dependabot, Atlantis
     - Flywheel of updater/approver/applier components
