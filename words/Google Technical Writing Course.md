@@ -1,4 +1,4 @@
-The Google technical writing course is avaible [here](https://developers.google.com/tech-writing/overview). I took it during March '23 while working at [Miro](Miro.md)
+The Google technical writing course is available [here](https://developers.google.com/tech-writing/overview). I took it during March '23 while working at [Miro](Miro.md)
 
 ## Notes on Technical Writing One
 

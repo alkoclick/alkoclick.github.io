@@ -1,4 +1,6 @@
-Following up on [Writing Pull Request descriptions](Writing%20Pull%20Request%20descriptions.md) , this article will focus on how we can improve the description of a PR. Much of the advice comes down to good technical writing (see also [Google Technical Writing Course](Google%20Technical%20Writing%20Course.md)), with its focus on clarity and brevity. However, some of the advice is also about how to write text that is specifically meant to accompany a block of code, yet has a different lifecycle than the block of code.
+Following up on [Writing Pull Request descriptions](Writing%20Pull%20Request%20descriptions.md), this article will focus on how we can improve the description of a PR. Much of the advice comes down to good technical writing, with its focus on clarity and brevity. However, some of the advice is also about how to write text that is specifically meant to accompany a block of code, yet has a different lifecycle than the block of code.
+
+For a good intro to technical writing, check out [Google Technical Writing Course](Google%20Technical%20Writing%20Course.md).
 
 This is the PR we will discus: [kweb-core#232](https://github.com/kwebio/kweb-core/pull/232)
 
