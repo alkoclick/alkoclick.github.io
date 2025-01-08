@@ -1,12 +1,20 @@
 This is my list of tech-related compensations.
-I am posting this publicly because I feel it helps folks to understand their options in the industry more, 
-and hopefully also to increase the publicly available datapoints.
+I am posting this publicly because I feel it helps folks to understand their options in the industry more, and hopefully also to increase the publicly available datapoints.
 
 The inspiration came from [Xe's blog](https://xeiaso.net/salary-transparency).
 Why don't you try it too?
 
 All amounts are yearly. 
 If you're looking for more detailed info on my roles, you probably wanna check my [LinkedIn](https://www.linkedin.com/in/alkoclick/).
+
+
+## 2015
+Aristotle University of Thessaloniki - IT Intern: 3300 EUR
+Cardgame Suite - Sole Developer: 2000 EUR
+
+## 2016
+Aristotle University of Thessaloniki - IT Intern: 4000 EUR
+Aristotle University / ESA - Thesis project: 3000 EUR
 
 ## 2017
 OnSkull Games - Programmer/Level Designer: 8400 EUR
