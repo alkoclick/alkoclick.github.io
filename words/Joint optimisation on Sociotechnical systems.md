@@ -76,7 +76,6 @@ A few things stand out for me in the diagram above:
 * Notice the spectacular amount of wasted effort if our operator reaches the final step, the feature management service, and cannot use it
 * Notice the mingling of social and technical actions. This system cannot reach a success state without the collaboration of humans and machines
 * The moment when control passes from machine to human is quite important. In aviation, they call it “transfer of control” and in their field, this is often where the failures that kill people actually happen
-*  Feature platform, which we will assume can disable the feature causing the alert
 
 Equipped with the above, we are now able to perform "Joint optimisation", the design and improvement of both sides of a system to maximise our desired output. Some examples of joint optimisation questions that are meaningful in the alerting context are:
 

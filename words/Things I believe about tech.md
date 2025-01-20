@@ -1,5 +1,5 @@
-Originally extracted from [10 years of professional software engineering](10%20years%20of%20professional%20software%20engineering.md)
-
+![](../media/stonehedge.jpg)
+*Diego Delso, [delso.photo](http://delso.photo), License [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode)*
 
 ### All tech is political
 It's created by humans, who are biased imperfect creatures
@@ -13,7 +13,7 @@ Sometimes that writing is code, sometimes it's communications. Train that writin
 ### Code and docs should be optimised for reading not writing
 Your 10 minutes are multiplied across 10s or hundreds of people, multiple times over
 
-### There is an optimal medium for sharing every idea
+### The medium shapes the message
 Text isn't always the best choice but people still use it because it's the easiest. You have text, audio, video, diagrams, async and live presentations at your disposal
 
 ### The most important skills you will learn in your career are not technological

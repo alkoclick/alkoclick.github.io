@@ -10,10 +10,12 @@ If you're looking for more detailed info on my roles, you probably wanna check m
 
 ## 2015
 Aristotle University of Thessaloniki - IT Intern: 3300 EUR
+
 Cardgame Suite - Sole Developer: 2000 EUR
 
 ## 2016
 Aristotle University of Thessaloniki - IT Intern: 4000 EUR
+
 Aristotle University / ESA - Thesis project: 3000 EUR
 
 ## 2017

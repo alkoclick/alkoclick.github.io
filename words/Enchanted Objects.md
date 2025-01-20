@@ -5,22 +5,22 @@ This is part 1 of a series on Enchanted Objects:
 
 ## Introduction
 
-On a warm April Sunday, my partner of and I decided to do some housecleaning. That we both decided this is kind of a misleading statement ; put more precisely, she accepted to sacrifice some objects to my minimalist sensibilities. Amidst a mess of invitation envelopes, company letters, and Easter decorations, lay a small, unassuming golden monkey photo holder. The monkey had arrived with my partner from Spain when her mother successfully got rid of it.
+On a warm April Sunday, my partner of and I decided to do some housecleaning. That we both decided this is kind of a misleading statement ; phrased more precisely, she accepted to sacrifice some objects to my minimalist sensibilities. Amidst a mess of invitation envelopes, company letters, and Easter decorations, lay a small, unassuming golden monkey photo holder. The monkey had arrived with my partner from Spain when her mother successfully got rid of it.
 
 ![](../media/Sebastian.jpg)
 
-On a whim, I decided to keep the monkey around for a little bit, and spent the next few days hiding it around the house for her to (un)excitedly discover: the fridge, the toilet paper shelf, her underwear drawer. One of the next days, and as my partner’s patience was running out, I went out running. The monkey was in my thoughts, because it puzzled me why I hadn’t gotten rid of it yet. A sudden thought occurred: What if I could turn this nearly universally disliked object, into something meaningful? 
+On a whim, I decided to keep the monkey around for a bit, and spent the next few days hiding it around the house for her to (un)excitedly discover: the fridge, the toilet paper shelf, her underwear drawer. One of the next days, and as my partner’s patience was running out, I went out running. The monkey was in my thoughts, because it puzzled me why I hadn’t gotten rid of it yet. A sudden thought occurred: What if I could turn this nearly universally disliked object, into something meaningful? 
 
-Could I instil meaning into this object? If yes, how? 
+Could I instill meaning into this object? If yes, how? 
 
 To answer that question, I needed to start by defining meaningful objects.
 
 
 ## Definitions
 
-Meaningful or "Enchanted" objects are in my definition objects which have some property besides their physical characteristics in the perception of one or more people.
+Meaningful or “Enchanted” objects are in my definition objects which have some property besides their physical characteristics in the perception of one or more people.
 
-These objects share the common fact that there is some special meaning about them. This meaning is unique both to the object and to the beholder(s). Some folks feel the dress Marilyn Monroe wore in her last public appearance is special enough to warrant 4.8 million US Dollars - for others it’s just another sparkly dress.
+These objects share the common fact that there is some special meaning about them. This meaning is unique both to the object and to the beholder(s). Some folks feel the dress Marilyn Monroe wore in her last public appearance is special enough to warrant 4.8 million US Dollars — for others it’s just another sparkly dress.
 
 In the 2003 emotional rollercoaster Jeux D’Enfants (English title: "Love me if you dare"), the protagonists have a music box and an agreement: Whoever holds the box can ask the other to do anything. The box is enchanted to them.
 
