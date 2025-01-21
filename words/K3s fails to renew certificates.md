@@ -22,13 +22,10 @@ Using the kubectl cli tool results in the following error:
 
 ***Note: Apps that are currently running continue to run with no issues
 
-  
-
 ## Cause
 
 The currently used version of K3s (v1.18) does not clear the cached certificate.  So even if the certificates are rotated by a K3s restart, the problem persists.
 
-  
 
 ## Diagnosing The Problem
 
@@ -36,18 +33,12 @@ The currently used version of K3s (v1.18) does not clear the cached certificate.
 
 Changes to an existing app that uses the SOAR platform does not succeed. This includes file changes, secret changes, deploy or undeploy, and upgrade requests.
 
-  
-
 Installing a new app, the status remains in a ‘Deploying’ state. A tooltip instructs the user to run sudo appHostPackageLogs. Running this command or any other command that starts with kubectl gives you the following error:
-
-  
 
 ```
 #: kubectl get pods -A
 Unable to connect to the server: x509: certificate has expired or is not yet valid
 ```
-
-  
 
 You can check the expiration data of a cached certificate by running the following command on the App Host server:
 
@@ -67,7 +58,7 @@ As a precautionary measure backup the TLS dir.
 sudo tar -czvf /var/lib/rancher/k3s/server/apphost-cert.tar.gz /var/lib/rancher/k3s/server/tls
 ```
 
-Remove the following file.
+Remove the following file. (Note that we run the sudo commands from the Lorthos machine, but you can run the kubectl commands from your normal setup and they don't need sudo)
 
 ```bash
 sudo rm /var/lib/rancher/k3s/server/tls/dynamic-cert.json
@@ -76,7 +67,7 @@ sudo rm /var/lib/rancher/k3s/server/tls/dynamic-cert.json
 Remove the cached certificate from a kubernetes secret.
 
 ```bash
-sudo kubectl --insecure-skip-tls-verify=true delete secret -n kube-system k3s-serving
+kubectl --insecure-skip-tls-verify=true delete secret -n kube-system k3s-serving
 ```
 
 Restart the K3s service to rotate the certificates.
@@ -104,5 +95,5 @@ for i in `ls /var/lib/rancher/k3s/server/tls/*.crt`; do echo $i; openssl x509 -e
 Or run
 
 ```bash
-curl -v -k [https://localhost:6443](https://localhost:6443) [https://localhost:6443] to confirm the new date of your app host cert
+curl -v -k https://localhost:6443 to confirm the new date of your app host cert
 ```

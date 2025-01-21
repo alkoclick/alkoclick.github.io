@@ -296,7 +296,7 @@ With this, we can now see the common threads between good executions of these sy
 
 ![](../media/leverage-points.png)
 
-Finally, having built enough understanding, we're set up to deliver the killshot: 10 years later, environmental scientist Donella Meadows gives us the [Donella Meadows leverage points](../../Donella%20Meadows%20leverage%20points.md) to intervene in a system. These are the key points where you actions can have the most impact on a system.
+Finally, having built enough understanding, we're set up to deliver the killshot: 10 years later, environmental scientist Donella Meadows gives us the [Donella Meadows leverage points](Donella%20Meadows%20leverage%20points.md) to intervene in a system. These are the key points where you actions can have the most impact on a system.
 
 At this point you're at the edge of your seat right? You're like "Alex, please, I need to know what Donella wrote as the top way to influence these complex, living sociotechnical systems".
 
