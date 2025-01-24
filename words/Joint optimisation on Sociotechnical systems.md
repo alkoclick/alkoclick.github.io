@@ -1,9 +1,17 @@
+How do you modify, or even improve a any non-simple system?
+
+Sociotechnical systems vision is the term I use for viewing systems through the individual lenses of social and technical work, then overlaying them to perceive a more complex system. I'm pretty sure that there's a more appropriate term somewhere in the literature for this, but work with me for a moment m'kay? The field of [Sociotechnical systems](Sociotechnical%20systems.md) is fascinating to me, and I wholeheartedly recommend reading more about it.
+
+In this article, we'll practice sociotechnical systems vision on a simple example. Along the way (hopefully) we'll demonstrate that system optimisation should work on both the social/organisational and technical dimensions. But first...
+
+## Stereoscopy and Sociotechnical principles
+
 Do you remember the 3d glasses that were somewhat popular around 2000?
 
-![](https://upload.wikimedia.org/wikipedia/commons/4/44/Chick_Quest.png)
+![Group of people wearing red-cyan glasses](https://upload.wikimedia.org/wikipedia/commons/4/44/Chick_Quest.png)
 <a href="https://commons.wikimedia.org/wiki/File:Chick_Quest.png">Irisblixten</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
 
-They are called red-cyan stereoscopic glasses. They work by filtering out colour ranges so that your left and your right eye end up seeing slightly different pictures, both of which have partial depth information. When you look through both eyes, the image is overlaid and your brain perceives a more complex picture (the stereoscopic illusion) than the individual pictures. This gives us the first of the two [Sociotechnical principles](https://en.wikipedia.org/wiki/Sociotechnical_system#Overview):
+They are called red-cyan stereoscopic glasses. They work by filtering out colour ranges so that your left and your right eye end up seeing slightly different pictures, both of which have partial depth information. When you look through both eyes, the image is overlaid and your brain perceives a more complex picture (the stereoscopic illusion) than the individual pictures. This leads us to the first of the two [Sociotechnical principles](https://en.wikipedia.org/wiki/Sociotechnical_system#Overview):
 
 > The interaction of social and technical factors creates the conditions for successful (or unsuccessful) organizational performance. This interaction consists partly of linear "cause and effect" relationships (the relationships that are normally "designed") and partly from "non-linear", complex, even unpredictable relationships (the good or bad relationships that are often unexpected). Whether designed or not, both types of interaction occur when socio and technical elements are put to work.
 
@@ -16,15 +24,13 @@ This gets us to the second principle of sociotechnical systems (and corollary of
 
 >  Optimisation of each aspect alone (socio or technical) tends to increase not only the quantity of unpredictable, "un-designed" relationships, but those relationships that are injurious to the system's performance.
 
-Sociotechnical systems vision is the term I use for viewing systems through the individual lenses of social and technical work, then overlaying them to perceive a more complex system. I'm pretty sure that there's a more appropriate term somewhere in the literature for this, but work with me for a moment m'kay? The field of [Sociotechnical systems](Sociotechnical%20systems.md) is fascinating to me, and I wholeheartedly recommend reading more about it.
-
-In this article, we'll practice sociotechnical systems vision on a simple example. Let's say you have created an alert.
+Now is time for our practical example. Let's say you have created an alert.
 
 ## Technical
 
 Let's turn on the cyan technical eye, that solely sees technical systems and interactions. In that case we'd see something like this:
 
-![SociotechnicalVisionTechnical](../media/SociotechnicalVisionTechnical.jpg)
+![Sociotechnical Vision - Technical Diagram](../media/SociotechnicalVisionTechnical.jpg)
 
 The above diagram maps a fairly typical alert delivery diagram:
 * PromQL, the query language to write the alert in
@@ -42,7 +48,7 @@ The above diagram maps a fairly typical alert delivery diagram:
 
 Now let's turn on the other eye, the red one, and look at the social side of the same space:
 
-![SociotechnicalVisionSocial](../media/SociotechnicalVisionSocial.jpg)
+![Sociotechnical Vision Social Diagram](../media/SociotechnicalVisionSocial.jpg)
 
 This diagram maps some of the organisational aspects of alert creation, response and delivery:
 * Alert created after incident due to policy
@@ -59,7 +65,7 @@ Notice that the human side has a lot more actions. One of the powerful features 
 
 Let's overlay these diagrams, and switch to vertical or we'll run out of space
 
-![SociotechnicalVisionFull](../media/SociotechnicalVisionFullVertical.jpg)
+![Sociotechnical Vision Full Diagram](../media/SociotechnicalVisionFullVertical.jpg)
 
 Okay now, this is indeed a lot of complexity 😅  This diagram helps our brains perceive a picture that's more than the sum of its parts.
 

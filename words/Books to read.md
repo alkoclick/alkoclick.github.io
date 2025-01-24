@@ -10,6 +10,7 @@ Tech:
 * [Observability Engineering: Achieving Production Excellence](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
 * [HowComplexSystemsFail](../media/HowComplexSystemsFail.pdf)
 * [Leverage_Points](../media/Leverage_Points.pdf)
+* Kybernetes
 
 ## Other
 * Antifragility

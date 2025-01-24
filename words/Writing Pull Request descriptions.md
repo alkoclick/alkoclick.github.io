@@ -1,5 +1,5 @@
 ## Introduction
-In December 2024, fellow engineer Alice Rum and I organised an event titled "Pull Request Awards" in Miro. The overall style was a light-hearted take on "Academy Awards but for Code". During that event, I also wrote [Thoughts from reading 1000 iac Pull Requests in one day](Thoughts%20from%20reading%201000%20iac%20Pull%20Requests%20in%20one%20day.md). 
+In December 2024, fellow engineer Alice Rum and I organised an event titled "Pull Request Awards" in Miro. The overall style was a light-hearted take on "Academy Awards but for Code". During that event, I also wrote [Thoughts from reading 1000 iac Pull Requests in one day](Thoughts%20from%20reading%201000%20iac%20Pull%20Requests%20in%20one%20day.md). This process obviously got me thinking a lot about Pull Requests, the purposes they serve, and what makes one "good", however one defines that. 
 
 This piece is focused on the descriptions of pull requests, why they are meaningful, and how to improve them. We shall speak very little of code quality itself, because that's the domain of each language. 
 
@@ -12,7 +12,7 @@ Let's start with a couple of key thoughts on why we write PRs and PR description
 ### Pull requests are containers
 A pull request is not a code change. A pull request is a transparent container around the change.
 
-You might say, okay great, but we can do without the container right? Yes and no. You can drink water with no container, but a glass or bottle makes that experience a lot more convenient. 
+You might say, okay great, but we can do without the container right? Yes and no. You can drink water with no container, but a glass or bottle makes that experience a whole lot more convenient. 
 
 To use a food analogy, you've probably noticed that most beers come with dedicated glasses to drink them in. The glass by itself is only a container. Nevertheless, the experience of pouring and drinking the beer changes drastically between glasses, which affects the actual flavour! The brewer can design a glass that best showcases the features of the beer they wanna exhibit.
 
@@ -34,9 +34,9 @@ You can merge PRs without a description. You've probably written plenty of those
 * The task description (e.g in Jira or Trello)
 * Distributed, often undocumented knowledge across team members
 
-It's easy to dismiss this as typical overengineering by competing vendors and processes, yet each of those serves a different purpose. That doesn't make them necessary though.
+It's easy to dismiss this as typical overengineering by competing vendors and processes, yet each of those serves a different purpose. That doesn't make them all necessary every time though. It is your responsibility as an author to pick the correct knowledge stores for each change based on the team and organisational context you are in.
 
-I have a more detailed view of how these knowledge bases interact in [[Knowledge alongside code]].
+I have a more detailed description of how these knowledge bases interact in [[Knowledge alongside code]].
 
 ### Templates
 Templates are a social construct for setting shared expectations on PRs. Like any other social construct, they are malleable, so feel free to adapt them to your use case. Nevertheless, if you engage them in good faith they're usually decent. A great thing to document is your motivation, thinking process and expectations. This is the least apparent in code and most to you while authoring the change.
@@ -66,10 +66,11 @@ If you struggle to write good PR descriptions, here's a basic template:
 
 ### Personal workflows
 Knowing the above, here's some things I typically do:
-* I typically dedicate most of my effort to writing a good commit description, then use that to form 90% of the PR description
+* I typically dedicate most of my effort to writing a good commit description, then use that to form 95% of the PR description
 * My PR description will sometimes have some extra context around how/when the PR will be merged
 * I self-review my PRs as a first pass, and try to add comments to guide the reviewer
 * Whenever PR comments ask about unclear code, I document the answers in code comments, not in a PR comment
-* While working on bigger projects, I will invest a lot of effort in documenting the design and plan up front, and run those through the organisational processes
-* I will then work very close and synced with another colleague to execute these designs. Our PR descriptions will generally be lightweight, except for high-impact changes, or when interacting with other teams
+* While working on bigger projects:
+	* I will invest a lot of effort in documenting the design and plan up front, and run those through the organisational processes
+	* I will then work very close and synced with another colleague to execute these designs. Our PR descriptions will generally be lightweight, except for high-impact changes, or when interacting with other teams
 * After completing bigger pieces of work, I look to create a documentation page in the repository or external knowledge base related to the project, then I look to share that documentation to humans (e.g in Slack channels, or via a presentation)
