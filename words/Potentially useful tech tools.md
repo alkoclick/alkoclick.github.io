@@ -15,9 +15,12 @@ Security host monitoring with a free tier
 
 ## Open source
 * [https://github.com/todogroup](https://github.com/todogroup)
-
 Generic docs for open source docs
 
+* https://github.com/LibreTranslate/LibreTranslate
+
+
+Open source translation
 
 ## Homelab
 * Immich

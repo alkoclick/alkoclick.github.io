@@ -1,0 +1,5 @@
+From [How Complex Systems Fail](How%20Complex%20Systems%20Fail.md)
+
+> Post-accident attribution accident to a ‘root cause’ is fundamentally wrong.
+> 
+> Because overt failure requires multiple faults, there is no isolated ‘cause’ of an accident. There are multiple contributors to accidents. Each of these is necessary insufficient in itself to create an accident. Only jointly are these causes sufficient to create an accident. Indeed, it is the linking of these causes together that creates the circumstances required for the accident. Thus, no isolation of the ‘root cause’ of an accident is possible. The evaluations based on such reasoning as ‘root cause’ do not reflect a technical understanding of the nature of failure but rather the social, cultural need to blame specific, localized forces or events for outcomes.
