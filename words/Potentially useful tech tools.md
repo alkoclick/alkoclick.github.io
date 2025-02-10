@@ -13,14 +13,15 @@ The Charm apps look amazing, you can build an app served by ssh? And the choice 
 
 Security host monitoring with a free tier
 
-## Open source
+## Generic Open source
 * [https://github.com/todogroup](https://github.com/todogroup)
 Generic docs for open source docs
 
 * https://github.com/LibreTranslate/LibreTranslate
-
-
 Open source translation
+
+* https://github.com/AykutSarac/jsoncrack.com
+Visualisation and conversions for JSON stuff
 
 ## Homelab
 * Immich
