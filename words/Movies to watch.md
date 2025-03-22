@@ -1,21 +1,16 @@
 
-* Last night in Soho
 * 12 frames
-* Abbas Kiarostami (director)
+* Everything I have in Jellyfin
 * Soldaat van oranje
-* Indiana Jones and the Dial of Destiny
-* Amadeus
-* Leyla's brothers (Iranian movie)
-* Torque
-* Δύσκολοι αποχαιρετισμοί ο μπαμπάς μου
-* Αντιγόνη του Σοφοκλή (Κουνδουρος)
-* Being John Malkovich
 * Eyes wide shut
 * The virgin suicides
-* Ο Θιασος
 * The network?
 * The man in the hat
-* Akira Kurosawa's anything
 * Ghost in the machine (old one)
-* https://fedi.video/w/mnxJLqxaS9yejUAnZPNYcH
-* Love Lies Bleeding
+* Flow
+* Challengers
+* https://www.youtube.com/watch?v=oQ7GPUAsfSc
+
+Directors:
+* Abbas Kiarostami
+*  Akira Kurosawa
