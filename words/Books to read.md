@@ -4,12 +4,12 @@ These are some books I want to read.
 * Karl Marx: Das Kapital 
 * Adam Smith: Whatever it's called
 * Atlas Shrugged
-* Mother courage
 * Plato's Symposium
 
 Tech:
 * [Observability Engineering: Achieving Production Excellence](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
 * Kybernetes
+* Container Security by Liz Rice
 
 ## Other
 * Antifragility

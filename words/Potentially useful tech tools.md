@@ -27,6 +27,7 @@ Visualisation and conversions for JSON stuff
 * Immich
 * Photoprism?
 * Tailscale
+* vert.sh (file converter)
 
 ## Socials
 * https://posty.1sland.social/
@@ -69,6 +70,7 @@ Pretty legit CLI tool (derailed has also made k9s). Findings were decent and act
 * [https://codeberg.org/hjacobs/kube-downscaler](https://codeberg.org/hjacobs/kube-downscaler)
 * aws-nuke
 * https://github.com/wagoodman/dive
+* [https://prometheus.io/webtools/alerting/routing-tree-editor/](https://prometheus.io/webtools/alerting/routing-tree-editor/)
 
 
 [https://goteleport.com/kubernetes-access/](https://goteleport.com/kubernetes-access/)  
