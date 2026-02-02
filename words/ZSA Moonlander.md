@@ -1,4 +1,4 @@
-![[../media/moonlander-marketing.png]]
+![[media/moonlander-marketing.png]]
 
 This is my new keyboard, as of joining [[Miro]]! It's pretty cool, but it took some time to build a layout that really works for me. I am also feeling I have to be careful not to build something that's too custom and then I can't work on my standard laptop keyboard.
 
