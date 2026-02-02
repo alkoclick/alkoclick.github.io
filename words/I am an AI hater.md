@@ -1,0 +1,1 @@
+https://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html
