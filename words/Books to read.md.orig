@@ -1,17 +1,28 @@
 These are some books I want to read.
 
+<<<<<<< Updated upstream
+## Political philosophy-ish
+=======
 ## Political philosophy(ish)
+>>>>>>> Stashed changes
 * Karl Marx: Das Kapital 
 * Adam Smith: Whatever it's called
 * Atlas Shrugged
 * Plato's Symposium
 
+<<<<<<< Updated upstream
 Tech:
+* [Observability Engineering: Achieving Production Excellence](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
+* Kybernetes
+* Container Security by Liz Rice
+=======
+## Tech
 * [Observability Engineering: Achieving Production Excellence](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
 * Kybernetes
 * Thinking in Systems - Donella Meadows
 * Container Security by Liz Rice
 * https://crisisengineering.layeraleph.com/crisis-engineering-the-book/
+>>>>>>> Stashed changes
 
 ## Other
 * Antifragility

@@ -1,4 +1,9 @@
+<<<<<<< Updated upstream
+I orchestrate my [**dotfiles**](https://github.com/alkoclick/dotfiles) repo using Terraform. This article describes why I made this decision, and why I rejected alternatives.
+=======
 I orchestrate my [**dotfiles**](https://codeberg.org/alkoclick/dotfiles) repo using Terraform. This article describes why I made this decision, and why I rejected alternatives.
+>>>>>>> Stashed changes
+
 
 ## Dotfiles 101
 First of all, if you haven't read about dotfiles, you can read my article [here](dotfiles). Most of the current state-of-the-art solutions in the dotfiles space function like this:

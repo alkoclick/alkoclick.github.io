@@ -23,6 +23,13 @@ Open source translation
 * https://github.com/AykutSarac/jsoncrack.com
 Visualisation and conversions for JSON stuff
 
+<<<<<<< Updated upstream
+## Homelab
+* Immich
+* Photoprism?
+* Tailscale
+* vert.sh (file converter)
+=======
 https://github.com/stan-smith/FossFLOW
 Visualisation and isometric diagrams for infra
 
@@ -30,7 +37,7 @@ Visualisation and isometric diagrams for infra
 * vert.sh (file converter)
 * Discourse (forum tooling)
 * https://github.com/Kareadita/Kavita (eBook library)
-
+>>>>>>> Stashed changes
 
 ## Socials
 * https://posty.1sland.social/

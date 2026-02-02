@@ -8,7 +8,11 @@ For a few years now I've been running a Raspberry Pi 4B at home. Around the star
 
 ## Software
 You can find the whole config here: 
+<<<<<<< Updated upstream
+https://github.com/alkoclick/personal-server
+=======
 https://codeberg.org/alkoclick/personal-server
+>>>>>>> Stashed changes
 
 I use Jellyfin as my media server for books, music, videos and radio.
 

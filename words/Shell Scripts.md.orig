@@ -116,6 +116,8 @@ aws_lookup_ip() {
   aws ec2 describe-network-interfaces --output table --query $QUERY_FMT --max-items 500 --filters "Name=addresses.private-ip-address,Values=$1"
   aws ec2 describe-network-interfaces --output table --query $QUERY_FMT --max-items 500 --filters "Name=association.public-ip,Values=$1"
 }
+<<<<<<< Updated upstream
+=======
 ```
 
 ## Convert a bunch of 4k vids to lower res single threaded
@@ -128,4 +130,5 @@ fdfind --threads 1 --exec ffmpeg -i {/} -map_metadata 0 -vf scale=1920:1080 -c:a
 Originally fetched from: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 ```shell
 ssh-keygen -t ed25519 -C "your_email@example.com"
+>>>>>>> Stashed changes
 ```

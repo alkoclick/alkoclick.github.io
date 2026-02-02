@@ -2,7 +2,11 @@ If you're not familiar with them, dotfiles are generally customization files for
 
 > User-specific application configuration is traditionally stored in so called [dotfiles](https://en.wikipedia.org/wiki/dotfile "wikipedia:dotfile") (files whose filename starts with a dot). It is common practice to track dotfiles with a [version control system](https://wiki.archlinux.org/title/Version_control_system "Version control system") such as [Git](https://wiki.archlinux.org/title/Git "Git") to keep track of changes and synchronize dotfiles across various hosts.
 
+<<<<<<< Updated upstream
+You can find my dotfiles [here](https://github.com/alkoclick/dotfiles). My dotfiles repo run on Terraform! You can read more about [dotfiles using Terraform here](Dotfiles%20using%20Terraform.md).
+=======
 You can find my dotfiles [here](https://codeberg.org/alkoclick/dotfiles). My dotfiles repo run on Terraform! You can read more about [dotfiles using Terraform here](Dotfiles%20using%20Terraform.md).
+>>>>>>> Stashed changes
 
 ## Cool things my dotfiles repo does
 
