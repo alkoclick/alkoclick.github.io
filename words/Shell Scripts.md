@@ -129,3 +129,14 @@ Originally fetched from: https://docs.github.com/en/authentication/connecting-to
 ```shell
 ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
+
+## Dropship ssh key into authorized_keys
+
+```
+cat ~/.ssh/id_ed25519.pub | ssh USER@HOST "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys && chmod 600 ~/.ssh/authorized_keys"
+```
+
+shorter form if you're sure that authorized_keys exists and has correct permissions:
+```
+cat ~/.ssh/id_ed25519.pub | ssh USER@HOST "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys
+```
