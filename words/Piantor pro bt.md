@@ -4,3 +4,5 @@ This is how it looks like, surrounded by the mighty Moonlander:
 ![](../media/IMG_20260203_213316677%20(1).jpg)
 
 I did do a minor fuckup: While setting up my piantor pro keyboard I kinda trolled by removing the key for the number layer right before I went out, which was a real doozy because that layer has the studio unlock key. As a result, I had to reflash the reset settings firmware on both halves, then a fresh default config.
+
+For my configs I mostly used ZMK Config on a Mac, but I'd like to make more use of things like https://nickcoutsos.github.io/keymap-editor/
