@@ -1,4 +1,4 @@
-This is in relation to the [Peugeot unknown carbolite 103](Peugeot%20unknown%20carbolite%20103.md) that I got.
+This is in relation to the [Peugeot PH10S](Peugeot%20PH10S.md) that I got.
 
 * https://www.pinterest.com/peterclevy/nice-bike-design/
 * https://www.unlimitedwebshop.nl/en_GB/c-3486329/koga-miyata/
@@ -6,7 +6,9 @@ This is in relation to the [Peugeot unknown carbolite 103](Peugeot%20unknown%20c
 * https://www.pinterest.com/pin/standert-triebwerk-disc-modern-steel-road-bike--25614291625163118/
 
 #### Overall thoughts
-I like sharp lines, and clear colors. I wouldn't want a fade, most of them suck. I have to consider my bike's thin tubes, and lack of clear dividing lines across them.
+I like sharp lines, and clear colors. I wouldn't want a fade, most of them suck. I have to consider my bike's thin tubes, and lack of clear dividing lines across them. I like matte styling. 
+
+Perhaps something using white and orange as primary colours?
 
 I need to pick the symbol that I want to go for?
 
