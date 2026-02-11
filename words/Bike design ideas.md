@@ -1,4 +1,4 @@
-This is in relation to the [Peugeot PH10S](Peugeot%20PH10S.md) that I got.
+This is in relation to the [Peugeot PH10S 1981](Peugeot%20PH10S%201981.md) that I got.
 
 * https://www.pinterest.com/peterclevy/nice-bike-design/
 * https://www.unlimitedwebshop.nl/en_GB/c-3486329/koga-miyata/

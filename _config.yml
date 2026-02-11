@@ -18,5 +18,6 @@ minima:
     - { platform: twitter,  user_url: "https://hachyderm.io/@alkoclick" }
 header_pages:
   - me.md
+  - now.md
   - blog.md
   - compensation.md
