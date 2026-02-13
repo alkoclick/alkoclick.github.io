@@ -1,3 +1,3 @@
 I'm currently on a burnout leave from my last employer, Miro. I'm slowly rediscovering what is fun about our field playing with [My android setup](words/My%20android%20setup.md), and also that [I am an AI hater](words/I%20am%20an%20AI%20hater.md). I've gotten really into [[Bike Maintenance]], and I'm working on this [Peugeot PH10S 1981](words/Peugeot%20PH10S%201981.md). I'm in a pretty introspective period, and I don't quite know what comes next for me: Maybe it's some coop/startup work on a problem I care about, maybe it's an extended break, maybe it's spending some time woodworking with my dad. 
 
-P.S. This "now page" is inspired by https://nownownow.com/about
+P.S. This "now page" is inspired by [nownownow.com](https://nownownow.com/about). 
