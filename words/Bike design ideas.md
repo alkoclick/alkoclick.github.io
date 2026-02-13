@@ -10,6 +10,8 @@ I like sharp lines, and clear colors. I wouldn't want a fade, most of them suck.
 
 Perhaps something using white and orange as primary colours?
 
+![](media/Pasted%20image%2020260213023501.png)
+
 I need to pick the symbol that I want to go for?
 
 ![](attachments/1764899727603.jpeg)

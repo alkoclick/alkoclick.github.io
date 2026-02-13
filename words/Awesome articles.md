@@ -15,3 +15,4 @@ https://henry.codes/writing/a-website-to-destroy-all-websites/
 
 https://www.cisotradecraft.com/bitns
 
+https://cabel.com/wes-cook-and-the-mcdonalds-mural/
