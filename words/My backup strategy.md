@@ -3,26 +3,28 @@ I try to follow a [3-2-1 principle](https://www.backblaze.com/blog/the-3-2-1-bac
 * in at least 2 devices
 * 1 of which is off-site (a different location)
 
-I also place more importance on raw "source data" than the databases and metadata that tools build around them. So I'd much rather make sure that my music catalogue is preserved well, than my Jellyfin installation as a whole. But ideally you'd like both to be recoverable.
+I also tend to place more importance on raw "source data" than the databases and metadata that tools build around them. So I'd much rather make sure that my music catalogue is preserved well, than my Jellyfin installation as a whole. But ideally you'd like both to be recoverable.
 
 ## Paperless
-You may also wanna check out my [Paperless backup  restoration guide](Paperless%20backup%20%20restoration%20guide.md).
+You may also wanna check out my [Paperless backup restoration guide](Paperless%20backup%20restoration%20guide.md).
 #### Documents
 * Syncthing to desktop
-* Backrest to store encrypted in my local S3 (garage), every 4 hours
+* Backrest to store encrypted in my local S3 (garage, Cal), every 4 hours
 #### Database
-* Backrest to store encrypted in my local S3 (garage), every 4 hours
+* Backrest to store encrypted in my local S3 (garage, Cal), every 4 hours
 
 ## Immich
 #### Media
-
+Backrest nightly backups
+Syncthing to the desktop (should probably get removed)
 #### Database
-
+Every 6 hours via immich cron, included in the backrest backups 
 
 ## Jellyfin
 
 #### Music
 Syncthing to my Nothing phone
+Backrest to store encrypted in my local S3 (garage, Meg)
 #### Videos
 Not backed up (except perhaps my own work)
 #### Books
