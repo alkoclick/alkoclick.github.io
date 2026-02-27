@@ -10,7 +10,8 @@ One important note: Immich caches stuff in your browser a lot! This can mess up 
 Okay, let's say you wanna bring back something you destroyed accidentally. To do that, first you need to figure out what its filename was, and where it was stored. If you're on default settings (no storage template) this is basically undoable, because your assets are all in paths like
 `/IMMICH_BASE/upload/07/42/filename.extension` which is a hashed path and impossible to unwind.
 
-So first you need to activate [the storage engine](https://docs.immich.app/administration/storage-template). Do that, generate some backups over the next few days, and then we talk again. I use this template `{{y}}/{{MM}}/{{dd}}/{{filename}}`
+So first you need to activate [the storage engine](https://docs.immich.app/administration/storage-template). Do that, generate some backups over the next few days, and then we talk again. I use the template `{{y}}/{{MM}}/{{dd}}/{{filename}}`
+(If it doesn't display properly on the web version due to Jekyll interpolation, that's basically y/m/d/filenamr)
 
 ## Restoring a single file - deleted from filesystem
 Great, so let's take it from the top again, shall we?
