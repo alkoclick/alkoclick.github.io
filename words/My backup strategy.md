@@ -1,10 +1,12 @@
+I am writing this document for myself, as well as anyone else that's interested in taking a stab at backing up their homelab tools.
+
 I try to follow a [3-2-1 principle](https://www.backblaze.com/blog/the-3-2-1-backup-strategy/):
 * 3 backups
 * in at least 2 devices
 * 1 of which is off-site (a different location)
 
 ## Backrest
-[Backrest](https://garethgeorge.github.io/backrest/) is at the heart of my backup strategies as it is the backup service itself. Besides its simple and powerful UI, it has support for hooks to run before and after snapshots, which is extremely useful. I've given it access to the docker socket, so it can stop a container before taking a snapshot and resume it afterwards. Other than the configurations for the plans and repositories, it also holds the encryption key for the fails, without which backups are unrecoverable. Additionally, it lives in the same drive as many of the apps above, meaning it would be exposed to many of the same risks. For this reason, I back up the Json config to a password manager, as [they themselves recommend](https://garethgeorge.github.io/backrest/introduction/getting-started).
+[Backrest](https://garethgeorge.github.io/backrest/) is at the heart of my backup strategies as it is the backup service itself. Besides its simple and powerful UI, it has support for hooks to run before and after snapshots, which is extremely useful. I've given it access to the docker socket, so it can stop a container before taking a snapshot and resume it afterwards. Other than the configurations for the plans and repositories, it also holds the encryption key for the fails, without which backups are unrecoverable. Additionally, it lives in the same drive as many of the apps above, meaning it would be exposed to many of the same risks. For this reason, I back up the Json config to a password manager, as [they themselves recommend](https://garethgeorge.github.io/backrest/introduction/getting-started), as well as a local copy.
 
 ## Paperless
 You may also wanna check out my [Paperless backup restoration guide](Paperless%20backup%20restoration%20guide.md).
@@ -38,4 +40,4 @@ My movie collection rotates often, so it is not backed up. I do however keep my 
 * Backrest nightly backup. Includes a backrest hook to stop the container before the startup and start it again after.
 
 ## Torrents
-I haven't yet decided if I want to back this up or not
+I do not back up my torrenting config - if he dies he dies, as they say

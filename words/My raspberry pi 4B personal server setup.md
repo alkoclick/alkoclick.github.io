@@ -28,12 +28,10 @@ I use dozzle to check logs for any of my containers, and a quick overview of mem
 
 I use Tailscale to enable access to all of these remotely. I run one pod per service (sidecar pattern)
 
-<<<<<<< Updated upstream
-=======
 I use Immich for a photo and video collection
 
->>>>>>> Stashed changes
 Stuff I run into while setting this up:
 * [Fix for no memory info in docker](Fix%20for%20no%20memory%20info%20in%20docker.md)
 * [Impressions on Linux torrenting clients](Impressions%20on%20Linux%20torrenting%20clients.md)
+* [raspi-firmware missing boot firmware did you forget to mount it](raspi-firmware%20missing%20boot%20firmware%20did%20you%20forget%20to%20mount%20it.md)
 
