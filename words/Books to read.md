@@ -6,9 +6,10 @@ These are some books I want to read.
 * Atlas Shrugged
 * Plato's Symposium
 
-Tech:
+## Tech
 * [Observability Engineering: Achieving Production Excellence](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
-* Kybernetes
+* Cybernetics
+* That Shannon book about information theory, but popularized version
 * Thinking in Systems - Donella Meadows
 * Container Security by Liz Rice
 * https://crisisengineering.layeraleph.com/crisis-engineering-the-book/
@@ -19,12 +20,18 @@ Tech:
 * A walk around the block
 * https://chokepointcapitalism.com/
 * Awakening from the meaning crisis
-* Scott McLoud - The sculptor
-* Owen D Pomery - Anything
-<<<<<<< Updated upstream
-* The Structure of Scientific Revolution
-=======
 * The Structure of Scientific Revolution
 * a city on mars
 * Zen and the art of motorcycle maintenance
->>>>>>> Stashed changes
+
+## Comics
+* Scott McLoud - The sculptor
+* Owen D Pomery - Anything
+* Marvel 1602
+* Black Hole
+* Ghost World
+* Fun Home: A Family Tragicomic
+* Death: The High Cost of Living
+* I kill Giants
+* The Gunslinger Born
+* The victory motel

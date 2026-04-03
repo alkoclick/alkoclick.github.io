@@ -12,3 +12,8 @@ EU alternatives for services
 https://app.greenweb.org/directory/
 Green hosting providers
 
+https://resilienceinsoftware.org/
+Different ways of approaching resilience
+
+https://solar.lowtechmagazine.com/
+Tech, ecology and a bit of solarpunk

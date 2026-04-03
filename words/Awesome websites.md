@@ -17,4 +17,12 @@ This page is part of the [Awesomeness cycle](Awesomeness%20cycle.md), where I cu
 * http://bettermotherfuckingwebsite.com
 * https://henry.codes
 * https://catalincodes.com
+* https://emerickbosch.com/
 
+## Alt and Small Web
+* https://wiby.me/
+* https://theforest.link/
+* https://internetphonebook.net/
+* https://portal.mozz.us/
+* https://web1.0hosting.net/
+* https://www.are.na/

@@ -11,8 +11,7 @@
 * Battle Royale
 * Climax
 * Blue Velvet
-* Στρέλλα
-* 
+* Only lovers left alive
 
 #### Series
 Chernobyl

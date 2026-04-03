@@ -16,3 +16,8 @@ https://henry.codes/writing/a-website-to-destroy-all-websites/
 https://www.cisotradecraft.com/bitns
 
 https://cabel.com/wes-cook-and-the-mcdonalds-mural/
+
+https://newdesigncongress.org/en/pub/who-will-remember-us-when-the-servers-go-dark/
+
+https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf
+
