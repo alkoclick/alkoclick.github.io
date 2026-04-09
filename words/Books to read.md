@@ -8,10 +8,10 @@ These are some books I want to read.
 
 ## Tech
 * [Observability Engineering: Achieving Production Excellence](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
-* Cybernetics
 * That Shannon book about information theory, but popularized version
 * Thinking in Systems - Donella Meadows
 * Container Security by Liz Rice
+* Careless People
 * https://crisisengineering.layeraleph.com/crisis-engineering-the-book/
 
 ## Other
