@@ -13,7 +13,7 @@ After my work:
 ## Bike components
 
 Frame number seems to be: H970614. See this extremely blurry [pic](media/IMG_20250830_203801066.jpg).
-The bike originally sported mostly Ultegras acroos the board, but I fitted it with some aftermarket Dura Aces that I got on marktplaats.
+The bike originally sported mostly Ultegras across the board, but I fitted it with some aftermarket Dura Aces that I got on marktplaats.
 
 * Frame size is 56 cm
 * Wheels are unknown shimano ultegra
