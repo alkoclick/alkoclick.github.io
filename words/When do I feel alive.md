@@ -17,6 +17,12 @@ Tell about it.”
 
 Mary Oliver clearly prioritized the presence part, rather than possibility. Far be it from me to disagree with her, but is that all there is? Would a prisoner find as much attention and astonishment as a free person? 
 
+## In culture
+
+DayTripper
+
+https://www.youtube.com/watch?v=n1a7o44WxNo
+
 ## Is life the opposite of death?
 One could see life as the opposite of death. Death means permanence, absence of possibility, absence of emotion and sense, cold, past. In that vein, life would be dynamic, full of potential, emotional and sensual, warm, current and future. 
 

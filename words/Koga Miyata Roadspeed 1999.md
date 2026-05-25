@@ -16,6 +16,7 @@ Frame number seems to be: H970614. See this extremely blurry [pic](media/IMG_202
 The bike originally sported mostly Ultegras across the board, but I fitted it with some aftermarket Dura Aces that I got on marktplaats.
 
 * Frame size is 56 cm
+* Weight is 11.5 with accessories
 * Wheels are unknown shimano ultegra
 * Front tire is Continental Grand Prix 25-622 bought from Marktplaats on 2025-09
 * Front inner tube: Schwalbe SV 15 ultralight
@@ -73,3 +74,6 @@ The bike store guy also recommended getting rid of the smaller front gear altoge
 Finished wrapping the bars and installing small accessories. Bike looks pretty legit! Did an exploratory ride to Bos, overall great and I loved the shifting smoothness. I felt like there was maybe some small noise coming from the front wheel, seemed to sometimes match the bike speed in frequency, but I couldn't reproduce it when still. Maybe related to some tension in a spoke? I also sometimes have a bit of creaking from the wheel, might wanna tighten some things. 
 
 ![](media/IMG_20251212_193449239.jpg)
+
+#### 2026-05-07
+Did some tightening on the pedal screws, slight adjustments on brake pads, and trued the wheels front and back. Not sure if perfect, but they are aligned to at least something

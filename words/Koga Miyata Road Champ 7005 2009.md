@@ -18,8 +18,9 @@ You can read the specs [here](https://www.yobicycle.com/commuter/koga-miyata-roa
 * Lightweight aluminium 7005 frame
 * Carbon/chromo front fork
 	* Unsure which of the two this is still, but I think it's the carbon one
+* Weight is 10.7kg with minimal accessories
 * Complete Shimano Tiagra flat handlebar race groupset
-* Fi’zi:k Rondine saddle
+* Canondale saddle (formerly Fi’zi:k Rondine)
 * Multi purpose pedal: SPD side and platform side
 	* Basically one side normal, one side clickers
 * Vredestein Fortezza tires, 25mm

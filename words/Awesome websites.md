@@ -2,6 +2,7 @@ This page is part of the [Awesomeness cycle](Awesomeness%20cycle.md), where I cu
 
 ## Practical
 * https://it-tools.tech
+* https://delphi.tools/
 * https://pairdrop.net
 * https://stirlingpdf.blablalinux.be
 

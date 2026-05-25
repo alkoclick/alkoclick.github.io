@@ -30,7 +30,6 @@ These are some books I want to read.
 * Scott McLoud - The sculptor
 * Owen D Pomery - Anything
 * Marvel 1602
-* Black Hole
 * Ghost World
 * Fun Home: A Family Tragicomic
 * Death: The High Cost of Living
