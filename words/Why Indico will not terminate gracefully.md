@@ -89,7 +89,7 @@ lifecycle:
 		command: ["kill","14", "15", "16"]
 ```
 
-![](../media/Pasted%20image%2020260525113642.jpg)
+![Pasted image 20260525113001](../media/Pasted%20image%2020260525113001.jpg)
 
 
 This will send a SIGTERM to the UWSGI main process which in my tests always lands in those PIDs. This is ridiculously fragile, kinda stupid and meant as an extremely low effort patch whose trashiness should motivate you to switch it out ASAP. I have nevertheless looked the devil in the eye, tested this and it successfully cleanly exits uwsgi within about 3 seconds. 
