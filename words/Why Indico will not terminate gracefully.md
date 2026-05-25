@@ -1,5 +1,4 @@
-## Intro
-There is a pattern for poorly cloud-nativized apps: You try to stop them in Kubernetes, they do nothing for 30 seconds, then abruptly terminate. Indico follows this pattern too, and it's a problem, as it adds 30 seconds of overhead to any operation, making it quite likely that your users (and your automated checks) will experience this impact. Why does this happen and how can we fix it? 
+There is a pattern for apps that were never designed to be cloud native: You try to stop them in Kubernetes, they do nothing for 30 seconds, then abruptly terminate. Indico follows this pattern too, and it's a problem, as it adds 30 seconds of overhead to any operation, making it quite likely that your users (and your automated checks) will experience this impact. Why does this happen and how can we fix it? 
 
 Follow me as we peer into the abyss:
 ![](../media/Pasted%20image%2020260525110855.jpg)
