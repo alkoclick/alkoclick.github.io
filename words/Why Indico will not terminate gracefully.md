@@ -36,7 +36,8 @@ So the call stack so far looks like this:
 
 The docker entrypoint execs to pass control over to the run_indico script so it's actually completely out of the picture. Indeed, if we `ps -aux` we can see this in practice:
 ```
-USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND                                                             indico         1  0.0  0.0   4496   372 ?        Ss   May22   0:00 /bin/bash /opt/indico/run_indico.sh
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND                                                             
+indico         1  0.0  0.0   4496   372 ?        Ss   May22   0:00 /bin/bash /opt/indico/run_indico.sh
 ```
 
 *Okay, and it then calls uwsgi so then uwsgi must be failing to interpret SIGTERMs somehow right?* 
@@ -89,10 +90,11 @@ lifecycle:
 		command: ["kill","14", "15", "16"]
 ```
 
-![](../media/Pasted%20image%2020260525113001.jpg)
+![](../media/Pasted%20image%2020260525113642.jpg)
+
 
 This will send a SIGTERM to the UWSGI main process which in my tests always lands in those PIDs. This is ridiculously fragile, kinda stupid and meant as an extremely low effort patch whose trashiness should motivate you to switch it out ASAP. I have nevertheless looked the devil in the eye, tested this and it successfully cleanly exits uwsgi within about 3 seconds. 
 
 But a curious reader might say: *Hey Alex, this is a kill with no arguments... it's passing a SIGTERM. HOW DOES THAT WORK?* 
 
-Dear curious reader, I'm still figuring that out.
+Dear curious reader, I'm still figuring that out. But I suspect that the SIGTERM behaviour is now in uwsgi mainline. 
