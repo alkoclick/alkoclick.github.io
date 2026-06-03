@@ -96,4 +96,8 @@ This will send a SIGTERM to the UWSGI main process which in my tests always land
 
 But a curious reader might say: *Hey Alex, this is a kill with no arguments... it's passing a SIGTERM. HOW DOES THAT WORK?* 
 
-Dear curious reader, I'm still figuring that out. But I suspect that the SIGTERM behaviour is now in uwsgi mainline. 
+Dear curious reader, I'm still figuring that out. But I suspect that the SIGTERM behaviour is now in uwsgi mainline?
+
+#### Actually doing the thing
+
+Here's my PR addressing the above: [https://github.com/indico/indico-containers/pull/94](https://github.com/indico/indico-containers/pull/94)

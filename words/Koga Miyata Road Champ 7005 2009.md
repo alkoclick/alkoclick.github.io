@@ -55,3 +55,6 @@ I set up the bike repair stand and examined the bike closely. The chain seems to
 The bike computer has moved to the [Koga Miyata Roadspeed 1999](Koga%20Miyata%20Roadspeed%201999.md) some time ago. I removed the handlebar grips and added tape instead.
 
 ![](attachments/IMG_20251127_160442992.jpg)
+
+#### 2026-06-01
+My friend has a fall with this bike. Steering wheel is misaligned, fenders are bent and damaged. 
