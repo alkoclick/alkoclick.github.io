@@ -1,5 +1,5 @@
-May, 2026
+June, 2026
 
-As of July, I will no longer be with my last employer, Miro. I'm slowly rediscovering what is fun about our field playing with [My android setup](words/My%20android%20setup.md), and also that [I am an AI hater](I%20am%20an%20AI%20hater.md). I've gotten really into [[Bike Maintenance]], and I'm working on this [Peugeot PH10S 1981](Peugeot%20PH10S%201981.md). I clocked 500km of cycling in March! I'm in a pretty introspective period, and I don't quite know what comes next for me: Maybe it's some coop/startup work on a problem I care about, maybe it's an extended break, maybe it's spending some time woodworking with my dad. 
+As of July, I will no longer be with my last employer, Miro. I'm slowly rediscovering what is fun about our field playing with [My android setup](words/My%20android%20setup.md), and also that [I am an AI hater](I%20am%20an%20AI%20hater.md). I've gotten really into [[Bike Maintenance]], and I'm working on this [Peugeot PH10S 1981](Peugeot%20PH10S%201981.md). I clocked 500km of cycling in March! Life feels good right now as my energy is returning and I feel more social than any time in my recent past. However, I am noticing that extroversion coming off as almost a necessity - I need to be with people and it makes me feel good, which is quite opposite to how my life previously was. Onwards to my sabbatical!
 
 P.S. This "now page" is inspired by [nownownow.com](https://nownownow.com/about). 
