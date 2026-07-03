@@ -18,7 +18,7 @@ You can read the specs [here](https://www.yobicycle.com/commuter/koga-miyata-roa
 * Lightweight aluminium 7005 frame
 * Carbon/chromo front fork
 	* Unsure which of the two this is still, but I think it's the carbon one
-* Weight is 10.7kg with minimal accessories
+* Weight is 10.2kg with minimal accessories
 * Complete Shimano Tiagra flat handlebar race groupset
 * Canondale saddle (formerly Fi’zi:k Rondine)
 * Multi purpose pedal: SPD side and platform side
@@ -58,3 +58,6 @@ The bike computer has moved to the [Koga Miyata Roadspeed 1999](Koga%20Miyata%20
 
 #### 2026-06-01
 My friend has a fall with this bike. Steering wheel is misaligned, fenders are bent and damaged. 
+
+#### 2026-06-18
+The fenders are removed and trashed, did some cleaning in the (very dirty) back derraileur cogs, straightened the steering wheel. I have also trued the front wheel. 
