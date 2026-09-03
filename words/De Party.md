@@ -1,6 +1,6 @@
 ## Welcome to DE PARTY!!!!!1!!
 
-![](../../attachments/Pasted%20image%2020260903123959.png)
+![](media/Pasted%20image%2020260903123959.png)
 ## The Basics, Bestie
 
 **When?** Saturday, Oct 31, 2026
