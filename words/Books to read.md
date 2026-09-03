@@ -23,8 +23,9 @@ These are some books I want to read.
 * The Structure of Scientific Revolution
 * a city on mars
 * Zen and the art of motorcycle maintenance
-* Cat's Cradle
 * D - Neal Stephenson
+* Nonviolent communication
+* The Kangaroo Chronicles
 
 ## Comics
 * Scott McLoud - The sculptor

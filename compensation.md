@@ -52,3 +52,5 @@ Promoted at Miro: 136000 EUR + various benefits packages, in total around 140000
 ## 2025
 Small inflation adjustment at Miro: 141000 EUR + various benefits packages, in total around 145000.
 
+## 2026
+Sold some RSUs for 20K, 6 months of Miro paycheck due to burnout leave + 6 months compensation when departing, 141000 EUR. Then unemployment for 6 months, 27K

@@ -1,6 +1,6 @@
 My friend P asked me what my "favourite media" of all time was. Here's my current thought of an answer:
 
-Article: https://henry.codes/writing/a-website-to-destroy-all-websites/
+Article: [A website to destroy all websites](https://henry.codes/writing/a-website-to-destroy-all-websites/)
 See [Awesome articles](alkoclick/words/Awesome%20articles.md)
 
 Book: Fictions, Jorge Luis Borges
@@ -19,5 +19,5 @@ Music Album: Electra Heart / Don't Wait Till Tomorrow
 
 Series: Love, Death and Robots S1
 
-Website: https://neal.fun/
+Website: [neal.fun](https://neal.fun/)
 See [Awesome websites](alkoclick/words/Awesome%20websites.md)

@@ -12,6 +12,7 @@
 * Climax
 * Blue Velvet
 * Only lovers left alive
+* The Return (2024)
 
 #### Series
 Chernobyl

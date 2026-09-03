@@ -1,5 +1,5 @@
-July, 2026
+September, 2026
 
-As of July, I am no longer be with my last employer, Miro. I'm slowly rediscovering what is fun about our field playing with [My android setup](My%20android%20setup.md), and also that [I am an AI hater](I%20am%20an%20AI%20hater.md). I'm enjoying working out both outdoors and in the gym. Life feels good right now as my energy is returning and I feel more social than any time in my recent past. However, I am noticing that extroversion coming off as almost a necessity - I need to be with people and it makes me feel good, which is quite opposite to how my life previously was. I also got an ADHD diagnosis! I read in a friend's profile that they "live life in full colour" and it feels like I'm currently living it in full volume.
+As of July, I am no longer with my last employer, Miro and my sabbatical has begun. I'm walking the Camino de Santiago soon! I'm having tons of fun doing infra stuff on my tablet (see [My android setup](My%20android%20setup.md)), and also [I am an AI hater](I%20am%20an%20AI%20hater.md) who writes code by hand. 
 
 P.S. This "now page" is inspired by [nownownow.com](https://nownownow.com/about). 
