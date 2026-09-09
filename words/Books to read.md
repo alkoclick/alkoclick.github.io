@@ -21,7 +21,7 @@ These are some books I want to read.
 * https://chokepointcapitalism.com/
 * Awakening from the meaning crisis
 * The Structure of Scientific Revolution
-* a city on mars
+* A city on mars
 * Zen and the art of motorcycle maintenance
 * D - Neal Stephenson
 * Nonviolent communication
@@ -32,8 +32,8 @@ These are some books I want to read.
 * Owen D Pomery - Anything
 * Marvel 1602
 * Ghost World
-* Fun Home: A Family Tragicomic
 * Death: The High Cost of Living
 * I kill Giants
 * The Gunslinger Born
 * The victory motel
+* [My Little Saigon](https://nayth.art/shop/my-little-saigon-graphic-novel/)

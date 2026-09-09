@@ -15,31 +15,33 @@
 
 PS:
 * BYOB, we'll have stock but help us out
-* It's Halloween so dressing up is strongly encouraged <3
+* It's Halloween so dressing up in dark gothic is kinda mandatory <3
+* SPIDER COSPLAY IS NOT ALLOWED!!!!!! SPIDER PRANKS ALSO!!!
 
 ## Okay but is it WICKED?
 
-We're gonna have a tame and a wild side to the party! Vanilla is the default, downstairs. If you'd like to get to the upstairs to the Choco side, you need to pass an outfit check: Think club, glam, slutty, fetishwear, basically anything that you look and feel hot and special in!
+We're gonna have two sides to the party! Dark is the default, downstairs. If you'd like to get to the upstairs to the Darker side, you need to pass an outfit check: Think dark club, dark glam, dark slutty, dark fetishwear, basically anything that you look and feel hot and special in! (but dark)
 
-Ofc you can also bring your things or ideas, and we'd love to have them!
+Ofc you can also bring your things or ideas, and we'd love to have them! (but dark)
 
-### Vanilla side
+### Dark side
 What they will be up to:
 * Lots of good food
 * Chatting with great people
 * Live music
 * Dancing
-* Rock-Paper-Scissors tournament
+* Potion making (cocktails bestie)
 * Tarot readings
-* A naming ceremony for ...?
+* Writing on the toilet walls
+* Confession booth
+* +whatever else we come up with between now and then
 
-### Choco side
+### Darker side
 What they will be up to:
 * Truth or Dare
-* Shibari demo?
+* Shibari demo if we can get our person to show up
 * Storytelling
-* Dark room?
 * Dancing
 * Tarot readings (but sexier)
 * Shooting a videoclip
-* +popping into the vanilla side as well, we're not locked in there!
+* +popping into the dark side as well, we're not locked in there!
