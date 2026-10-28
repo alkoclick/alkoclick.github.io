@@ -13,6 +13,9 @@
 * Blue Velvet
 * Only lovers left alive
 * The Return (2024)
+* Last action hero
+* Il conformista
+* Sex, ? at camp miasma
 
 #### Series
 Chernobyl

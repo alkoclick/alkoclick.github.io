@@ -45,3 +45,23 @@ What they will be up to:
 * Tarot readings (but sexier)
 * Shooting a videoclip
 * +popping into the dark side as well, we're not locked in there!
+
+
+## Schedules
+
+### Living Dead Room
+Open from 8 on
+
+8: Cocktails and backstabbing
+9: Music by your frenemies
+
+### Chill zone
+Open from 8 on. Here you will find chill vibes, gossip, and romantasy lovers.
+
+### Forbidden upstairs
+Open from 10 onwards!
+
+10:15 Outfit lore and appreciation
+10:30 THE RITUAL
+? Spooky sexy story sharing
+? Truth or dare

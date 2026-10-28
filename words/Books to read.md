@@ -26,6 +26,20 @@ These are some books I want to read.
 * D - Neal Stephenson
 * Nonviolent communication
 * The Kangaroo Chronicles
+* The artist's way
+* City of Glass
+* The stranger/outsider?
+* The myth of sisyphus
+
+## Classics
+* Beowulf (maybe the Tolkien version?)
+* La Chanson de Roland
+* El Cantar de Miro Cid
+* The importance of bring earnest
+* The picture of Dorian Gray
+* Cormack McCarthy the road
+* The grapes of wrath
+* The catcher in the rye
 
 ## Comics
 * Scott McLoud - The sculptor

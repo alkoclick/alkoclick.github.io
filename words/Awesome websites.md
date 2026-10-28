@@ -5,6 +5,7 @@ This page is part of the [Awesomeness cycle](Awesomeness%20cycle.md), where I cu
 * https://delphi.tools/
 * https://pairdrop.net
 * https://stirlingpdf.blablalinux.be
+* https://bigwords.page/
 
 ## Social
 * hachyderm.io
@@ -27,3 +28,4 @@ This page is part of the [Awesomeness cycle](Awesomeness%20cycle.md), where I cu
 * https://portal.mozz.us/
 * https://web1.0hosting.net/
 * https://www.are.na/
+* https://dns.museum/
