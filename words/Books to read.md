@@ -13,31 +13,20 @@ These are some books I want to read.
 * https://crisisengineering.layeraleph.com/crisis-engineering-the-book/
 
 ## Other
-* Antifragility
 * Smashing the stack for fun and profit
 * A walk around the block
 * https://chokepointcapitalism.com/
-* Awakening from the meaning crisis
 * The Structure of Scientific Revolution
 * A city on mars
-* Zen and the art of motorcycle maintenance
 * D - Neal Stephenson
-* Nonviolent communication
 * The Kangaroo Chronicles
 * The artist's way
-* City of Glass
-* The stranger/outsider?
-* The myth of sisyphus
 * On Bullshit
 
 ## Classics
 * Beowulf (maybe the Tolkien version?)
 * La Chanson de Roland
 * El Cantar de Mio Cid
-* The picture of Dorian Gray
-* Cormack McCarthy the road
-* The grapes of wrath
-* The catcher in the rye
 * Gogol - anything
 
 ## Comics
