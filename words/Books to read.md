@@ -1,8 +1,6 @@
 These are some books I want to read.
 
 ## Political philosophy(ish)
-* Karl Marx: Das Kapital 
-* Adam Smith: Whatever it's called
 * Atlas Shrugged
 * Plato's Symposium
 
@@ -30,16 +28,17 @@ These are some books I want to read.
 * City of Glass
 * The stranger/outsider?
 * The myth of sisyphus
+* On Bullshit
 
 ## Classics
 * Beowulf (maybe the Tolkien version?)
 * La Chanson de Roland
-* El Cantar de Miro Cid
-* The importance of bring earnest
+* El Cantar de Mio Cid
 * The picture of Dorian Gray
 * Cormack McCarthy the road
 * The grapes of wrath
 * The catcher in the rye
+* Gogol - anything
 
 ## Comics
 * Scott McLoud - The sculptor

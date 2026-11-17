@@ -9,7 +9,7 @@ Frame number:
 * KG0913582 (Sticker)
 * H8CB02298 (Engraved)
 
-I bought from the old owner of my house, for 400€. Seems to be a bit overpaid, especially with the condition of some components, but such is life.  It's not too too far from a [fair price](https://retrobikerotterdam.com/products/koga-miyata-road-champ-60cm).
+I bought from the old owner of my house, for 400€. Seems to be a bit overpaid, especially with the condition of some components, but such is life.  It's not too too far from a [fair price](https://retrobikerotterdam.com/products/koga-miyata-road-champ-60cm). It was stolen while on a loan to Eirini between 21/10 and 29/10. I filed a police report with the code PL1300-261029-080290724. 
 
 Bike frame size is 54. It's probably a tad small for me. See [My bike dimensions](My%20bike%20dimensions.md).
 
@@ -39,9 +39,7 @@ You can read the specs [here](https://www.yobicycle.com/commuter/koga-miyata-roa
 * color: High-tech grey
 
 Some additional hardware currently mounted:
-* [Sigma BC 7.16 bike computer](Sigma%20BC%207.16%20bike%20computer.md)
 * Front/back reflectors
-* Front pouch, unidentified brand
 
 ## Service history:
 

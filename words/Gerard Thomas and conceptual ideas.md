@@ -23,4 +23,4 @@ It's reminiscent to me of this Picasso work where he deconstructs a bull down to
 
 This did get me thinking of whether we can apply a similar technique to a program or piece of software. I could come up with some examples of hardware devices, or corporate branded operating systems, but that just showed me that it's a visual concept that we abstract down to a simpler visual concept. Obviously, I cannot abstract Bethoven's 5th down to a series of black lines on white paper... can I? [Ideas are uniquely expressed in mediums](Ideas%20are%20uniquely%20expressed%20in%20mediums.md) comes to mind. 
 
-In that case, code is text. So I should be able to abstract text down to other text, right?
+In that case, code is text. So I should be able to abstract text down to other text, right? My attempts to do precisely that are in [Abstract tech art](Abstract%20tech%20art.md)

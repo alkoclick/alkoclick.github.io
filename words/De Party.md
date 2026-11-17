@@ -3,7 +3,7 @@
 ![](media/Pasted%20image%2020260903123959.png)
 ## The Basics, Bestie
 
-**When?** Saturday, Oct 31, 2026
+**When?** Saturday, Oct 31, 2026 (Yep, it happened already)
 
 **Where?** Alex & Ines's place, address in the chat
 
@@ -50,18 +50,22 @@ What they will be up to:
 ## Schedules
 
 ### Living Dead Room
-Open from 8 on
+Open from 8 on. Here you will find sustenance, and the opportunity to spend it on the dance floor
 
 8: Cocktails and backstabbing
+
 9: Music by your frenemies
 
 ### Chill zone
 Open from 8 on. Here you will find chill vibes, gossip, and romantasy lovers.
 
 ### Forbidden upstairs
-Open from 10 onwards!
+Open from 10 onwards! Here you will find... secrets
 
 10:15 Outfit lore and appreciation
+
 10:30 THE RITUAL
+
 ? Spooky sexy story sharing
+
 ? Truth or dare
